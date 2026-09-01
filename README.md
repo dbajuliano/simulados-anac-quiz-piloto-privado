@@ -9,7 +9,7 @@ https://dbajuliano.github.io/simulados-anac-quiz-piloto-privado/
 - 30 minutos por seção
 - Correção imediata
 - Pontuação e tempo ao final
-   Material antigo (décadas) pode estar desatualizado
+- Material antigo (décadas) pode estar desatualizado
 
 ## Teoria de Voo
 - 151 questões extraídas do PDF fornecido
