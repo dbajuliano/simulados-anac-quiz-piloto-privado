@@ -2,17 +2,21 @@
 
 Quiz de questões aleatórias garimpadas da internet para Piloto Privado ANAC.
 
-Site estático para GitHub Pages.
+## Acesso
+https://dbajuliano.github.io/simulados-anac-quiz-piloto-privado/
 
 ## Conteúdo inicial
-- Teoria de Voo
-- 151 questões extraídas do PDF fornecido
-- 8 seções: 20 questões por seção, com 11 na última
 - 30 minutos por seção
 - Correção imediata
 - Pontuação e tempo ao final
 
-## Acessar no GitHub Pages
-https://dbajuliano.github.io/simulados-anac-quiz-piloto-privado/
+## Disciplinas
+- Teoria de Voo
+- 151 questões extraídas do PDF fornecido
+- 8 seções: 20 questões por seção, com 11 na última
+- Material antigo de decádas pode estar desatualizado 
 
-O site usa apenas HTML, CSS, JavaScript e JSON; não há banco de dados.
+## Sobre
+Site estático para GitHub Pages.
+Tecnologia: HTML, CSS, JavaScript e JSON; não há banco de dados.
+Feito por IA usando ChatGPT.
