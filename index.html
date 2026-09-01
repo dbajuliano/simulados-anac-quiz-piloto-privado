@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Simulados de Aviação</title><link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header><div class="brand">Simulados de Aviação</div></header>
+<main>
+<section id="home">
+  <div class="hero"><span>ESTUDO</span><h1>Escolha a matéria</h1><p>Simulados com cronômetro, correção imediata e pontuação final.</p></div>
+  <div id="subjects" class="cards"></div>
+</section>
+<section id="sets" class="hidden">
+  <button class="back" onclick="goHome()">← Matérias</button>
+  <div class="hero"><span>MATÉRIA</span><h1 id="subjectTitle"></h1><p>30 minutos por seção. Média de 90 segundos por questão.</p></div>
+  <div id="setCards" class="cards"></div>
+</section>
+<section id="quiz" class="hidden">
+  <div class="quizTop"><div><b id="quizName"></b><small id="progress"></small></div><div id="timer">30:00</div></div>
+  <div class="bar"><i id="bar"></i></div>
+  <article>
+    <div class="qnum" id="qnum"></div>
+    <h2 id="question"></h2>
+    <div id="options"></div>
+    <div id="feedback" class="feedback hidden"></div>
+    <button id="next" class="primary hidden">Próxima questão →</button>
+  </article>
+</section>
+<section id="result" class="hidden">
+  <div class="hero center"><span>RESULTADO</span><h1>Simulado concluído</h1></div>
+  <div class="score"><strong id="score"></strong><span id="percent"></span></div>
+  <div class="stats"><div><b id="hits"></b><small>Acertos</small></div><div><b id="errors"></b><small>Erros</small></div><div><b id="used"></b><small>Tempo</small></div></div>
+  <div id="review" class="review"></div>
+  <div class="actions"><button class="primary" onclick="restart()">Refazer simulado</button><button onclick="goHome()">Escolher outra matéria</button></div>
+</section>
+</main>
+<script src="app.js"></script>
+</body></html>
