@@ -1,4 +1,6 @@
-# Simulados de Aviação
+# Simulados ANAC quiz Piloto Privado
+
+Quiz de questões aleatórias garimpadas da internet para Piloto Privado ANAC.
 
 Site estático para GitHub Pages.
 
@@ -10,12 +12,7 @@ Site estático para GitHub Pages.
 - Correção imediata
 - Pontuação e tempo ao final
 
-## Publicar no GitHub Pages
-1. Crie um repositório no GitHub.
-2. Envie todos os arquivos desta pasta mantendo a estrutura.
-3. Vá em Settings → Pages.
-4. Em Source, escolha Deploy from a branch.
-5. Selecione `main` e `/ (root)`.
-6. Salve e aguarde o endereço do GitHub Pages.
+## Acessar no GitHub Pages
+https://dbajuliano.github.io/simulados-anac-quiz-piloto-privado/
 
-O site usa apenas HTML, CSS, JavaScript e JSON; não exige servidor ou banco de dados.
+O site usa apenas HTML, CSS, JavaScript e JSON; não há banco de dados.
