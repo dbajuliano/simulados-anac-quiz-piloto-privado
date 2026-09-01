@@ -1,0 +1,1708 @@
+{
+  "subject": "Conhecimentos Técnicos e Motores",
+  "source": "Simulado-ConhecimentosT.Motores(150Questoes).pdf",
+  "timeLimitSeconds": 1800,
+  "questions": [
+    {
+      "number": 1,
+      "question": "A peça que efetua a explosão dos gases queimados, é o:",
+      "options": {
+        "A": "pistão,",
+        "B": "defletor,",
+        "C": "cilindro,",
+        "D": "tubo de descarga."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 2,
+      "question": "O tipo de fuselagem que é construída SOMENTE com cavernas e revestimento, denomina-se:",
+      "options": {
+        "A": "cantilever,",
+        "B": "monocoque,",
+        "C": "semi-cantilever,",
+        "D": "semi-monocoque."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 3,
+      "question": "O termômetro que utiliza tubo de Bourdon para seu funcionamento mede a temperatura:",
+      "options": {
+        "A": "do ar exterior,",
+        "B": "de óleo do motor,",
+        "C": "da cabeça do cilindro,",
+        "D": "dos gases de escapamento."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 4,
+      "question": "O tubo de venturi comprova:",
+      "options": {
+        "A": "Leis do Equilíbrio,",
+        "B": "Principio de BERNOULLI,",
+        "C": "Principio de ARQUIMEDES,",
+        "D": "Teoria da Ação e Reação."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 5,
+      "question": "Um dos sintomas de formação de gelo no carburador é:",
+      "options": {
+        "A": "diminuição da RPM,",
+        "B": "diminuição da potência requerida,",
+        "C": "aumento repentino da pressão de admissão,",
+        "D": "aumento gradativo da pressão de admissão."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 6,
+      "question": "Os carteres dos motores radiais de aviação são do tipo:",
+      "options": {
+        "A": "seco,",
+        "B": "molhado,",
+        "C": "com respiração forçada,",
+        "D": "metálico em liga de aço."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 7,
+      "question": "Ao sair do radiador a viscosidade do óleo é:",
+      "options": {
+        "A": "maior do que ao entrar,",
+        "B": "menor do que ao entrar,",
+        "C": "igual ao quando entrou,",
+        "D": "indiferente."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 8,
+      "question": "O fechamento da válvula é feito através:",
+      "options": {
+        "A": "de molas,",
+        "B": "das hastes,",
+        "C": "dos balancins,",
+        "D": "do sistema de comando de válvulas."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 9,
+      "question": "Em cada volta completa da hélice, ela percorre uma distância chamada de :",
+      "options": {
+        "A": "recuo,",
+        "B": "curso,",
+        "C": "passo efetivo,",
+        "D": "passo geométrico."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 10,
+      "question": "A potência do motor é selecionada no carburador acionando o/a:",
+      "options": {
+        "A": "borboleta,",
+        "B": "bóia e o estilete,",
+        "C": "injetor,",
+        "D": "válvula reguladora."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 11,
+      "question": "As baterias transformam energia:",
+      "options": {
+        "A": "química em energia elétrica,",
+        "B": "elétrica em energia química,",
+        "C": "mecânica em energia elétrica,",
+        "D": "química em energia mecânica."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 12,
+      "question": "Após determinadas horas de vôo, os motores aeronáuticos mesmo estando em perfeito estado, são retirados para sofrer revisão geral. Este tempo limite é denominado de:",
+      "options": {
+        "A": "eficiência,",
+        "B": "durabilidade,",
+        "C": "limite de revisão,",
+        "D": "capacidade horária."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 13,
+      "question": "O dispositivo que permite a passagem da corrente num só sentido é o:",
+      "options": {
+        "A": "diodo,",
+        "B": "disjuntor,",
+        "C": "fusível,",
+        "D": "relé."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 14,
+      "question": "Num motor turboélice (turboeixo), a turbina extrai grande parte da energia dos gases para girar a hélice (eixo), mas os gases de escape contribuem com a seguinte parcela na tração total do motor:",
+      "options": {
+        "A": "10%,",
+        "B": "20%,",
+        "C": "25%,",
+        "D": "50%."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 15,
+      "question": "No tempo de admissão o pistão desloca-se no interior do cilindro do PMA para o PMB provocando um/uma:",
+      "options": {
+        "A": "redução de massa,",
+        "B": "redução de pressão,",
+        "C": "aumento de pressão,",
+        "D": "aumento de temperatura."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 16,
+      "question": "O dispositivo utilizado após o pouso, com a finalidade de reduzir a sustentação da asa é o/a:",
+      "options": {
+        "A": "Flap,",
+        "B": "Spoiler,",
+        "C": "Passo reverso da hélice,",
+        "D": "Sistema de reversão dos motores."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 17,
+      "question": "A ignição se dá no tempo de:",
+      "options": {
+        "A": "descarga,",
+        "B": "expansão,",
+        "C": "admissão,",
+        "D": "compressão."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 18,
+      "question": "Muitas vezes forma-se gelo no carburador porque na atmosfera encontram-se presentes:",
+      "options": {
+        "A": "cristais de gelo,",
+        "B": "partículas sólidas,",
+        "C": "vapor de água,",
+        "D": "gás carbônico."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 19,
+      "question": "Após abastecimento de uma aeronave, deve-se drenar de gasolina afim de verificar:",
+      "options": {
+        "A": "a quantidade ,",
+        "B": "sua densidade,",
+        "C": "seu teor de chumbo,",
+        "D": "a presença de água."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 20,
+      "question": "O óleo que sai do radiador:",
+      "options": {
+        "A": "corre deste em direção ao motor novamente,",
+        "B": "tem temperatura maior que na entrada do radiador,",
+        "C": "tem viscosidade maior do que na entrada do radiador,",
+        "D": "tem uma temperatura duas vezes menor que na entrada."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 21,
+      "question": "Os anéis de compressão estão colocados nas canaletas ....... dos pistões.",
+      "options": {
+        "A": "laterais,",
+        "B": "centrais,",
+        "C": "inferiores,",
+        "D": "superiores."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 22,
+      "question": "O motor que opera de acordo com o ciclo OTTO é o do tipo:",
+      "options": {
+        "A": "turbo-fan,",
+        "B": "turbo-hélice,",
+        "C": "motor diesel,",
+        "D": "motor a explosão."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 23,
+      "question": "A potência medida no eixo de saída do motor chama-se potência:",
+      "options": {
+        "A": "indicada,",
+        "B": "efetiva,",
+        "C": "teórica,",
+        "D": "útil."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 24,
+      "question": "O trem de pouso que pode ser recolhido e fechado em compartimento apropriado é o:",
+      "options": {
+        "A": "fixo,",
+        "B": "retrátil,",
+        "C": "flutuador,",
+        "D": "escamoteável."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 25,
+      "question": "No bico injetor, uma pequena quantidade de ar do compressor é injetada próximo ao jato de combustível, a fim de:",
+      "options": {
+        "A": "pulverizar o combustível,",
+        "B": "evitar formação de carvão,",
+        "C": "facilitar a ignição,",
+        "D": "resfriar o calor da chama."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 26,
+      "question": "Os incêndios pertencentes a classe C incluem:",
+      "options": {
+        "A": "metais,",
+        "B": "unidades elétricas,",
+        "C": "materiais abrasivos,",
+        "D": "líquidos inflamáveis."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 27,
+      "question": "As propriedades dos giroscópios, usadas nos instrumentos de navegação, sÃo:",
+      "options": {
+        "A": "inércia e pressão,",
+        "B": "precessão e pressão,",
+        "C": "rigidez e precessão,",
+        "D": "variação e precessão."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 28,
+      "question": "A cor vermelha indica uma tubulação de :",
+      "options": {
+        "A": "óleo,",
+        "B": "gasolina,",
+        "C": "oxigênio,",
+        "D": "fluido hidráulico."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 29,
+      "question": "O voltímetro é um instrumento que tem por finalidade:",
+      "options": {
+        "A": "medir a tensão alternada,",
+        "B": "medir a corrente contínua,",
+        "C": "medir a tensão e a corrente,",
+        "D": "indicar a presença de tensão."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 30,
+      "question": "As posições extremas que o pistão atinge durante o seu movimento no interior do cilindro, denomina-se:",
+      "options": {
+        "A": "fase,",
+        "B": "curso,",
+        "C": "cruzamento,",
+        "D": "pontos mortos."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 31,
+      "question": "Qual das misturas abaixo é mais rica do que 11:1?",
+      "options": {
+        "A": "12:1,",
+        "B": "1:12,",
+        "C": "0,1:1,",
+        "D": "13:1."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 32,
+      "question": "No exterior da cápsula aneróide do velocímetro atua a pressão:",
+      "options": {
+        "A": "dinâmica,",
+        "B": "estática,",
+        "C": "estática e dinâmica,",
+        "D": "diferencial."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 33,
+      "question": "Os cabos de aço que são esticados entre as nervuras de uma asa são chamados de:",
+      "options": {
+        "A": "estatais,",
+        "B": "tirantes,",
+        "C": "tensores,",
+        "D": "traçantes."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 34,
+      "question": "O significado de “liga” é, basicamente:",
+      "options": {
+        "A": "material com impurezas,",
+        "B": "material submetido a tratamento,",
+        "C": "combinação de dois ou mais metais,",
+        "D": "material puro como é extraído da natureza."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 35,
+      "question": "Para calcularmos a taxa de compressão de um motor convencional utilizamos o:",
+      "options": {
+        "A": "câmbio do dia,",
+        "B": "volume do cilindro em relação ao volume da câmara de combustão,",
+        "C": "volume da câmara de combustão sobre o volume do curso do pistão,",
+        "D": "volume do curso do pistão sobre o volume da câmara de combustão."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 36,
+      "question": "O funcionamento do sistema hidráulico é baseado no/na:",
+      "options": {
+        "A": "Lei de Newton,",
+        "B": "Lei de Pascal,",
+        "C": "Princípio de Arquimedes,",
+        "D": "Equação de Bernoulli."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 37,
+      "question": "O dispositivo existente nos magnetos, que funciona como interruptor é chamado de:",
+      "options": {
+        "A": "ímã,",
+        "B": "came,",
+        "C": "platinado,",
+        "D": "condensador."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 38,
+      "question": "O leme de direção é instalado no/na:",
+      "options": {
+        "A": "asa,",
+        "B": "empenagem,",
+        "C": "estabilizador vertical,",
+        "D": "estabilizador horizontal."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 39,
+      "question": "A região mais fria do carburador está localizada no/na:",
+      "options": {
+        "A": "cuba,",
+        "B": "saída do ar,",
+        "C": "tubo venturi,",
+        "D": "entrada do gicleur."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 40,
+      "question": "O componente do ar que toma parte na combustão da gasolina dentro do motor é o:",
+      "options": {
+        "A": "nitrogênio,",
+        "B": "gás carbônico,",
+        "C": "oxigênio,",
+        "D": "hidrogênio."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 41,
+      "question": "O produto adicionado a gasolina, destinado a aumentar o seu poder anti-detonante, é o/a:",
+      "options": {
+        "A": "álcool,",
+        "B": "heptana,",
+        "C": "iso-octana,",
+        "D": "chumbo tetra etil."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 42,
+      "question": "A identificação das gasolinas, de uso na aviação é feita por dois números, como 100/130, que indicam o poder anti-detonante da gasolina para:",
+      "options": {
+        "A": "operação em região fria,",
+        "B": "mistura rica/ mistura pobre,",
+        "C": "mistura pobre / mistura rica,",
+        "D": "operação em região quente."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 43,
+      "question": "A bomba auxiliar de um sistema de alimentação por pressão, é acionada:",
+      "options": {
+        "A": "manualmente,",
+        "B": "eletricamente,",
+        "C": "hidraulicamente,",
+        "D": "pelo motor do avião."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 44,
+      "question": "A ISSO-OCTANA é um líquido combustível, cujo número de octanas é igual a :",
+      "options": {
+        "A": "0,",
+        "B": "8,",
+        "C": "80,",
+        "D": "100."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 45,
+      "question": "A inspeção de responsabilidade do piloto é a :",
+      "options": {
+        "A": "diária,",
+        "B": "de pós-vôo,",
+        "C": "de pré-vôo,",
+        "D": "de 25 horas."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 46,
+      "question": "O reparo numa bomba que apresentou falha é um tipo de manutenção:",
+      "options": {
+        "A": "preventiva,",
+        "B": "corretiva,",
+        "C": "diária,",
+        "D": "ocasional."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 47,
+      "question": "As aeronaves que se sustentam baseadas no princípio de Arquimedes são denominadas:",
+      "options": {
+        "A": "aeródinos,",
+        "B": "aeróstatos,",
+        "C": "giroplanos,",
+        "D": "planadores."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 48,
+      "question": "A parada de um motor turboeixo é feita por meio do sistema de:",
+      "options": {
+        "A": "ignição,",
+        "B": "indução,",
+        "C": "admissão,",
+        "D": "combustível."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 49,
+      "question": "O tipo de estrutura que é provida de cavernas, longarinas e revestimento é a:",
+      "options": {
+        "A": "tubular,",
+        "B": "remoldada,",
+        "C": "monocoque,",
+        "D": "semi-monocoque."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 50,
+      "question": "Os pontos mortos são:",
+      "options": {
+        "A": "o mesmo que marcha lenta,",
+        "B": "posições extremas do pistão em seu curso,",
+        "C": "os pontos mais baixos atingidos pelo pistão,",
+        "D": "pontos onde o pistão fornecerá potência."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 51,
+      "question": "Na parte externa da cabeça do cilindro de um motor refrigerado a ar, o lado do escapamento é diferente da admissão, porque neste lado se encontram os/as:",
+      "options": {
+        "A": "velas de ignição,",
+        "B": "anéis de segmento,",
+        "C": "canaletas dos anéis,",
+        "D": "alhetas de resfriamento."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 52,
+      "question": "O funcionamento dos motores propulsionados a jato é baseado nos princípios físicos de:",
+      "options": {
+        "A": "Pascal,",
+        "B": "Venturi,",
+        "C": "Newton,",
+        "D": "Arquimedes."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 53,
+      "question": "Os cabos de aço que estão esticados no interior da asa resistem a que tipo de esforço:",
+      "options": {
+        "A": "tensão,",
+        "B": "tração,",
+        "C": "compressão,",
+        "D": "cisalhamento."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 54,
+      "question": "Os batentes servem para:",
+      "options": {
+        "A": "amortecer as vibrações das superfícies,",
+        "B": "apoiar os cabos de comando das superfícies,",
+        "C": "evitar impacto no movimento dos comando,",
+        "D": "limitar a amplitude dos movimentos das superfícies de controle."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 55,
+      "question": "O eixo de manivela, para fazer um ciclo teórico completo, num motor a explosão de 4 tempos, deve girar:",
+      "options": {
+        "A": "90º,",
+        "B": "180º,",
+        "C": "360º,",
+        "D": "720º."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 56,
+      "question": "O funcionamento do motor a reação baseia-se no/na:",
+      "options": {
+        "A": "Lei de Pascal,",
+        "B": "3ª lei de Newton,",
+        "C": "Princípio de Bernoulli,",
+        "D": "Princípio de Arquimedes."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 57,
+      "question": "A finalidade das alhetas dos cilindros é:",
+      "options": {
+        "A": "prover um melhor acabamento,",
+        "B": "dar uma forma aerodinâmica aos mesmos,",
+        "C": "aumentar a área dos cilindros expostas ao ar,",
+        "D": "melhorar a combustão no interior do cilindro."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 58,
+      "question": "Se numa vela com dois eletrodos um deles estiver encostado no eletrodo central a vela:",
+      "options": {
+        "A": "NÃO funcionará,",
+        "B": "Funcionará em marcha lenta,",
+        "C": "Funcionará com 50% de rendimento,",
+        "D": "Funcionará com 100% de rendimento."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 59,
+      "question": "Num carburador sem correção altimétrica a mistura torna-se rica com o aumento da altitude, devido a:",
+      "options": {
+        "A": "aumento da viscosidade do ar,",
+        "B": "aumento da temperatura do ar,",
+        "C": "redução da densidade do ar,",
+        "D": "redução da umidade do ar."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 60,
+      "question": "Entre o trem de pouso e a fuselagem, é instalada uma unidade com a finalidade de eliminar saltos das aeronaves durante o pouso. Tal unidade é chamada de:",
+      "options": {
+        "A": "mola,",
+        "B": "coxim,",
+        "C": "almofada,",
+        "D": "amortecedor."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 61,
+      "question": "São classificados como aeródinos:",
+      "options": {
+        "A": "balões e dirigíveis,",
+        "B": "planadores e balões,",
+        "C": "aviões, helicópteros e dirigíveis,",
+        "D": "aviões, helicópteros e planadores."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 62,
+      "question": "A sustentação das aeronaves mais leves que o ar é:",
+      "options": {
+        "A": "estática,",
+        "B": "dinâmica,",
+        "C": "hidrodinâmica,",
+        "D": "dinâmica-estática."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 63,
+      "question": "A seqüência do centelhamento para o funcionamento do motor é de responsabilidade do/da:",
+      "options": {
+        "A": "vela,",
+        "B": "bobina,",
+        "C": "magneto,",
+        "D": "distribuidor."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 64,
+      "question": "A vantagem do trem de pouso com rodas sobre o esqui é:",
+      "options": {
+        "A": "aterrizar em qualquer tipo de terreno,",
+        "B": "amortecer mais o impacto do pouso que os esquis,",
+        "C": "oferecer menos resistência ao avanço que os esquis,",
+        "D": "poder correr na pista até atingir a sustentação de deslocamento."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 65,
+      "question": "A cápsula do controle automático de mistura reage quando varia a:",
+      "options": {
+        "A": "densidade do ar,",
+        "B": "temperatura da gasolina,",
+        "C": "pressão atmosférica do solo,",
+        "D": "densidade do combustível frio."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 66,
+      "question": "A unidade de corrente elétrica é conhecida como:",
+      "options": {
+        "A": "fem,",
+        "B": "volts,",
+        "C": "ampére,",
+        "D": "joules."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 67,
+      "question": "No funcionamento em marcha lenta, a potência do motor é:",
+      "options": {
+        "A": "mínima,",
+        "B": "máxima,",
+        "C": "instável,",
+        "D": "inconstante."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 68,
+      "question": "O formato aerodinâmico das asa dado pelo / pela:",
+      "options": {
+        "A": "tirante,",
+        "B": "nervura,",
+        "C": "montante,",
+        "D": "longarina."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 69,
+      "question": "O óleo lubrificante que penetra na câmara de combustÃo dos cilindros:",
+      "options": {
+        "A": "é queimado,",
+        "B": "sai pela descarga,",
+        "C": "fica dentro dos cilindros,",
+        "D": "retorna pelos furos do pistão."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 70,
+      "question": "O que é aeróstato e aeródino?",
+      "options": {
+        "A": "aeróstato é o mesmo que autogiro, aeródino é o mesmo que avião,",
+        "B": "aeróstatos são veículos mais pesados que o ar, aeródinos são veículos mais leves que o ar,",
+        "C": "aeróstato está baseado na 3ª Lei de Newton, aeródino está baseado no princípio de Arquimedes,",
+        "D": "aeróstato está baseado no princípio de Arquimedes;+ aeródino está baseado no princípio da ação e reação."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 71,
+      "question": "A principal fonte de eletricidade estática denomina-se:",
+      "options": {
+        "A": "fricção,",
+        "B": "indução,",
+        "C": "pressão,",
+        "D": "contato."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 72,
+      "question": "Qual tipo de trem de pouso permite pouso em terreno com vegetação rasteira e pequenos arbustos?",
+      "options": {
+        "A": "rodas,",
+        "B": "esqui alto,",
+        "C": "esqui baixo,",
+        "D": "flutuadores."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 73,
+      "question": "O revestimento que NÃO resiste a esforços é a :",
+      "options": {
+        "A": "tela,",
+        "B": "chapa de alumínio,",
+        "C": "balsa ou madeira contraplacada,",
+        "D": "fibra ou materiais compostos de aço."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 74,
+      "question": "Os motores aeronáuticos apresentam a elevada potência:",
+      "options": {
+        "A": "elevada potência,",
+        "B": "grande massa,",
+        "C": "pequena durabilidade,",
+        "D": "baixa eficiência térmica."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 75,
+      "question": "Para um determinado motor, a gasolina recomendada é 100/130. NÃO estando disponível, deve-se usar a gasolina:",
+      "options": {
+        "A": "80,",
+        "B": "73/80,",
+        "C": "115/145,",
+        "D": "100/115."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 76,
+      "question": "Quando se forma gelo no carburador, o funcionamento do motor será afetado devido a/ao:",
+      "options": {
+        "A": "queda de RPM,",
+        "B": "aumento de vibração,",
+        "C": "diminuição da temperatura de óleo,",
+        "D": "diminuição da temperatura da cabeça do cilindro."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 77,
+      "question": "Uma gasolina de alto poder anti-detonante é conhecida como de alta:",
+      "options": {
+        "A": "fluidez,",
+        "B": "densidade,",
+        "C": "octanagem,",
+        "D": "viscosidade."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 78,
+      "question": "A parte da hélice que sofre maiores esforços é o/a:",
+      "options": {
+        "A": "cubo,",
+        "B": "ponta,",
+        "C": "bordo de fuga,",
+        "D": "bordo de ataque."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 79,
+      "question": "No pernoite das aeronaves, é aconselhável deixar os tanques cheios de combustível, para:",
+      "options": {
+        "A": "evitar a decantação da gasolina,",
+        "B": "reduzir a contaminação da gasolina por água,",
+        "C": "reduzir a evaporação da gasolina,",
+        "D": "evitar o balanço da gasolina nos tanques."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 80,
+      "question": "A força de expansão dos gases é transmitida do pistão para o eixo de manivela através de:",
+      "options": {
+        "A": "pinos,",
+        "B": "bielas,",
+        "C": "moentes,",
+        "D": "hastes de comando."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 81,
+      "question": "O líquido contido nas bússolas serve para:",
+      "options": {
+        "A": "amortecer oscilações,",
+        "B": "manter a imantação,",
+        "C": "proteger contra corrosão,",
+        "D": "girar à agulha."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 82,
+      "question": "Qual tipo de estrutura oferece menos resistência a ventos laterais e em qual tipo as janelas de inspeção são estruturais?",
+      "options": {
+        "A": "tubular/monocoque,",
+        "B": "monocoque/tubular,",
+        "C": "tubular/semi-monocoque,",
+        "D": "semi-monocoque/monocoque."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 83,
+      "question": "A lubrificação programada faz parte da:",
+      "options": {
+        "A": "inspeção visual,",
+        "B": "inspeção dimensional,",
+        "C": "manutenção corretiva,",
+        "D": "manutenção preventiva."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 84,
+      "question": "Ciclo de um motor térmico é:",
+      "options": {
+        "A": "o mesmo que tempo,",
+        "B": "o mesmo que mistura,",
+        "C": "medido em cilindrada,",
+        "D": "o conjunto de seis fases."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 85,
+      "question": "Na câmara de combustão, o fluxo de ar é dividido em duas partes: o ar primário e o ar secundário. O ar primário, que se destina à combustão, representa a seguinte fração do total:",
+      "options": {
+        "A": "¼,",
+        "B": "¾,",
+        "C": "10%,",
+        "D": "90%."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 86,
+      "question": "Os métodos mais utilizados para medir a viscosidade dos óleos lubrificantes são conhecidos como:",
+      "options": {
+        "A": "SAE e SSU,",
+        "B": "SAE e SAYBOLT,",
+        "C": "SAYBOLT e SSU,",
+        "D": "SAE e petrolífero."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 87,
+      "question": "Quando o óleo é aquecido, a sua viscosidade:",
+      "options": {
+        "A": "aumenta,",
+        "B": "diminui,",
+        "C": "permanece constante,",
+        "D": "depende do óleo."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 88,
+      "question": "Em um motor convencional a quatro tempos, para que o eixo de manivelas efetue 2 voltas completas é necessário que o pistão execute:",
+      "options": {
+        "A": "04 cursos,",
+        "B": "06 cursos,",
+        "C": "08 cursos,",
+        "D": "10 cursos."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 89,
+      "question": "A quantidade de calor que o combustível pode produzir quando é queimado chama-se:",
+      "options": {
+        "A": "poder calorífico,",
+        "B": "poder energético,",
+        "C": "energia calorífica,",
+        "D": "capacidade calorífica."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 90,
+      "question": "O método que os fabricantes de carburadores utilizam para combater a formação de gelo é o/a:",
+      "options": {
+        "A": "admissão de ar frio,",
+        "B": "admissão de ar quente,",
+        "C": "enriquecimento da mistura,",
+        "D": "empobrecimento da mistura."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 91,
+      "question": "O método de inspeção mais utilizado para detectar rachaduras em peças ferrosas é o:",
+      "options": {
+        "A": "zyglo,",
+        "B": "líquido penetrante,",
+        "C": "raio X,",
+        "D": "magnaflux."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 92,
+      "question": "As alhetas dos cilindros servem para:",
+      "options": {
+        "A": "melhorar o resfriamento do cilindro,",
+        "B": "aumentar a resistência do cilindro,",
+        "C": "diminuir o arrasto aerodinâmico do motor,",
+        "D": "proteger a biela."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 93,
+      "question": "O componente que transforma energia mecânica em elétrica e em cujos terminais não há polaridade, é denominado:",
+      "options": {
+        "A": "relé,",
+        "B": "dínamo,",
+        "C": "solenóide,",
+        "D": "alternador."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 94,
+      "question": "O elemento estrutural que dá formato aerodinâmico a fuselagem chama-se:",
+      "options": {
+        "A": "nervura,",
+        "B": "caverna,",
+        "C": "longarina,",
+        "D": "revestimento."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 95,
+      "question": "Por que é importante tencionar os cabos de comando de acordo com o recomendado pelo fabricante?",
+      "options": {
+        "A": "para que manobras como vôos laterais possam ser executadas,",
+        "B": "cabos frouxos reduzem a ação dos comandos, cabos esticados tornam os comandos duros,",
+        "C": "para produzir desgastes nos componentes do sistema e evitar que seja anulada a ação do piloto nos comandos,",
+        "D": "para evitar endurecimento ou limitação de comando SOMENTE quando o piloto fizer alguma manobra brusca."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 96,
+      "question": "A qualidade do óleo lubrificante que indica ausência de acidez no mesmo denomina- se:",
+      "options": {
+        "A": "fluidez,",
+        "B": "anti-acidez,",
+        "C": "estabilidade,",
+        "D": "neutralidade."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 97,
+      "question": "A parte do pneu que fica em contato com o solo chama-se:",
+      "options": {
+        "A": "lona,",
+        "B": "flange,",
+        "C": "talão de reforço,",
+        "D": "banda de rodagem."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 98,
+      "question": "Os aeródinos são chamados de........... e a sua sustentação é........:",
+      "options": {
+        "A": "mais leve que o ar/ estática,",
+        "B": "mais leve que o ar / dinâmica,",
+        "C": "mais pesados que o ar / estática,",
+        "D": "mais pesados que o ar / dinâmica."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 99,
+      "question": "Em caso de falhas do controle automático de mistura ( corretor altimétrica) a medida que a aeronave alcança camadas mais altas, a mistura se apresenta:",
+      "options": {
+        "A": "rica,",
+        "B": "pobre,",
+        "C": "inalterada,",
+        "D": "sem mistura."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 100,
+      "question": "O degelo do tubo do PITOT, é feito por:",
+      "options": {
+        "A": "ar quente,",
+        "B": "degelo pneumático,",
+        "C": "aquecimento elétrico,",
+        "D": "fluido anti-congelante."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 101,
+      "question": "São consideradas superfícies de vôo primárias:",
+      "options": {
+        "A": "FLAP, SLAT E SPOILER,",
+        "B": "AILERON, LEME E FLAP,",
+        "C": "PROFUNDOR, AILERON E LEME,",
+        "D": "PROFUNDOR, COMPENSADOR E FLAP."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 102,
+      "question": "Denomina-se taxa de compressão de um motor térmico, a relação entre o volume total do:",
+      "options": {
+        "A": "cilindro e da cilindrada,",
+        "B": "carter e o total do motor,",
+        "C": "cilindro e o curso do pistão,",
+        "D": "cilindro e o volume da câmara de combustão."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 103,
+      "question": "Um gerador converte energia:",
+      "options": {
+        "A": "mecânica em elétrica,",
+        "B": "elétrica em mecânica,",
+        "C": "elétrica em calorífica,",
+        "D": "mecânica em calorífica."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 104,
+      "question": "O instrumento que marca a quantidade de combustível no tanque, chama-se:",
+      "options": {
+        "A": "PRIMER,",
+        "B": "Seletora,",
+        "C": "Fluxômetro,",
+        "D": "Liquidometro."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 105,
+      "question": "O rendimento mecânico não pode ser:",
+      "options": {
+        "A": "nulo,",
+        "B": "igual a 1,",
+        "C": "maior que 1,",
+        "D": "menor que 1."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 106,
+      "question": "A média do consumo do motor de um avião, que leva em consideração a potência desenvolvida, é denominada de consumo:",
+      "options": {
+        "A": "horário,",
+        "B": "unitário,",
+        "C": "relativo,",
+        "D": "específico."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 107,
+      "question": "Os elementos necessários à combustão são:",
+      "options": {
+        "A": "papel, fonte de temperatura e nitrogênio,",
+        "B": "combustível, oxigênio e temperatura acima de 100º C,",
+        "C": "vapor de combustível, comburente e temperatura de ignição,",
+        "D": "temperatura de volatilização, oxigênio do ar e vapor de combustível."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 108,
+      "question": "A ação de puxar o manche para trás provoca uma reação que:",
+      "options": {
+        "A": "baixa o aileron direito,",
+        "B": "levanta o aileron direito,",
+        "C": "baixa o leme de profundidade,",
+        "D": "levanta o leme de profundidade."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 109,
+      "question": "O elemento estrutural principal de uma asa chama-se:",
+      "options": {
+        "A": "estatais,",
+        "B": "longarinas,",
+        "C": "nervuras principais,",
+        "D": "montantes auxiliares."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 110,
+      "question": "O sistema de biela mestra articuladas é usado nos motores do tipo:",
+      "options": {
+        "A": "radial,",
+        "B": "cilindros opostos,",
+        "C": "cilindros em linha,",
+        "D": "cilindros invertidos."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 111,
+      "question": "O sistema de lubrificação usados nos motores aéreos é, geralmente, do tipo:",
+      "options": {
+        "A": "misto,",
+        "B": "pressão,",
+        "C": "imersão,",
+        "D": "salpique."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 112,
+      "question": "Os componentes das aeronaves sofrem substituições periódicas que tem como base o número de:",
+      "options": {
+        "A": "quilômetros voados,",
+        "B": "horas voadas,",
+        "C": "vôos cancelados,",
+        "D": "decolagens efetuadas."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 113,
+      "question": "O esforço que atua numa corda esticada chama-se:",
+      "options": {
+        "A": "tração,",
+        "B": "cisalhamento,",
+        "C": "compressão,",
+        "D": "tensão."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 114,
+      "question": "A finalidade dos aerofólios nos aviões é a de produzir:",
+      "options": {
+        "A": "peso,",
+        "B": "apenas arrasto,",
+        "C": "inclinação da aeronave,",
+        "D": "reações aerodinâmicas úteis."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 115,
+      "question": "Nos motores turbocomprimidos, o compressor centrífugo é acionado:",
+      "options": {
+        "A": "pelo motor,",
+        "B": "eletricamente,",
+        "C": "pelo ar de impacto,",
+        "D": "pelos gases de escapamento."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 116,
+      "question": "Os tipos de motopropulsores que podem equipar os helicópteros são:",
+      "options": {
+        "A": "motor a pistão e combustão externa,",
+        "B": "motor convencional e motor turboeixo,",
+        "C": "motor a pistão e motor a combustão interna,",
+        "D": "motor a combustão interna e motor elétrico."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 117,
+      "question": "Se durante a partida do motor NÃO houver marcação no manômetro de óleo, é necessário:",
+      "options": {
+        "A": "cortar o motor,",
+        "B": "acelerara o motor,",
+        "C": "esperara a indicação,",
+        "D": "verificar o termômetro."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 118,
+      "question": "Os fluidos usados para fins hidráulicos devem desempenhar as seguintes funções:",
+      "options": {
+        "A": "serem altamente viscosos e transmitir força,",
+        "B": "serem de baixa viscosidade e transmitir força,",
+        "C": "serem de viscosidade correta e multiplicar força,",
+        "D": "transmitir força e lubrificar as superfícies atritantes."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 119,
+      "question": "O número de fases de um motor térmico é de:",
+      "options": {
+        "A": "duas,",
+        "B": "seis,",
+        "C": "oito,",
+        "D": "quatro."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 120,
+      "question": "Após o motor estar completamente parado a chave de ignição deve ficar na posição:",
+      "options": {
+        "A": "ON,",
+        "B": "OFF,",
+        "C": "LEFT,",
+        "D": "RIGHT."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 121,
+      "question": "No único tempo produtivo nos motores de quatro tempos ocorre as seguintes fases:",
+      "options": {
+        "A": "ignição e escapamento,",
+        "B": "admissão e compressão,",
+        "C": "ignição, combustão e expansão,",
+        "D": "combustão, expansão e escapamento."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 122,
+      "question": "A seqüência correta de um motor a jato é:",
+      "options": {
+        "A": "turbina, câmara de combustão, duto de admissão, compressor e bocal propulsor,",
+        "B": "duto de admissão, compressor, câmara de combustão, turbina e bocal propulsor,",
+        "C": "duto de admissão, câmara de combustão, bocal propulsor, turbina e compressor,",
+        "D": "duto de admissão, câmara de combustão, compressor, bocal propulsor e turbina."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 123,
+      "question": "O índice de octanas de uma gasolina é o/a:",
+      "options": {
+        "A": "pureza da gasolina,",
+        "B": "valor anti-detonante da gasolina,",
+        "C": "percentagem de heptano em 100% de octana,",
+        "D": "percentagem de CTE ( chumbo tetra-etílico)."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 124,
+      "question": "A lubrificação:",
+      "options": {
+        "A": "reduz o atrito,",
+        "B": "elimina o atrito,",
+        "C": "elimina as folgas,",
+        "D": "aumenta o rendimento."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 125,
+      "question": "A principal função do óleo nos motores térmicos é:",
+      "options": {
+        "A": "combustão,",
+        "B": "lubrificação,",
+        "C": "refrigeração,",
+        "D": "descarbonização."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 126,
+      "question": "A unidade usada para medir a potência elétrica é o :",
+      "options": {
+        "A": "Watt,",
+        "B": "Volt,",
+        "C": "Joule,",
+        "D": "Ampére."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 127,
+      "question": "A unidade que regula a quantidade de ar que entra no carburador se denomina:",
+      "options": {
+        "A": "borboleta,",
+        "B": "tubo de venturi,",
+        "C": "tubos de impacto na entrada do venturi,",
+        "D": "tubo de transferência de equalização de ar."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 128,
+      "question": "Como se chama a parte superior da asa:",
+      "options": {
+        "A": "bordo,",
+        "B": "dorso,",
+        "C": "ponta da asa,",
+        "D": "ventre da asa. Sua resposta: c. Alternativa correta: b"
+      },
+      "correct": "D"
+    },
+    {
+      "number": 129,
+      "question": "A partícula do átomo com carga negativa é o:",
+      "options": {
+        "A": "próton,",
+        "B": "núcleo,",
+        "C": "nêutron,",
+        "D": "elétron."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 130,
+      "question": "A volatilidade da gasolina pode ser considerada:",
+      "options": {
+        "A": "alta,",
+        "B": "baixa,",
+        "C": "regular,",
+        "D": "nula."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 131,
+      "question": "O óleo com viscosidade saybolt 80 para aviação equivale ao óleo:",
+      "options": {
+        "A": "SAE 20,",
+        "B": "SAE 30,",
+        "C": "SAE 40,",
+        "D": "SAE 50."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 132,
+      "question": "Com a finalidade de manter constante a tensão nos diversos equipamentos utiliza-se:",
+      "options": {
+        "A": "solenóide,",
+        "B": "equalizador de tensão,",
+        "C": "regulador de voltagem,",
+        "D": "relé de corrente reversa."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 133,
+      "question": "O óleo que sai do radiador tem viscosidade, em relação ao que entra no mesmo:",
+      "options": {
+        "A": "igual,",
+        "B": "dupla,",
+        "C": "maior,",
+        "D": "menor."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 134,
+      "question": "O tipo de câmara de combustão mais utilizado em motores aeronáuticos é:",
+      "options": {
+        "A": "plana,",
+        "B": "cônica,",
+        "C": "semi-esférica,",
+        "D": "semi-cilíndrica."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 135,
+      "question": "O fluxo de ar na garganta do venturi produz:",
+      "options": {
+        "A": "redução de velocidade,",
+        "B": "aumento de velocidade,",
+        "C": "aumento de pressão estática,",
+        "D": "vácuo."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 136,
+      "question": "A posição que a chave dos magnetos deve ser colocada durante o vôo é:",
+      "options": {
+        "A": "off,",
+        "B": "left,",
+        "C": "both,",
+        "D": "right."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 137,
+      "question": "O motor a explosão é alimentado com energia térmica que é uma mistura de ar + combustível em dosagem apropriada. Isto é feito por um componente denominado:",
+      "options": {
+        "A": "difusor,",
+        "B": "dosador,",
+        "C": "carburador,",
+        "D": "misturador."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 138,
+      "question": "As superfícies de comando nas superfícies primárias, são os:",
+      "options": {
+        "A": "flapes,",
+        "B": "ailerons,",
+        "C": "profundores,",
+        "D": "compensadores."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 139,
+      "question": "A maior parte dos disjuntores empregados nos circuitos elétricos do avião é do tipo:",
+      "options": {
+        "A": "mola,",
+        "B": "pressão,",
+        "C": "térmico,",
+        "D": "interruptor."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 140,
+      "question": "O gerador responsável pela produção de corrente contínua denomina-se:",
+      "options": {
+        "A": "dínamo,",
+        "B": "conversor,",
+        "C": "alternador,",
+        "D": "retificador."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 141,
+      "question": "O funcionamento da bússola é baseado no/na:",
+      "options": {
+        "A": "rotação da terra,",
+        "B": "eletromagnetismo,",
+        "C": "magnetismo terrestre,",
+        "D": "campo elétrico da terra."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 142,
+      "question": "Ao retornar do Vôo o piloto reporta uma pane do motor, ao sanar o problema, o mecânico realizou uma inspeção:",
+      "options": {
+        "A": "diária,",
+        "B": "corretiva,",
+        "C": "periódica,",
+        "D": "preventiva."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 143,
+      "question": "A centelha elétrica que inflama a carga combustível comprimida na câmara de combustão, salta entre:",
+      "options": {
+        "A": "os eletrodos massas,",
+        "B": "o eletrodo massa e o central,",
+        "C": "o eletrodo central e o pistão,",
+        "D": "o isolante da vela e o eletrodo central."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 144,
+      "question": "Para facilitar a identificação dos perfis e ângulos das pás, a hélice é dividida em:",
+      "options": {
+        "A": "Perfis",
+        "B": "Estações",
+        "C": "Seções",
+        "D": "Posições"
+      },
+      "correct": "B"
+    },
+    {
+      "number": 145,
+      "question": "Os bordos de ataque e as pontas da hélice de madeira são protegidos por laminas de:",
+      "options": {
+        "A": "Plástico",
+        "B": "Contraplacado",
+        "C": "Tecido",
+        "D": "Metal"
+      },
+      "correct": "D"
+    },
+    {
+      "number": 146,
+      "question": "Aumentando o ângulo da pa teremos:",
+      "options": {
+        "A": "Aumento da eficiência",
+        "B": "Aumento de passo",
+        "C": "Aumento de potencia",
+        "D": "Redução da torção da pa"
+      },
+      "correct": "B"
+    },
+    {
+      "number": 147,
+      "question": "Quando a helice da uma volta completa ela devera avançar teoricamente uma distancia chamada:",
+      "options": {
+        "A": "passo geometrico",
+        "B": "recuo",
+        "C": "passo efetivo",
+        "D": "Passo real"
+      },
+      "correct": "A"
+    },
+    {
+      "number": 148,
+      "question": "O dispositivo que permite a passagem de corrente num so sentido é o:",
+      "options": {
+        "A": "Diodo",
+        "B": "Disjuntor",
+        "C": "Fusivel",
+        "D": "Rele"
+      },
+      "correct": "A"
+    },
+    {
+      "number": 149,
+      "question": "O dispositivo que transforma energia mecânica em alternada chama-se:",
+      "options": {
+        "A": "Inversor",
+        "B": "Retificador",
+        "C": "Comutador",
+        "D": "Transformador"
+      },
+      "correct": "A"
+    },
+    {
+      "number": 150,
+      "question": "Ligando-se um dínamo de 20 V com outro de 30 V em serie, podemos ter uma voltagem total de:",
+      "options": {
+        "A": "20V",
+        "B": "30V",
+        "C": "25V",
+        "D": "50V"
+      },
+      "correct": "D"
+    }
+  ],
+  "sections": [
+    {
+      "id": 1,
+      "name": "Simulado 01",
+      "from": 1,
+      "to": 20
+    },
+    {
+      "id": 2,
+      "name": "Simulado 02",
+      "from": 21,
+      "to": 40
+    },
+    {
+      "id": 3,
+      "name": "Simulado 03",
+      "from": 41,
+      "to": 60
+    },
+    {
+      "id": 4,
+      "name": "Simulado 04",
+      "from": 61,
+      "to": 80
+    },
+    {
+      "id": 5,
+      "name": "Simulado 05",
+      "from": 81,
+      "to": 100
+    },
+    {
+      "id": 6,
+      "name": "Simulado 06",
+      "from": 101,
+      "to": 120
+    },
+    {
+      "id": 7,
+      "name": "Simulado 07",
+      "from": 121,
+      "to": 140
+    },
+    {
+      "id": 8,
+      "name": "Simulado 08",
+      "from": 141,
+      "to": 150
+    }
+  ],
+  "sourceNotes": ""
+}

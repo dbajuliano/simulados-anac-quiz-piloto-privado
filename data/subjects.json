@@ -14,6 +14,16 @@
       "id": "navegacao-aerea",
       "name": "Navegação Aérea",
       "file": "data/navegacao-aerea.json"
+    },
+    {
+      "id": "meteorologia",
+      "name": "Meteorologia",
+      "file": "data/meteorologia.json"
+    },
+    {
+      "id": "conhecimentos-tecnicos-e-motores",
+      "name": "Conhecimentos Técnicos e Motores",
+      "file": "data/conhecimentos-tecnicos-e-motores.json"
     }
   ]
 }

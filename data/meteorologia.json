@@ -1,0 +1,1817 @@
+{
+  "subject": "Meteorologia",
+  "source": "Simulado-Meteorologia(160Questoes).pdf",
+  "timeLimitSeconds": 1800,
+  "questions": [
+    {
+      "number": 1,
+      "question": "As ondas hertezianas de rádio são refletidas na:",
+      "options": {
+        "A": "ionosfera,",
+        "B": "troposfera,",
+        "C": "ozonosfera,",
+        "D": "estratosfera."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 2,
+      "question": "A energia solar na faixa do ultra-violeta é absorvida em, aproximadamente, 75% na camada da:",
+      "options": {
+        "A": "ionosfera,",
+        "B": "troposfera,",
+        "C": "tropopausa,",
+        "D": "ozonosfera."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 3,
+      "question": "A troposfera nas proximidades do Equador estende-se até:",
+      "options": {
+        "A": "09 km,",
+        "B": "11 km,",
+        "C": "19 km,",
+        "D": "50 km."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 4,
+      "question": "A camada mais elevada da atmosfera é chamada?",
+      "options": {
+        "A": "exosfera,",
+        "B": "ionosfera,",
+        "C": "troposfera,",
+        "D": "estratosfera."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 5,
+      "question": "A luminosidade diurna se deve:",
+      "options": {
+        "A": "absorção da luz,",
+        "B": "reflexão da luz solar,",
+        "C": "difusão da energia solar,",
+        "D": "absorção da radiação solar."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 6,
+      "question": "O equinócio ocorre quando a Terra se encontra em posição tal que a radiação solar incide perpendicularmente ao:",
+      "options": {
+        "A": "Equador,",
+        "B": "Círculo Polar,",
+        "C": "Trópico de Câncer,",
+        "D": "Trópico de Capricórnio."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 7,
+      "question": "A quantidade de nitrogênio e oxigênio existente na atmosfera corresponde a:",
+      "options": {
+        "A": "21% e 10%,",
+        "B": "0,9% e 78%,",
+        "C": "78% e 21%,",
+        "D": "78% e 0,9%."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 8,
+      "question": "O albedo maior é encontrado:",
+      "options": {
+        "A": "em um lago,",
+        "B": "em uma floresta,",
+        "C": "no topo das nuvens,",
+        "D": "em um terreno arado."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 9,
+      "question": "Elementos sólidos microscópios em suspensão são conhecidos como núcleos:",
+      "options": {
+        "A": "latente,",
+        "B": "partículas,",
+        "C": "resfriados,",
+        "D": "higroscópios."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 10,
+      "question": "A composição básica da atmosfera padrão é:",
+      "options": {
+        "A": "78% de oxigênio e 21% de nitrogênio,",
+        "B": "78% de nitrogênio e 21% de oxigênio,",
+        "C": "78% de hidrogênio e 21% de oxigênio,",
+        "D": "78% de oxigênio e 21% de hidrogênio."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 11,
+      "question": "Advecção significa:",
+      "options": {
+        "A": "insolação,",
+        "B": "radiação solar,",
+        "C": "transporte vertical de calor,",
+        "D": "transporte horizontal de calor."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 12,
+      "question": "Um aparelho em que uma cápsula de metal fino, ondulado e flexível onde no seu interior, no vácuo, encontra-se uma lâmina funcionando para evitar que a cápsula seja esmagada. É conhecido como:",
+      "options": {
+        "A": "registrador,",
+        "B": "hectopascal,",
+        "C": "cuba de mercúrio,",
+        "D": "barômetro aneróide."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 13,
+      "question": "A umidade relativa é fornecida por um instrumento especial denominado:",
+      "options": {
+        "A": "barômetro,",
+        "B": "manômetro,",
+        "C": "hidrômetro,",
+        "D": "higrômetro."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 14,
+      "question": "A condensação do vapor de água na atmosfera ocorre se:",
+      "options": {
+        "A": "a densidade do ar diminuir,",
+        "B": "a pressão atmosférica baixa,",
+        "C": "a temperatura do ar aumentar,",
+        "D": "houver núcleos de condensação."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 15,
+      "question": "Um determinado volume de ar contém 4% de vapor de água. Pode-se afirmar que o ar encontra-se:",
+      "options": {
+        "A": "seco,",
+        "B": "úmido,",
+        "C": "neutro,",
+        "D": "saturado."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 16,
+      "question": "Para que o ar possa ser considerado saturado, é necessário que ocorra:",
+      "options": {
+        "A": "evaporação e chuva,",
+        "B": "evaporação e resfriamento,",
+        "C": "resfriamento e precipitação,",
+        "D": "resfriamento e condensação."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 17,
+      "question": "O orvalho é produzido pelo processo físico de resfriamento denominado:",
+      "options": {
+        "A": "advecção,",
+        "B": "radiação,",
+        "C": "convecção,",
+        "D": "efeito orográfico."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 18,
+      "question": "Ao se elevar em uma encosta de uma montanha, o ar se resfria produzindo condensação do vapor de água nele contido. Chama-se este processo físico de resfriamento:",
+      "options": {
+        "A": "anabático,",
+        "B": "catabático,",
+        "C": "adiabático,",
+        "D": "convectivo."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 19,
+      "question": "Havendo temperatura e pressão constantes, a densidade do ar varia em relação a umidade:",
+      "options": {
+        "A": "inversamente,",
+        "B": "aumenta a umidade,",
+        "C": "decresce a umidade,",
+        "D": "estabiliza a umidade."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 20,
+      "question": "A colisão de gotículas de água decorrente da agitação do ar, ocasiona o aumento das mesmas gerando a precipitação líquida. Este fenômeno é denominado:",
+      "options": {
+        "A": "sublimação,",
+        "B": "congelação,",
+        "C": "condensação,",
+        "D": "coalescênsia."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 21,
+      "question": "São considerados hidrometeoros:",
+      "options": {
+        "A": "chuva e poeira,",
+        "B": "chuva e chuvisco,",
+        "C": "chuvisco e fumaça,",
+        "D": "fumaça e névoa seca."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 22,
+      "question": "A água da superfície terrestre passa para a atmosfera pelo processo de :",
+      "options": {
+        "A": "saturação,",
+        "B": "evaporação,",
+        "C": "condensação,",
+        "D": "resfriamento."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 23,
+      "question": "O transporte de calor pelos ventos na atmosfera é definido como:",
+      "options": {
+        "A": "radiação,",
+        "B": "condução,",
+        "C": "advecção,",
+        "D": "convecção."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 24,
+      "question": "Quando a temperatura permanece constante com a altitude, tem-se um caso de :",
+      "options": {
+        "A": "inversão,",
+        "B": "isotermia,",
+        "C": "saturação,",
+        "D": "sublimação."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 25,
+      "question": "A radiação ocorre devido a ..... por longo período sem insolação.",
+      "options": {
+        "A": "ganho de calor,",
+        "B": "perda de calor,",
+        "C": "efeito dinâmico,",
+        "D": "efeito orográfico."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 26,
+      "question": "A temperatura padrão ao nível médio do mar aprovada pela ICAO é de:",
+      "options": {
+        "A": "15º C,",
+        "B": "15º F,",
+        "C": "10º C,",
+        "D": "10º F."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 27,
+      "question": "Durante o dia a perda de calor por levantamento do ar faz com que as correntes convectivas ascendentes se formem por resfriamento de:",
+      "options": {
+        "A": "advecção,",
+        "B": "radiação,",
+        "C": "efeito dinâmico,",
+        "D": "expansão adiabática."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 28,
+      "question": "O instrumento usado para o registro das temperaturas é chamado de :",
+      "options": {
+        "A": "higrógrafo,",
+        "B": "termógrafo,",
+        "C": "heliógrafo,",
+        "D": "termômetro."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 29,
+      "question": "As camadas de ar com temperaturas iguais em toda sua extensão, mesmo na vertical, são conhecidas como:",
+      "options": {
+        "A": "isóbaras,",
+        "B": "de inversão,",
+        "C": "convectivas,",
+        "D": "isotérmicas."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 30,
+      "question": "A transferência de calor por contato direto entre os corpos é chamada de:",
+      "options": {
+        "A": "radiação,",
+        "B": "advecção,",
+        "C": "condução,",
+        "D": "convecção."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 31,
+      "question": "O instrumento que informa e mede a quantidade de calor é o:",
+      "options": {
+        "A": "barômetro,",
+        "B": "termômetro,",
+        "C": "pluviógrafo,",
+        "D": "termógrafo."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 32,
+      "question": "Em meteorologia, a palavra convecção significa o/a:",
+      "options": {
+        "A": "transporte vertical de calor na atmosfera,",
+        "B": "processo de ocorrência de um anticiclone,",
+        "C": "transporte horizontal de calor na atmosfera.,",
+        "D": "Observação e computação da direção do vento."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 33,
+      "question": "O resfriamento por advecção ocorre quando há movimento...., sejam frios ou quentes.",
+      "options": {
+        "A": "dos ventos,",
+        "B": "por expansão,",
+        "C": "de norte para o sul,",
+        "D": "de sul para o norte."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 34,
+      "question": "O calor utilizado nas mudanças de estado físico da água é denominado calor:",
+      "options": {
+        "A": "latente,",
+        "B": "absoluto,",
+        "C": "sensível,",
+        "D": "específico."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 35,
+      "question": "Mantendo-se a pressão invariável, e decrescendo a temperatura do ar, ocorreria saturação de um dado volume de ar, na temperatura do:",
+      "options": {
+        "A": "bulbo seco,",
+        "B": "bulbo úmido,",
+        "C": "ponto de orvalho,",
+        "D": "ponto de congelamento."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 36,
+      "question": "O QFE é uma pressão ao nível:",
+      "options": {
+        "A": "de vôo,",
+        "B": "da pista,",
+        "C": "de altitude,",
+        "D": "de densidade."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 37,
+      "question": "A linha que une pontos de igual pressão nas cartas sinóticas é chamada de:",
+      "options": {
+        "A": "isógona,",
+        "B": "isótoca,",
+        "C": "isoípsa,",
+        "D": "isóbara."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 38,
+      "question": "Na análise dos campos de pressão nas cartas sinóticas, uma figura singular situada entre duas altas e duas baixas, simultaneamente, é denominada:",
+      "options": {
+        "A": "col,",
+        "B": "crista,",
+        "C": "cavado,",
+        "D": "anomalia."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 39,
+      "question": "Altímetro indicando altura está ajustado para:",
+      "options": {
+        "A": "QNE,",
+        "B": "QNH,",
+        "C": "QFF,",
+        "D": "QFE."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 40,
+      "question": "A pressão atmosférica, medida ao nível da pista de um aeródromo, é conhecida como:",
+      "options": {
+        "A": "QFE,",
+        "B": "QNE,",
+        "C": "QNH,",
+        "D": "QFF."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 41,
+      "question": "Ajuste idêntico ao nível médio do mar (QNE) é o:",
+      "options": {
+        "A": "QFE,",
+        "B": "QFF,",
+        "C": "QNH,",
+        "D": "QAN."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 42,
+      "question": "Sempre que a altitude é maior que a altitude pressão, o valor D é:",
+      "options": {
+        "A": "nulo,",
+        "B": "positivo,",
+        "C": "negativo,",
+        "D": "inexistente."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 43,
+      "question": "Os mapas em relevo, representam o nível médio do mar, onde se processam as análises do campo de pressão para meteorologia, são conhecidos como:",
+      "options": {
+        "A": "mapa mundi,",
+        "B": "carta de tempo,",
+        "C": "carta sinótica,",
+        "D": "mapa de previsão."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 44,
+      "question": "Uma aeronave sobrevoa uma região no FL 70, onde o QNH no momento é 1020 hPa. Pode-se afirmar que a aeronave encontra-se na altitude:",
+      "options": {
+        "A": "real de 6890FT,",
+        "B": "real de 7210FT,",
+        "C": "pressão de 6890FT,",
+        "D": "pressão de 7210FT."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 45,
+      "question": "Estando pousada em um aeródromo de 300 pés de elevação, quando o QNH é 1023 hPa, uma aeronave terá uma altitude pressão igual a :",
+      "options": {
+        "A": "0 pés,",
+        "B": "300 pés,",
+        "C": "600 pés,",
+        "D": "–300 pés."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 46,
+      "question": "Em um aeródromo existem cumulus com base à 1500m e a temperatura da base é o de 7º C. Sabendo-se que o topo encontra-se à 2500m, qual a temperatura do topo da nuvem?",
+      "options": {
+        "A": "0,6°C,",
+        "B": "0,8°C,",
+        "C": "1,0°C,",
+        "D": "1,2°C."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 47,
+      "question": "O gradiente vertical térmico de 0,5º C/100m identifica uma massa de ar:",
+      "options": {
+        "A": "estável,",
+        "B": "instável,",
+        "C": "condicional,",
+        "D": "superadiabática."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 48,
+      "question": "Sendo dadas as temperaturas do ar e do ponto de orvalho iguais a 24º C e 20º C, a altura da base de nuvens cumulus estará a :",
+      "options": {
+        "A": "500m,",
+        "B": "500ft,",
+        "C": "1000m,",
+        "D": "1000ft."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 49,
+      "question": "A precipitação líquida, na forma de chuvisco, é produzida por nuvens:",
+      "options": {
+        "A": "stratus,",
+        "B": "cumulus,",
+        "C": "nimbustratus,",
+        "D": "cumulunimbus."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 50,
+      "question": "As nuvens que apresentam desenvolvimento vertical são denominadas:",
+      "options": {
+        "A": "mistas,",
+        "B": "sólidas,",
+        "C": "líquidas,",
+        "D": "formadas por cristais."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 51,
+      "question": "Nuvens baixas e uniformes, geralmente acinzentadas, que produzem, por vezes, chuviscos, são classificadas como:",
+      "options": {
+        "A": "stratus,",
+        "B": "cumulus,",
+        "C": "altostratus,",
+        "D": "nimbustratus."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 52,
+      "question": "Nuvens CB e CU são nuvens baixas com desenvolvimento:",
+      "options": {
+        "A": "vertical,",
+        "B": "advectivo,",
+        "C": "horizontal,",
+        "D": "adiabático."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 53,
+      "question": "As nuvens cirriformes têm aparência:",
+      "options": {
+        "A": "fibrosa,",
+        "B": "de blocos,",
+        "C": "de torres,",
+        "D": "convectiva."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 54,
+      "question": "A formação do fenômeno meteorológico HALO é comum em nuvens:",
+      "options": {
+        "A": "NS,",
+        "B": "CS,",
+        "C": "SC,",
+        "D": "AS."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 55,
+      "question": "Em ar instável as nuvens encontradas são do tipo:",
+      "options": {
+        "A": "CI,",
+        "B": "ST,",
+        "C": "NS,",
+        "D": "CU."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 56,
+      "question": "A precipitação na forma de pancadas é típicas de nuvens:",
+      "options": {
+        "A": "cirrus,",
+        "B": "stratus,",
+        "C": "cumulus,",
+        "D": "nimbustratus."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 57,
+      "question": "As nuvens mais baixas são encontradas com bases de altura que variam entre 30 e:",
+      "options": {
+        "A": "100 metros,",
+        "B": "600 metros,",
+        "C": "2000 metros,",
+        "D": "4000 metros."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 58,
+      "question": "As nuvens que apresentam uma forma aproximada de lente biconvexa, localizadas a sotavento das montanhas, em dias de ventos fortes, são do tipo:",
+      "options": {
+        "A": "stratus,",
+        "B": "mamatus,",
+        "C": "lenticulares,",
+        "D": "cirrostratus. Sua resposta: a. Alternativa correta: c"
+      },
+      "correct": "C"
+    },
+    {
+      "number": 59,
+      "question": "As nuvens altas, nas latitudes tropicais, são:",
+      "options": {
+        "A": "sólidas, cirriformes com bases acima de 8000 metros,",
+        "B": "mistas, estratiformes com bases acima de 8000 metros,",
+        "C": "cirriformes, liquidas com bases acima de 4000 metros,",
+        "D": "sólidas, estratiformes, com bases acima de 2000 metros."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 60,
+      "question": "As nuvens cumuliformes formam-se em ar:",
+      "options": {
+        "A": "neutro,",
+        "B": "estável,",
+        "C": "instável,",
+        "D": "condicional."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 61,
+      "question": "Nuvens isoladas, densas, com pronunciado desenvolvimento vertical, possuindo bases niveladas, podendo produzir pancadas de chuva, são denominadas:",
+      "options": {
+        "A": "stratus,",
+        "B": "cumulus,",
+        "C": "altostratus,",
+        "D": "cirrocumulus;."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 62,
+      "question": "As nuvens lenticulares denunciam a presença de turbulência:",
+      "options": {
+        "A": "Térmica,",
+        "B": "Dinâmica,",
+        "C": "Mecânica,",
+        "D": "Orográfica."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 63,
+      "question": "Os cumulunimbus ocorrerão, SOMENTE, se a atmosfera estiver:",
+      "options": {
+        "A": "estável,",
+        "B": "instável,",
+        "C": "isotérmica,",
+        "D": "condicional."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 64,
+      "question": "A brisa marítima é de natureza:",
+      "options": {
+        "A": "gradiente,",
+        "B": "geostrófica,",
+        "C": "barostrófica,",
+        "D": "ciclostrófica."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 65,
+      "question": "As brisas marítimas e terrestres são consideradas ventos:",
+      "options": {
+        "A": "de vale,",
+        "B": "gradientes,",
+        "C": "geostrósficos,",
+        "D": "barostróficos."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 66,
+      "question": "A identificação da névoa úmida é feita quando a :",
+      "options": {
+        "A": "umidade relativa é inferior a 80%,",
+        "B": "umidade relativa é superior a 80%,",
+        "C": "visibilidade horizontal é igual a zero metros,",
+        "D": "visibilidade horizontal é inferior a 1000 metros."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 67,
+      "question": "O ar se movimenta horizontalmente e se resfria formando nevoeiro de:",
+      "options": {
+        "A": "brisa,",
+        "B": "vapor,",
+        "C": "radiação,",
+        "D": "advecção."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 68,
+      "question": "À noite, no inverno, quando o céu apresentar-se sem nebulosidade e com vento calmo, haverá maior probabilidade de, pela manhã seguinte, ocorrer:",
+      "options": {
+        "A": "chuva,",
+        "B": "frente,",
+        "C": "trovoada,",
+        "D": "nevoeiro."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 69,
+      "question": "Céu claro e radiação terrestre no interior continental facilita, no inverno, a formação de nevoeiros:",
+      "options": {
+        "A": "de brisa,",
+        "B": "frontais,",
+        "C": "de advecção,",
+        "D": "de radiação."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 70,
+      "question": "Entre os hidrometeoros precipitantes, aquele que mais reduz a visibilidade é denominado:",
+      "options": {
+        "A": "chuva,",
+        "B": "granizo,",
+        "C": "pancada,",
+        "D": "chuvisco."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 71,
+      "question": "Entre os fenômenos que mais reduzem a visibilidade em um aeródromo encontra-se o/a:",
+      "options": {
+        "A": "chuva,",
+        "B": "chuvisco,",
+        "C": "névoa seca,",
+        "D": "névoa úmida."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 72,
+      "question": "São hidrometeoros precipitantes:",
+      "options": {
+        "A": "geada, neve e granizo,",
+        "B": "chuva,chuvisco e neve,",
+        "C": "orvalho, chuva e fumaça,",
+        "D": "geada, orvalho e chuvisco."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 73,
+      "question": "Será considerado nevoeiro, quando a visibilidade horizontal estiver:",
+      "options": {
+        "A": "igual a 3000 metro,",
+        "B": "inferior a 1000 metro,",
+        "C": "superior a 3000 metros,",
+        "D": "entre 1000 e 3000 metros."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 74,
+      "question": "Os nevoeiros orográficos ocorrem devido ao levantamento do ar pela presença de:",
+      "options": {
+        "A": "rios,",
+        "B": "vales,",
+        "C": "relevos,",
+        "D": "planaltos."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 75,
+      "question": "Ar quente e úmido deslocando-se sobre as superfícies líquidas e frias, provoca formação de nevoeiro:",
+      "options": {
+        "A": "frontal,",
+        "B": "de brisa,",
+        "C": "de vapor,",
+        "D": "marítimo."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 76,
+      "question": "A turbulência orográfica é um movimento vertical do ar em regiões:",
+      "options": {
+        "A": "planas,",
+        "B": "térmicas,",
+        "C": "dinâmicas,",
+        "D": "montanhosas."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 77,
+      "question": "Ondas estacionárias são observadas :",
+      "options": {
+        "A": "sobre montanhas,",
+        "B": "a sotavento das montanhas,",
+        "C": "a barlaventos das montanhas,",
+        "D": "nas encostas das montanhas."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 78,
+      "question": "Partículas sólidas, em suspensão no ar, tais como poeiras, sais, etc... e que reduzem a visibilidade, constituem-se em:",
+      "options": {
+        "A": "fonometeoros,",
+        "B": "litometeoros,",
+        "C": "fotometeors,",
+        "D": "hidrometeoros."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 79,
+      "question": "Chuvas associadas a turbulência, são fenômenos ocasionados, geralmente, pela presença de:",
+      "options": {
+        "A": "cristais,",
+        "B": "trovoadas,",
+        "C": "anticiclones,",
+        "D": "corrente de jato."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 80,
+      "question": "Com instabilidade ocorrem correntes e o ar é agitado na:",
+      "options": {
+        "A": "vertical,",
+        "B": "superfície,",
+        "C": "horizontal,",
+        "D": "condicional."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 81,
+      "question": "A fase da trovoada, na qual há um certo equilíbrio entre as quantidades de corantes ascendentes e descendentes, denomina-se:",
+      "options": {
+        "A": "cumulus,",
+        "B": "formação,",
+        "C": "maturidade,",
+        "D": "dissipação."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 82,
+      "question": "Uma aeronave em vôo, havendo trovoada, deve evitá-la e voar para sua segurança, a mais ou menos .... da trovoada.",
+      "options": {
+        "A": "2 milhas,",
+        "B": "20 milhas,",
+        "C": "10 milhas,",
+        "D": "20 metros."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 83,
+      "question": "Expansões laterais exageradas caracterizam:",
+      "options": {
+        "A": "trovoadas em dissipação,",
+        "B": "trovoadas em fase madura,",
+        "C": "trovoadas em fase cumulus,",
+        "D": "cumulus no seu máximo desenvolvimento."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 84,
+      "question": "As turbulências térmicas são observadas:",
+      "options": {
+        "A": "até o nível da base dos cumulus,",
+        "B": "até o nível do topo dos cumulus,",
+        "C": "SOMENTE dentro de nuvens cumulus,",
+        "D": "Até nível muito acima do tipo de cumulus."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 85,
+      "question": "A observação visual de uma cortina esverdeada desenvolvendo-se na vertical dentro ou fora de uma trovoada significa:",
+      "options": {
+        "A": "forte turbulência,",
+        "B": "pancada forte de chuva,",
+        "C": "queda de granizo ou saraiva,",
+        "D": "correntes descentes muito fortes."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 86,
+      "question": "A turbulência por cortante de vento a baixa altura (wind shear) é provocada pela variação da ..... do vento.",
+      "options": {
+        "A": "densidade,",
+        "B": "velocidade média,",
+        "C": "esteira de turbulência,",
+        "D": "direção e/ou intensidade."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 87,
+      "question": "Turbulência de céu claro (CAT) define uma região em altitude, que indica existência de uma:",
+      "options": {
+        "A": "frontal,",
+        "B": "cortante,",
+        "C": "estabilidade,",
+        "D": "corrente de jato."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 88,
+      "question": "O relâmpago horizontal predomina no/na:",
+      "options": {
+        "A": "traseira do CB,",
+        "B": "dianteira do CB,",
+        "C": "lado direito do CB,",
+        "D": "lado esquerdo do CB."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 89,
+      "question": "Uma trovoada alcança o desenvolvimento máximo quando se encontra na fase:",
+      "options": {
+        "A": "inicial,",
+        "B": "cumulus,",
+        "C": "de maturidade,",
+        "D": "de dissipação."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 90,
+      "question": "A turbulência provocada por auto convecção da atmosfera é denominada:",
+      "options": {
+        "A": "térmica,",
+        "B": "de solo,",
+        "C": "dinâmica,",
+        "D": "orográfica."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 91,
+      "question": "Chuvas intensas associadas às turbulências são fenômenos, geralmente, associados aos/as:",
+      "options": {
+        "A": "trovoadas,",
+        "B": "anticiclone,",
+        "C": "frentes quente,",
+        "D": "correntes de jato."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 92,
+      "question": "Divide-se a evolução das trovoadas em:",
+      "options": {
+        "A": "2 estágios,",
+        "B": "3 estágios,",
+        "C": "4 estágios,",
+        "D": "5 estágios."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 93,
+      "question": "O equilíbrio entre correntes ascendentes e descendentes evidencia uma trovoada na fase de:",
+      "options": {
+        "A": "expansão,",
+        "B": "formação,",
+        "C": "dissipação,",
+        "D": "maturação."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 94,
+      "question": "Quando voando em áreas de trovoadas, o piloto deverá manter-se afastado delas por medida de segurança a uma distância NÃO inferior a :",
+      "options": {
+        "A": "05NM,",
+        "B": "10NM,",
+        "C": "15NM,",
+        "D": "20NM."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 95,
+      "question": "Quando voando em áreas de trovoadas, o piloto deverá manter-se afastado delas por medida de segurança a uma distância NÃO inferior a :",
+      "options": {
+        "A": "05NM,",
+        "B": "10NM,",
+        "C": "15NM,",
+        "D": "20NM."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 96,
+      "question": "A causa principal da presença de ventos está na variação da:",
+      "options": {
+        "A": "pressão,",
+        "B": "altitude,",
+        "C": "latitude,",
+        "D": "umidade."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 97,
+      "question": "Ventos Alísios tem sua predominância no hemisfério sul, fluindo do:",
+      "options": {
+        "A": "sudeste,",
+        "B": "nordeste,",
+        "C": "sudoeste,",
+        "D": "noroeste."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 98,
+      "question": "Quando uma aeronave se desloca, o movimento causa duas trajetórias, uma real e outra aparente em relação a superfície, causando desvio de rota, este desvio é conhecido como:",
+      "options": {
+        "A": "rotação,",
+        "B": "circulação,",
+        "C": "translação,",
+        "D": "força de coriólis."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 99,
+      "question": "Sempre que se voa no hemisfério norte, de uma região de alta pressão para uma de baixa pressão, verifica-se vento:",
+      "options": {
+        "A": "de proa,",
+        "B": "de cauda,",
+        "C": "pela direita,",
+        "D": "pela esquerda."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 100,
+      "question": "Ao voar no hemisfério sul no FL 100 uma aeronave cruzará sucessivamente altitudes de 3180m, 3240m, 3300m. Nesta situação observará vento de:",
+      "options": {
+        "A": "proa,",
+        "B": "cauda,",
+        "C": "direita,",
+        "D": "esquerda."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 101,
+      "question": "Circulação anti-horária convergente caracteriza:",
+      "options": {
+        "A": "ciclone no hemisfério sul,",
+        "B": "ciclone no hemisfério norte,",
+        "C": "anticiclone no hemisfério sul,",
+        "D": "anticiclone no hemisfério norte."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 102,
+      "question": "O cavado térmico, que separa a circulação entre os dois hemisfério, é denominado:",
+      "options": {
+        "A": "CIO,",
+        "B": "FIT,",
+        "C": "DOLDRUNS,",
+        "D": "Frente polar."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 103,
+      "question": "Todos os ventos que ocorrem abaixo de alturas são denominados:",
+      "options": {
+        "A": "gradientes,",
+        "B": "geostróficos,",
+        "C": "barostróficos,",
+        "D": "ciclostróficos."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 104,
+      "question": "Nas latitudes compreendidas entre 20º N e 20º S há predominância de ventos:",
+      "options": {
+        "A": "de vale,",
+        "B": "alísios,",
+        "C": "estáveis,",
+        "D": "instáveis."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 105,
+      "question": "Os ventos que resultam do efeito direto do gradiente de pressão, denominam-se:",
+      "options": {
+        "A": "gradientes,",
+        "B": "geostróficos,",
+        "C": "barostróficos,",
+        "D": "ciclostróficos."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 106,
+      "question": "Ventos barostróficos circulam a até....... metros da superfície:",
+      "options": {
+        "A": "100,",
+        "B": "600,",
+        "C": "1000,",
+        "D": "6000."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 107,
+      "question": "Ventos pré-frontais de frente fria, no Brasil, fluem de :",
+      "options": {
+        "A": "SE,",
+        "B": "NE,",
+        "C": "SW,",
+        "D": "NW."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 108,
+      "question": "A superfície da Terra influencia o movimento do ar na atmosfera até 100m, considerada camada limite e até 600 m a camada de transição. Acima desta última camada, encontra-se o nível de gradiente com ventos:",
+      "options": {
+        "A": "geostróficos,",
+        "B": "ascendentes,",
+        "C": "de superfície,",
+        "D": "barostróficos."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 109,
+      "question": "Ventos descendentes a sotavento, com aquecimento adiabático é conhecido como efeito de:",
+      "options": {
+        "A": "fohen,",
+        "B": "pascoal,",
+        "C": "coriólis,",
+        "D": "buys ballot."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 110,
+      "question": "Uma massa de ar sobre a cidade de Manaus é uma massa de ar ........ equatorial:",
+      "options": {
+        "A": "úmida,",
+        "B": "marítima,",
+        "C": "tropical,",
+        "D": "continental."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 111,
+      "question": "Uma massa de ar úmida, ao se deslocar sobre uma superfície mais aquecida, poderá ocasionar:",
+      "options": {
+        "A": "nevoeiros,",
+        "B": "trovoadas,",
+        "C": "nuvens estratificadas,",
+        "D": "restrição de visibilidade."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 112,
+      "question": "O deslocamento normal das massas de ar polar na América do Sul é de :",
+      "options": {
+        "A": "SW para NE,",
+        "B": "NE para SW,",
+        "C": "NW para SE,",
+        "D": "SE para NW."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 113,
+      "question": "Se a massa de ar apresenta boa visibilidade, céu claro e baixo temperatura, sua classificação será:",
+      "options": {
+        "A": "CTW,",
+        "B": "CPK,",
+        "C": "MTW,",
+        "D": "MEW."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 114,
+      "question": "O clima predominante em Salvador, capital da Bahia, se deve a massa de ar:",
+      "options": {
+        "A": "mT,",
+        "B": "cT,",
+        "C": "mP,",
+        "D": "cP."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 115,
+      "question": "No Brasil as frentes frias têm um deslocamento médio de:",
+      "options": {
+        "A": "NW para SE,",
+        "B": "SW para NE,",
+        "C": "SE para NW,",
+        "D": "NE para SW."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 116,
+      "question": "O primeiro indício da aproximação de uma frente fria é:",
+      "options": {
+        "A": "o surgimento de nuvens do tipo cirrus,",
+        "B": "a queda da temperatura,",
+        "C": "a ocorrência de trovoadas,",
+        "D": "a mudança dos ventos para sudoeste."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 117,
+      "question": "As frentes são fenômenos encontrados nas análises sinóticas, posicionadas nos/nas:",
+      "options": {
+        "A": "col,",
+        "B": "cristas,",
+        "C": "cavados,",
+        "D": "centro de baixa."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 118,
+      "question": "A aproximação de uma frente fria é conhecida pelo/pela:",
+      "options": {
+        "A": "queda de temperatura e queda de pressão,",
+        "B": "aumento da temperatura e queda da pressão,",
+        "C": "queda da temperatura e aumento da pressão,",
+        "D": "aumento da temperatura e aumento da pressão."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 119,
+      "question": "Numa frente quente a seqüência de nuvens pré-frontais é a seguinte:",
+      "options": {
+        "A": "NS, SC, AS, AC, CI,",
+        "B": "CI, CS, AS, NS, ST,",
+        "C": "CB, CI, CS, AS,AC,",
+        "D": "AS, AC, CS, CI, NS."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 120,
+      "question": "As frentes ocorrem sempre entre dois sistemas de:",
+      "options": {
+        "A": "altas pressões,",
+        "B": "baixas pressões,",
+        "C": "pressões crescentes,",
+        "D": "pressões constantes."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 121,
+      "question": "A massa de ar que avança na direção de uma superfície com massa de ar quente, é considerada como uma frente:",
+      "options": {
+        "A": "fria,",
+        "B": "oclusa,",
+        "C": "quente,",
+        "D": "estacionária."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 122,
+      "question": "Monção de verão ocorre:",
+      "options": {
+        "A": "do mar para terra,",
+        "B": "da terra para o mar,",
+        "C": "sobre as altitudes elevadas,",
+        "D": "devido a existência de águas do mar, frias."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 123,
+      "question": "O deslocamento de uma massa de ar provoca turbulência:",
+      "options": {
+        "A": "frontal,",
+        "B": "cortante,",
+        "C": "instável,",
+        "D": "de corrente de jato."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 124,
+      "question": "O início do deslocamento de uma massa de ar, fria ou quente, é conhecido como:",
+      "options": {
+        "A": "estacionária,",
+        "B": "frontogênese,",
+        "C": "frente frontal,",
+        "D": "frente em altitude."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 125,
+      "question": "ISA + 10 para o nível de 9000 pés corresponde a:",
+      "options": {
+        "A": "7º C,",
+        "B": "13º C,",
+        "C": "–3º C,",
+        "D": "–10º C."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 126,
+      "question": "A temperatura ISA + 10 no FL 230 é de :",
+      "options": {
+        "A": "–41º C,",
+        "B": "–31º C,",
+        "C": "–21º C,",
+        "D": "–11º C."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 127,
+      "question": "ISA + 1 para o nível de 8000 pés, é:",
+      "options": {
+        "A": "01º C.,",
+        "B": "00º C,",
+        "C": "–01º C,",
+        "D": "–02º C."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 128,
+      "question": "A temperatura verdadeira no FL80, onde ela é igual a ISA +18, é:",
+      "options": {
+        "A": "4º C,",
+        "B": "17º C,",
+        "C": "19º C,",
+        "D": "–17º C."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 129,
+      "question": "Chuvas intensas associadas às turbulências são fenômenos, geralmente, associados aos/as:",
+      "options": {
+        "A": "trovoadas,",
+        "B": "anticiclone,",
+        "C": "frentes quente,",
+        "D": "correntes de jato."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 130,
+      "question": "Gelo do tipo escarcha forma-se nas aeronaves sempre que estas voarem em condições:",
+      "options": {
+        "A": "estáveis,",
+        "B": "instáveis,",
+        "C": "condicionais,",
+        "D": "turbulentas."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 131,
+      "question": "O gelo tipo escarcha, amorfo, é encontrado principalmente em nuvens:",
+      "options": {
+        "A": "CI,",
+        "B": "AS,",
+        "C": "CB,",
+        "D": "CV."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 132,
+      "question": "Chuva sob nuvem, em temperaturas menores que 0º C, acarreta numa aeronave, formação de:",
+      "options": {
+        "A": "geada,",
+        "B": "gelo forte,",
+        "C": "gelo tipo escarcha,",
+        "D": "gelo leve tipo claro."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 133,
+      "question": "O gelo claro ( vidrado) predomina com temperatura:",
+      "options": {
+        "A": "abaixo de 0º C em CB,",
+        "B": "acima de 0º C em NS,",
+        "C": "abaixo de 0º C em NS,",
+        "D": "acima de 0º C em CB."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 134,
+      "question": "O granizo é identificado em uma trovoada visualmente pela coloração:",
+      "options": {
+        "A": "azul,",
+        "B": "verde,",
+        "C": "preta,",
+        "D": "branca."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 135,
+      "question": "O gelo que adere, de difícil remoção e perigoso, é conhecido como gelo:",
+      "options": {
+        "A": "misto,",
+        "B": "claro,",
+        "C": "amorfo,",
+        "D": "de geada."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 136,
+      "question": "METAR SBME011500Z 03010KT CAVOK 30/22 Q1016=. O termo CAVOK indica que há:",
+      "options": {
+        "A": "formação de CB com turbulência,",
+        "B": "visibilidade vertical menor que 1500M,",
+        "C": "visibilidade horizontal menor que 10km,",
+        "D": "visibilidade horizontal, tempo presente e nebulosidade não restringindo a operação do aeródromo."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 137,
+      "question": "O grupo R12/M0050, codificado no METAR, significa RVR na (s) pista (s):",
+      "options": {
+        "A": "12, igual a 50 metros,",
+        "B": "12, menor que 50 metros,",
+        "C": "05, igual a 1200 metros,",
+        "D": "05, menor que 1200 metros."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 138,
+      "question": "As cartas de tempo significativo SIGWX confeccionadas as VTI200Z:",
+      "options": {
+        "A": "permitem seu uso apenas as1200UTC,",
+        "B": "permitem seu uso das 0900 as 1500UTC,",
+        "C": "significam ser validas por 12 horas,",
+        "D": "significam que as cartas foram confeccionadas com 12 horas de antecedência."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 139,
+      "question": "Em um TAF, o grupo 611003 significa formação de gelo entre altitudes de:",
+      "options": {
+        "A": "11000 e 13000 pés,",
+        "B": "10000 e 13000 pés,",
+        "C": "11000 e 10300 pés,",
+        "D": "10000 e 10300 pés."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 140,
+      "question": "Numa carta SIG WX PROG onde é prognosticada formação de CAT FL 380/300, pode-se concluir que será encontrada turbulência de céu claro entre:",
+      "options": {
+        "A": "300 e 380 pés,",
+        "B": "380 e 300 pés,",
+        "C": "3000 e 3800 pés,",
+        "D": "30000 e 38000 pés."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 141,
+      "question": "No METAR SBGR20 1000Z 12003kt 0600 R09/0800 R27/1150 FG VV002 18/18 Q1025, a visibilidade no aeródromo é de :",
+      "options": {
+        "A": "600m,",
+        "B": "800m,",
+        "C": "1150m,",
+        "D": "2000m."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 142,
+      "question": "Uma mensagem para previsão de um determinado aeródromo visando o planejamento de um vôo é uma mensagem:",
+      "options": {
+        "A": "TAF,",
+        "B": "TEMP,",
+        "C": "SPECI,",
+        "D": "METAR."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 143,
+      "question": "O vento e a temperatura prevista para as coordenadas 15º S e 045º W são: Na carta (Wind aloft) VALID 1200 UTC 31 99 do FL 300 responda:",
+      "options": {
+        "A": "150º com 20kt e 31º C,",
+        "B": "180º com 25kt e 32º C,",
+        "C": "200º com 30kt e 33º C,",
+        "D": "240º com 33kt e 34º C."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 144,
+      "question": "No METAR SBRJ 151800Z 17008 9999 FEW010 SCT020 BK030 26/20 Q1016=, no grupo de nuvens há informação que há na primeira camada de:",
+      "options": {
+        "A": "3 à 4/8,",
+        "B": "1 à 2/8,",
+        "C": "7 à 8/8,",
+        "D": "2 à 5/8."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 145,
+      "question": "No METAR SBGL03 1600Z 16006kt 4000 –RA SCT008 BKN020 0VC090 21/21 Q1013 tem-se:",
+      "options": {
+        "A": "chuva moderada,",
+        "B": "visibilidade com 4000 pés,",
+        "C": "abóboda celeste encoberta,",
+        "D": "pressão ao nível da pista, 1013 HPA."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 146,
+      "question": "O grupo “DZFG”, codificado no METAR, significa:",
+      "options": {
+        "A": "chuva leve e nevoeiro,",
+        "B": "chuva moderada e nevoeiro,",
+        "C": "chuvisco leve e nevoeiro,",
+        "D": "chuvisco moderado e nevoeiro."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 147,
+      "question": "METAR SBRJ 071300Z 13005KT 8000HZ SCT020 BKN080 25/19 Q1018. A hora local a que se refere o METAR é:",
+      "options": {
+        "A": "13:00H,",
+        "B": "10:00H,",
+        "C": "07:13H,",
+        "D": "16:00H."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 148,
+      "question": "O vento e a temperatura prevista para as coordenadas 30º S e 060º W são:",
+      "options": {
+        "A": "180º com 05kt e 05º C positivos,",
+        "B": "200º com 10kt e 09º C negativos,",
+        "C": "220º com 15kt e 09º C negativos,",
+        "D": "250º com 20kt e 08º C negativos."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 149,
+      "question": "A frente prevista é:",
+      "options": {
+        "A": "fria,",
+        "B": "quente,",
+        "C": "oclusa,",
+        "D": "estacionária."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 150,
+      "question": "Em um METAR é informada a direção e a velocidade do vento da seguinte forma: 19006G30, a letra G indica que foi observado vento:",
+      "options": {
+        "A": "médio,",
+        "B": "horário,",
+        "C": "de rajada,",
+        "D": "de través."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 151,
+      "question": "O vento e a temperatura prevista para as coordenadas 35º S e 045º W são:",
+      "options": {
+        "A": "200º com 40kt e 33º C negativos,",
+        "B": "240º com 55kt e 35º C negativos,",
+        "C": "270º com 60kt e 38º C negativos,",
+        "D": "300º com 75kt e 39º C negativos."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 152,
+      "question": "Quando for registrada a quantidade de nebulosidade e tiver sido observado pouco espaço entre os elemento que compõem a camada de nuvens , este aparecerá no METAR com:",
+      "options": {
+        "A": "SKC,",
+        "B": "OVC,",
+        "C": "BKN,",
+        "D": "SCT."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 153,
+      "question": "No METAR SBSV 1600Z 10025kt 9999 SCT016 32/23 Q1011, tem-se:",
+      "options": {
+        "A": "ar saturado,",
+        "B": "vento de rajada com 25 kt,",
+        "C": "céu nublado com nuvens do estágio baixo,",
+        "D": "visibilidade igual ou superior a 10000 metros."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 154,
+      "question": "O fenômeno previsto entre 22º S / 045º W e 22º S / 043º W é:",
+      "options": {
+        "A": "neve,",
+        "B": "chuva,",
+        "C": "chuvisco,",
+        "D": "nevoeiro."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 155,
+      "question": "No METAR SBPK 11 1000Z 07012kt 6000 TS SCT033 30/12, os grupos, \"6000 TS\", significam:",
+      "options": {
+        "A": "hora UTC e visibilidade,",
+        "B": "visibilidade e trovoada,",
+        "C": "direção e velocidade do vento,",
+        "D": "temperaturas do ar e do ponto de orvalho."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 156,
+      "question": "O TAF é uma mensagem de previsão para determinado(",
+      "options": {
+        "A": "aeródromo e válido,",
+        "B": "navegação e válido,",
+        "C": "validade e regional, d) operação e divulgado."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 157,
+      "question": "Conforme o prognóstico em anexo, o sistema ciclônica está previsto com:",
+      "options": {
+        "A": "1004 HPA,",
+        "B": "1024 HPA,",
+        "C": "altitude de 1005ft,",
+        "D": "velocidade de 14 km/h."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 158,
+      "question": "O vento e a temperatura prevista para as coordenadas 05º S e 065º W são:",
+      "options": {
+        "A": "180º com 10kt e 06º C positivos,",
+        "B": "200º com 15kt e 07º C negativos,",
+        "C": "220º com 18kt e 06º C positivos,",
+        "D": "240º com 05kt e 07º C negativos."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 159,
+      "question": "A Mensagem aeronáutica que informa condições adversas ao vôo denomina-se:",
+      "options": {
+        "A": "Taf",
+        "B": "Speci",
+        "C": "Sig Met",
+        "D": "Armet"
+      },
+      "correct": "C"
+    },
+    {
+      "number": 160,
+      "question": "O responsável pela confecção e transmição do AIREP é o :",
+      "options": {
+        "A": "Operador do órgão de trafego aéreo",
+        "B": "Comandante da ACFT",
+        "C": "Meteorologista do CM -1",
+        "D": "Navegador da ACFT"
+      },
+      "correct": "B"
+    }
+  ],
+  "sections": [
+    {
+      "id": 1,
+      "name": "Simulado 01",
+      "from": 1,
+      "to": 20
+    },
+    {
+      "id": 2,
+      "name": "Simulado 02",
+      "from": 21,
+      "to": 40
+    },
+    {
+      "id": 3,
+      "name": "Simulado 03",
+      "from": 41,
+      "to": 60
+    },
+    {
+      "id": 4,
+      "name": "Simulado 04",
+      "from": 61,
+      "to": 80
+    },
+    {
+      "id": 5,
+      "name": "Simulado 05",
+      "from": 81,
+      "to": 100
+    },
+    {
+      "id": 6,
+      "name": "Simulado 06",
+      "from": 101,
+      "to": 120
+    },
+    {
+      "id": 7,
+      "name": "Simulado 07",
+      "from": 121,
+      "to": 140
+    },
+    {
+      "id": 8,
+      "name": "Simulado 08",
+      "from": 141,
+      "to": 160
+    }
+  ],
+  "sourceNotes": "O PDF contém um item adicional numerado '000)' entre as questões 90 e 91, sem entrada correspondente no gabarito de 160 questões. Esse item foi preservado apenas como observação e não foi incluído no banco pontuado."
+}
