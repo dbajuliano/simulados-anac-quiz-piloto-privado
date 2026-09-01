@@ -1,0 +1,14 @@
+{
+  "subjects": [
+    {
+      "id": "teoria-de-voo",
+      "name": "Teoria de Voo",
+      "file": "data/teoria-de-voo.json"
+    },
+    {
+      "id": "regulamento-de-trafego",
+      "name": "Regulamento de Tráfego",
+      "file": "data/regulamento-de-trafego.json"
+    }
+  ]
+}

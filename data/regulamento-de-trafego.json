@@ -1,0 +1,1740 @@
+{
+  "subject": "Regulamento de Tráfego",
+  "source": "Simulado-RegulamentoTrafego(153Questoes)(1).pdf",
+  "timeLimitSeconds": 1800,
+  "questions": [
+    {
+      "number": 1,
+      "question": "No item 215 do plano de vôo, o valor declarado como velocidade de cruzeiro refere-se a velocidade:",
+      "options": {
+        "A": "no solo,",
+        "B": "indicada,",
+        "C": "calibrada,",
+        "D": "aerodinâmica. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 2,
+      "question": "O serviço de controle de área será prestado por:",
+      "options": {
+        "A": "controle de aproximação (APP),",
+        "B": "torre de controle de aeródromo,",
+        "C": "controle de aproximação (APP) ou por uma TWR a qual tenha sido delegada a atribuição de prestar tal serviço, dentro de determinado espaço aéreo,",
+        "D": "centro de controle de área (ACC) ou por uma APP ao qual tenha sido delegada a atribuição de prestar tal serviço, dentro de determinado espaço aéreo. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 3,
+      "question": "Espaço aéreo de dimensões definidas, dentro do qual o vôo só poderá ser realizado sob condições preestabelecidas:",
+      "options": {
+        "A": "Área reservada,",
+        "B": "Área restrita,",
+        "C": "Área perigosa,",
+        "D": "Área proibida. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 4,
+      "question": "A posição vertical de uma aeronave na subida será expressa em _________ até atingir o(a) _________, acima do(a) qual a posição vertical será expressa em ____________.",
+      "options": {
+        "A": "nível, altitude de transição, nível de vôo,",
+        "B": "nível, nível de transição, altitude,",
+        "C": "altitude, altitude de transição, nível de vôo,",
+        "D": "altitude, nível de transição; altitude. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 5,
+      "question": "Conjunto de AWYs inferiores ou parte do espaço aéreo definida como tal, de responsabilidade de um ACC:",
+      "options": {
+        "A": "ATZ,",
+        "B": "CTR,",
+        "C": "CTA,",
+        "D": "TMA. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 6,
+      "question": "A altitude oficial de um aeródromo ou de um ponto, indicada por um altímetro ajustado para a pressão local, é designada pelo código:",
+      "options": {
+        "A": "QFF,",
+        "B": "QFE,",
+        "C": "QNE,",
+        "D": "QNH. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 7,
+      "question": "A largura máxima de uma aerovia inferior, entre dois auxílios à navegação distantes 120 NM entre si é de:",
+      "options": {
+        "A": "4 NM,",
+        "B": "8 NM,",
+        "C": "11 NM,",
+        "D": "16 NM. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 8,
+      "question": "Os vôos VFR, quando realizados _________ de altura, o farão em um nível constante da tabelas de níveis de cruzeiro, compatível com o rumo magnético.",
+      "options": {
+        "A": "abaixo de 1500 ft,",
+        "B": "abaixo de 3000 ft,",
+        "C": "acima de 3000 ft,",
+        "D": "abaixo de 5000 ft. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 9,
+      "question": "O espaço aéreo que compreende as aerovias superiores e outras porções do espaço aéreo superior, assim definidas, recebe o nome de:",
+      "options": {
+        "A": "área de controle (CTA),",
+        "B": "área de controle terminal (TMA),",
+        "C": "área superior de controle (UTA),",
+        "D": "região superior de informação de vôo (UIR). "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 10,
+      "question": "Não havendo circuito especial publicado e não sendo recebida nenhuma instrução especificada da torre, uma ACFT executando o circuito para pouso, ao fim da perna contra o vento deverá:",
+      "options": {
+        "A": "curvar a direita e alinhar-se com a RWY,",
+        "B": "curvar a esquerda e alinhar-se com a RWY,",
+        "C": "voar transversalmente ao eixo da RWY, cruzando o segmento de decolagem,",
+        "D": "voar transversalmente ao eixo da RWY, cruzando o segmento de aproximação.  "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 11,
+      "question": "O plano de vôo é válido até ..... minutos além da hora estimada de calços fora.",
+      "options": {
+        "A": "15,",
+        "B": "30,",
+        "C": "45,",
+        "D": "60. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 12,
+      "question": "A separação vertical em rota é obtida exigindo-se que as aeronaves voem nos seus respectivos níveis e ajustados os altímetros com os valores referentes ao:",
+      "options": {
+        "A": "QFF,",
+        "B": "QNE,",
+        "C": "QFE,",
+        "D": "QNH. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 13,
+      "question": "Código não discreto reservado para situações de falha de comunicação:",
+      "options": {
+        "A": "2000,",
+        "B": "7500,",
+        "C": "7600,",
+        "D": "7700. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 14,
+      "question": "Parte do aeródromo destinada ao pouso, decolagem e táxi das aeronaves, excluídos os pátios.",
+      "options": {
+        "A": "área de movimento,",
+        "B": "área de pouso,",
+        "C": "área de circulação,",
+        "D": "área de manobras. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 15,
+      "question": "Para realizar vôo VFR acima de 3000 FT em relação ao solo ou água, deverá ser selecionado um nível de vôo apropriado:",
+      "options": {
+        "A": "até o FL 155,",
+        "B": "até o FL 195,",
+        "C": "entre os FL 035 e 145,",
+        "D": "entre os FL 035 e 195. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 16,
+      "question": "O local no aeródromo, onde podem ser obtidas informações relativas ao serviço de tráfego aéreo, estará sinalizado com um/uma:",
+      "options": {
+        "A": "cruz branca e dupla,",
+        "B": "seta pintada em cor destacada,",
+        "C": "letra C de cor negra em fundo amarelo,",
+        "D": "quadrado amarelo com diagonais vermelhas. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 17,
+      "question": "Uma pista que tenha as cabeceiras orientadas nos rumos magnéticos 076º e 256º, será identificada como:",
+      "options": {
+        "A": "07/25,",
+        "B": "07/26,",
+        "C": "08/25,",
+        "D": "08/26. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 18,
+      "question": "A separação vertical mínima entre aeronaves sob o controle do ACC abaixo do FL 290 é de:",
+      "options": {
+        "A": "2000 ft,",
+        "B": "1000 ft,",
+        "C": "500 ft,",
+        "D": "4000 ft. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 19,
+      "question": "Independente de solicitação do controlador, o piloto deverá desligar o equipamento transponder:",
+      "options": {
+        "A": "na reta final,",
+        "B": "logo após o pouso,",
+        "C": "no pátio de estacionamento,",
+        "D": "assim que abandone a escuta da TWR. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 20,
+      "question": "Define-se por aeródromo controlado:",
+      "options": {
+        "A": "aeródromo no qual se presta serviço de tráfego aéreo,",
+        "B": "aeródromo no qual se presta serviço de controle de área,",
+        "C": "aeródromo no qual se presta serviço de controle de aeródromo,",
+        "D": "aeródromo no qual se presta serviço de controle de aproximação. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 21,
+      "question": "O código 2000, quando selecionado no transponder, indica que a aeronave:",
+      "options": {
+        "A": "encontra-se em vôo VFR,",
+        "B": "apresenta falha de comunicações,",
+        "C": "está sendo objeto de interferência ilícita,",
+        "D": "ainda NÃO recebeu instruções do órgão ATC. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 22,
+      "question": "O serviço de controle de aeródromo é prestado por um/uma:",
+      "options": {
+        "A": "ACC,",
+        "B": "APP,",
+        "C": "TWR,",
+        "D": "AFIS. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 23,
+      "question": "Manter o fluxo ordenado nas proximidades de um aeródromo e evitar o abalroamento entre aeronaves em vôo, no respectivo circuito de tráfego, são atribuições do/da:",
+      "options": {
+        "A": "ACC,",
+        "B": "APP,",
+        "C": "TCR,",
+        "D": "TWR. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 24,
+      "question": "Os níveis de cruzeiro utilizáveis para voar em aerovia ou fora delas:",
+      "options": {
+        "A": "serão sempre calculados pelo piloto,",
+        "B": "são os constantes da tabela de níveis de cruzeiro,",
+        "C": "constam das cartas de rota,",
+        "D": "constam das cartas de área. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 25,
+      "question": "O único espaço em que o piloto em comando de aeronave em vôo VFR não é responsável pela separação com as demais aeronaves é o:",
+      "options": {
+        "A": "A,",
+        "B": "B,",
+        "C": "C,",
+        "D": "D. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 26,
+      "question": "O limite vertical inferior do espaço aéreo superior é o:",
+      "options": {
+        "A": "FL 145 exclusive,",
+        "B": "FL 145 inclusive,",
+        "C": "FL 245 exclusive,",
+        "D": "FL 245 inclusive. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 27,
+      "question": "O Espaço Aéreo INFERIOR começa no ____________ e termina no _________________.",
+      "options": {
+        "A": "solo ou água, FL 245 exclusive,",
+        "B": "FL 245 exclusive, ilimitado,",
+        "C": "solo ou água, FL 245 inclusive,",
+        "D": "FL 245 inclusive; ilimitado. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 28,
+      "question": "Espaço aéreo controlado que se estende do solo até um limite superior especificado, de responsabilidade de um APP:",
+      "options": {
+        "A": "ATZ,",
+        "B": "CTR, ",
+        "C": "CTA,",
+        "D": "TMA. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 29,
+      "question": "A situação em que uma aeronave e seus ocupantes estão ameaçados de grave e iminente perigo, necessitando de assistência, caracteriza a fase de:",
+      "options": {
+        "A": "alerta,",
+        "B": "perigo,",
+        "C": "incerteza,",
+        "D": "apreensão. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 30,
+      "question": "O sinal de luz branca intermitente emitido por uma TWR para uma aeronave no solo significa:",
+      "options": {
+        "A": "livre táxi,",
+        "B": "mantenha posição,",
+        "C": "afaste-se da pista,",
+        "D": "regresse ao estacionamento. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 31,
+      "question": "Vôos acima da altitude de transição serão conduzidos em:",
+      "options": {
+        "A": "altitude,",
+        "B": "nível,",
+        "C": "nível de vôo,",
+        "D": "altura. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 32,
+      "question": "Estabeleça a correlação: APP(1), TWR(2), ACC(3) para ATZ( ), CTA e UTA( ), CTR e TMA( ):",
+      "options": {
+        "A": "1, 2, 3,",
+        "B": "1, 3, 2,",
+        "C": "2, 1, 3,",
+        "D": "2; 3; 1. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 33,
+      "question": "Os mínimos meteorológicos em aeródromo exigidos para o vôo VFR especial são:",
+      "options": {
+        "A": "visibilidade de 5000 m, teto de 1500 ft,",
+        "B": "visibilidade de 3000 m, teto de 1500 ft,",
+        "C": "visibilidade de 3000 m, teto de 1000 ft,",
+        "D": "visibilidade de 5000 m; teto de 1000 ft. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 34,
+      "question": "Notificação padronizada, transmitida pela ACFT em vôo ao órgão ATS, destinada a fornecer elementos essenciais à segurança do tráfego aéreo:",
+      "options": {
+        "A": "AIREP,",
+        "B": "reporte de posição,",
+        "C": "aeronotificação,",
+        "D": "mensagem de posição. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 35,
+      "question": "A autonomia mínima para uma aeronave voar VFR entre SBSP/SBRJ, alternando SBVT, sabendo-se que o tempo de vôo até o destino é de 0130H e para a alternativa é de 0150 H, será de:",
+      "options": {
+        "A": "0350 H,",
+        "B": "0359 H,",
+        "C": "0405 H, ",
+        "D": "0425 H. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 36,
+      "question": "Em um circuito de tráfego padrão, a trajetória de vôo perpendicular a pista, compreendida entre a perna do vento e a reta final, é denominada:",
+      "options": {
+        "A": "curva base,",
+        "B": "perna base,",
+        "C": "perna de través,",
+        "D": "curva de aproximação. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 37,
+      "question": "Nível mantido durante uma etapa considerável do vôo:",
+      "options": {
+        "A": "nível de vôo,",
+        "B": "altitude de vôo,",
+        "C": "nível de cruzeiro,",
+        "D": "altitude de cruzeiro. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 38,
+      "question": "A fraseologia padrão tem como finalidade:",
+      "options": {
+        "A": "proporcionar mensagens,",
+        "B": "proporcionar autorizações,",
+        "C": "reduzir o ruído das transmissões,",
+        "D": "reduzir ao mínimo o tempo de transmissão das mensagens. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 39,
+      "question": "As condições meteorológicas de vôo visual são representadas pela abreviatura:",
+      "options": {
+        "A": "CMV,",
+        "B": "VMC,",
+        "C": "VFR,",
+        "D": "VHF. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 40,
+      "question": "O altímetro de pressão, calibrado de acordo com a atmosfera padrão, quando ajustado em 1013.2 hPa, indicará:",
+      "options": {
+        "A": "altura,",
+        "B": "altitude,",
+        "C": "nível de vôo,",
+        "D": "nível de transição. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 41,
+      "question": "Área homologada ou registrada, ao nível do solo, elevada, flutuante ou na água, utilizada para pousos e decolagens de helicópteros:",
+      "options": {
+        "A": "heliódromo,",
+        "B": "heliporto,",
+        "C": "heliponto,",
+        "D": "flutuódromo. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 42,
+      "question": "Uma ACFT com peso máximo de decolagem de 7000kg (15000 libras) ou menos é de categoria:",
+      "options": {
+        "A": "média,",
+        "B": "pesada,",
+        "C": "leve,",
+        "D": "pesada ou média. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 43,
+      "question": "O APP tem a atribuição de emitir autorizações de tráfego às aeronaves que estejam voando ou que se proponham a voar em:",
+      "options": {
+        "A": "ATZ ou CTR,",
+        "B": "CTA ou UTA,",
+        "C": "ATZ,",
+        "D": "TMA ou CTR. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 44,
+      "question": "Hora após a qual a autorização será automaticamente cancelada, se o vôo não tiver sido iniciado:",
+      "options": {
+        "A": "limite de autorização,",
+        "B": "hora limite,",
+        "C": "autorização limite,",
+        "D": "hora limite de autorização. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 45,
+      "question": "O vôo VFR especial NÃO é autorizado:",
+      "options": {
+        "A": "dentro de ATAZ ou CTR,",
+        "B": "a) dentro de ATZ ou TMA,",
+        "C": "para aeronaves sem rádio,",
+        "D": "para aeronaves monomotoras. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 46,
+      "question": "Código não discreto reservado para situações de apoderamento ilícito (interferência ilícita):",
+      "options": {
+        "A": "2000,",
+        "B": "7500,",
+        "C": "7600,",
+        "D": "7700. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 47,
+      "question": "O sinal de luz vermelha contínua emitido por uma TWR a uma aeronave em vôo, significa:",
+      "options": {
+        "A": "aeródromo interditado,",
+        "B": "regresse e pouse neste aeródromo,",
+        "C": "aeródromo impraticável. Dirija-se a outro aeródromo,",
+        "D": "dê passagem a outra aeronave. Continue no circuito. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 48,
+      "question": "Se uma autorização emitida pelo órgão ATC não for conveniente:",
+      "options": {
+        "A": "deverá ser cumprida assim mesmo,",
+        "B": "deverá ser contestado de imediato na fonia,",
+        "C": "o piloto deverá fazer constar no livro de bordo,",
+        "D": "o piloto poderá solicitar uma nova autorização. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 49,
+      "question": "As três categorias de aeronaves, seguindo a esteira de turbulência são:",
+      "options": {
+        "A": "P, M e L,",
+        "B": "R, M e L,",
+        "C": "H, M e R,",
+        "D": "H, M e L. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 50,
+      "question": "Para realização dos vôos VFR nos espaços aéreos classe ___, ___ e ___, as aeronaves devem dispor de rádio para comunicação com o órgão ATC apropriado.",
+      "options": {
+        "A": "C, D, E,",
+        "B": "A, B, C,",
+        "C": "B, C, D,",
+        "D": "E; F; G. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 51,
+      "question": "O aviso que contém informações relativas ao estabelecimento, condição ou modificação de qualquer instalação aeronáutica tem como sigla:",
+      "options": {
+        "A": "AFIS,",
+        "B": "AIREP,",
+        "C": "NOTAM,",
+        "D": "NOTIF. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 52,
+      "question": "Independentemente do posicionamento relativo em que se encontrem, estando aproximadamente no mesmo nível, as aeronaves propulsadas mecanicamente:",
+      "options": {
+        "A": "terão direito de passagem sobre as demais,",
+        "B": "terão direito de passagem sobre os balões,",
+        "C": "terão direito de passagem sobre planadores,",
+        "D": "cederão passagem às que rebocam aeronaves e objetos. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 53,
+      "question": "A separação vertical mínima entre aeronaves sob controle do APP é de:",
+      "options": {
+        "A": "1000 FT,",
+        "B": "2000 FT,",
+        "C": "4000 FT,",
+        "D": "500 FT. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 54,
+      "question": "Os serviços de __________________ serão proporcionados em todas as FIR sob jurisdição do Brasil.",
+      "options": {
+        "A": "controle de tráfego e de alerta,",
+        "B": "controle de tráfego e de informação de vôo,",
+        "C": "assessoramento e de alerta,",
+        "D": "informação de vôo e de alerta. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 55,
+      "question": "A letra C negra colocada verticalmente sobre um fundo amarelo indica:",
+      "options": {
+        "A": "sala AIS,",
+        "B": "torre de controle,",
+        "C": "centro de controle,",
+        "D": "serviço de meteorologia. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 56,
+      "question": "O circuito de tráfego para aeronaves a hélice é efetuado a:",
+      "options": {
+        "A": "1000 FT de altura,",
+        "B": "1500 FT de altura,",
+        "C": "1000 FT de altitude,",
+        "D": "1500 FT de altitude. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 57,
+      "question": "Abaixo do FL 100, a velocidade indicada para aeronaves em vôo VFR, em todas as classes de espaço aéreo, exceto o B, será:",
+      "options": {
+        "A": "superior a 380 Kt, ",
+        "B": "inferior a 380 Kt,",
+        "C": "superior a 250 Kt,",
+        "D": "inferior a 250 Kt. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 58,
+      "question": "A aplicação dos mínimos de separação da esteira de turbulência é estabelecida com a finalidade de:",
+      "options": {
+        "A": "garantir a separação horizontal,",
+        "B": "reduzir a distância entre as ACFT,",
+        "C": "reduzir a separação entre as ACFT,",
+        "D": "reduzir os possíveis perigos dessa esteira. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 59,
+      "question": "O controlador é responsável pela navegação da aeronave. O serviço oferecido é:",
+      "options": {
+        "A": "Vetoração,",
+        "B": "Assessoramento,",
+        "C": "Observação,",
+        "D": "Vigilância. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 60,
+      "question": "Estabeleça a ordem em que os itens da mensagem de posição são transmitidos ao órgão ATS: ( 1 ) posição, ( 2 ) nível de vôo ou altitude, ( 3 ) próxima posição e hora de sobrevôo, ( 4 ) identificação da aeronave e ( 5 ) hora:",
+      "options": {
+        "A": "4, 2, 5, 1, 3,",
+        "B": "2, 4, 3, 1, 5,",
+        "C": "1, 4, 5, 2, 3,",
+        "D": "2, 4, 5, 1, 3. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 61,
+      "question": "O procedimento a ser executado, quando duas aeronaves se aproximam de frente e haja perigo de colisão é:",
+      "options": {
+        "A": "a menos veloz fazer curva para a direita,",
+        "B": "a mais veloz fazer curva para a esquerda,",
+        "C": "ambas alterarem seus rumos para a direita,",
+        "D": "ambas alterarem seus rumos para a esquerda. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 62,
+      "question": "Aeronave mais pesada que o ar, propulsada mecanicamente, que deve sua sustentação em vôo principalmente às reações aerodinâmicas exercidas sobre superfícies que permanecem fixas em determinadas condições de vôo:",
+      "options": {
+        "A": "dirigível,",
+        "B": "aeronave,",
+        "C": "aeroplano,",
+        "D": "balão. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 63,
+      "question": "Aeroporto utilizado por aeronaves civis, nacionais ou estrangeiras, como primeiro pouso ou última decolagem no território nacional:",
+      "options": {
+        "A": "aeroporto de última decolagem,",
+        "B": "aeroporto doméstico,",
+        "C": "aeroporto internacional,",
+        "D": "aeroporto de último pouso. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 64,
+      "question": "É compulsória a apresentação do plano de vôo VFR:",
+      "options": {
+        "A": "sempre que for solicitado, ",
+        "B": "antes de realizar o vôo na ATZ,",
+        "C": "sempre que partir de local desprovido de órgão ATS,",
+        "D": "sempre que pretenda voar através de fronteiras internacionais. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 65,
+      "question": "A responsabilidade de certificar-se das condições operacionais dos auxílios à navegação e luminosos, dos AD envolvidos na operação pretendida, é do/da:",
+      "options": {
+        "A": "piloto em comando,",
+        "B": "administrador do AD de partida,",
+        "C": "torre de controle do AD de partida,",
+        "D": "centro de controle de aérea envolvido. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 66,
+      "question": "Vôo em rota é todo aquele realizado além dos limites da _____, _____ ou _____ou, na inexistência desses espaços aéreos controlados, o realizado além de _____ de raio em relação ao aeródromo de partida.",
+      "options": {
+        "A": "CTR, TMA, CTA, 27 NM,",
+        "B": "ATZ, CTR, TMA, 27 NM,",
+        "C": "CTR, TMA, CTA, 50 KM,",
+        "D": "ATZ; CTR; TMA; 50 NM. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 67,
+      "question": "O espaço aéreo controlado, que se estende do solo até um limite superior especificado, é a definição de:",
+      "options": {
+        "A": "zona de controle (CTR),",
+        "B": "área de controle (CTA),",
+        "C": "área de controle terminal (TMA),",
+        "D": "zona de controle de aeródromo (ATZ). "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 68,
+      "question": "Distância vertical de um nível ou ponto até o nível médio do mar:",
+      "options": {
+        "A": "altitude,",
+        "B": "nível,",
+        "C": "altura,",
+        "D": "nível de vôo. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 69,
+      "question": "A distância vertical entre um nível, um ponto ou objeto considerado como ponto e o nível médio do mar é a definição de:",
+      "options": {
+        "A": "altura,",
+        "B": "altitude,",
+        "C": "desnível,",
+        "D": "elevação. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 70,
+      "question": "Somente vôos IFR são permitidos; todos os vôos estão sujeitos ao serviço de controle de tráfego aéreo e são separados entre si. Nós estamos nos referindo ao espaço classe:",
+      "options": {
+        "A": "A,",
+        "B": "B,",
+        "C": "C,",
+        "D": "D. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 71,
+      "question": "Quando o órgão ATS prestar somente o serviço de informação de vôo e de alerta, qualquer decisão relativa as alterações no plano de vôo competirá ao:",
+      "options": {
+        "A": "piloto da aeronave, ",
+        "B": "explorador da aeronave,",
+        "C": "centro de controle de área,",
+        "D": "órgão de informação de vôo. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 72,
+      "question": "Estando prestes a entrar na TMA ou CTR, caso não consigam estabelecer contato com o APP, as aeronaves em vôo IFR ou VFR deverão chamar um dos seguintes órgãos, por ordem de prioridade: ( 1 ) ACC, caso esteja localizado naquela TMA, ( 2 ) TWR do aeródromo principal e ( 3 ) outra TWR dentro da TMA:",
+      "options": {
+        "A": "3, 2, 1,",
+        "B": "3, 1, 2,",
+        "C": "1, 2, 3,",
+        "D": "2, 1, 3. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 73,
+      "question": "O FL máximo permitido para o vôo VFR é:",
+      "options": {
+        "A": "195,",
+        "B": "150,",
+        "C": "245,",
+        "D": "145. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 74,
+      "question": "Quando o aeródromo público é dotado de instalações e facilidades para apoio de operações e serviço de embarque e desembarque de pessoas e cargas, diz-se que é um:",
+      "options": {
+        "A": "aeroporto,",
+        "B": "aeródromo federal,",
+        "C": "aeroporto estadual,",
+        "D": "aeródromo aduaneiro. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 75,
+      "question": "A publicação que contém informações aeronáuticas indispensáveis à navegação aérea tem como sigla:",
+      "options": {
+        "A": "AIP,",
+        "B": "AIS,",
+        "C": "CBA,",
+        "D": "NAV. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 76,
+      "question": "A permissão para pouso, dada pelo operador da TWR, consiste em um sinal de luz:",
+      "options": {
+        "A": "verde contínuo,",
+        "B": "vermelha contínuo,",
+        "C": "verde intermitente,",
+        "D": "vermelha intermitente. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 77,
+      "question": "O piloto de uma aeronave poderá usar a pista que mais lhe convir, desde que o vento na superfície seja de velocidade igual ou inferior a:",
+      "options": {
+        "A": "05 kt,",
+        "B": "06 kt,",
+        "C": "09 kt,",
+        "D": "10 kt. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 78,
+      "question": "É todo tráfego em vôo nas proximidades do aeródromo, que possa constituir perigo para as aeronaves consideradas.",
+      "options": {
+        "A": "tráfego perigoso, ",
+        "B": "tráfego essencial,",
+        "C": "tráfego de risco,",
+        "D": "tráfego essencial local. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 79,
+      "question": "Quando as condições de tráfego permitirem vôo VFR especiais poderão ser autorizados pelo/ pela ..... sujeitos às seguintes condições:",
+      "options": {
+        "A": "APP – somente no período diurno,",
+        "B": "APP – se o vôo for realizado fora da TMA,",
+        "C": "TWR – se as condições meteorológicas assim o exigirem,",
+        "D": "ACC – serão mantidas as separações entre os vôo IFR e VFR especiais. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 80,
+      "question": "As aerovias superiores entre dois auxílios rádio, distantes entre si de até 108 NM, terão a largura de:",
+      "options": {
+        "A": "11 NM,",
+        "B": "43 NM,",
+        "C": "54 NM,",
+        "D": "21,5 NM. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 81,
+      "question": "Duas pistas distintas, que sejam orientadas nos rumos 154º e 235º magnéticos, respectivamente, serão identificadas como:",
+      "options": {
+        "A": "15 e 23,",
+        "B": "15 e 24,",
+        "C": "16 e 23,",
+        "D": "16 e 24. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 82,
+      "question": "O nível que pode ser selecionado para a realização de um vôo VFR em rota, no rumo magnético 180º é o:",
+      "options": {
+        "A": "FL 050,",
+        "B": "FL 055,",
+        "C": "FL 060,",
+        "D": "FL 065. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 83,
+      "question": "Ao entrar em TMA, com plano de vôo VFR e não conseguir contato rádio com o APP, a aeronave deverá chamar, como primeira opção, o/a:",
+      "options": {
+        "A": "ACC,",
+        "B": "AFIS,",
+        "C": "Controle de solo,",
+        "D": "TWR do aeródromo principal. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 84,
+      "question": "Para que uma ACFT seja detectada por um radar secundar, a mesma deverá estar equipada com um:",
+      "options": {
+        "A": "ADF,",
+        "B": "VOR,",
+        "C": "NDB,",
+        "D": "Transponder. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 85,
+      "question": "O ESPAÇO AÉREO SUPERIOR começa no ____________ e termina no _________________.",
+      "options": {
+        "A": "solo ou água, FL 245, ",
+        "B": "FL 245 exclusive, ilimitado,+,",
+        "C": "solo ou água, FL 245 inclusive,",
+        "D": "FL 245 inclusive; ilimitado. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 86,
+      "question": "Na seqüência de decolagem, a aeronave que terá prioridade sobre os demais, dentre as alternativas citadas, será aquela que estiver:",
+      "options": {
+        "A": "em operação SAR,",
+        "B": "em operação militar, missão de guerra,",
+        "C": "conduzindo o Presidente da República,",
+        "D": "transportando enfermo ou ferido grave. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 87,
+      "question": "O ato de responsabilidade do piloto em comando que consiste em conhecer todas as informações relativas à operação pretendida chama-se:",
+      "options": {
+        "A": "plano de vôo,",
+        "B": "notificação de vôo,",
+        "C": "planilha de vôo,",
+        "D": "planejamento de vôo. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 88,
+      "question": "Num aeródromo cuja elevação é de 1000 FT o circuito de tráfego padrão para aeronave à hélice será executado a uma altitude de:",
+      "options": {
+        "A": "1500 FT,",
+        "B": "2000 FT,",
+        "C": "2500 FT,",
+        "D": "3000 FT.  "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 89,
+      "question": "São permitidos vôos IFR e VFR, todos os vôos estão sujeitos ao serviço de controle de tráfego aéreo e são separados entre si. Nos referimos ao espaço classe:",
+      "options": {
+        "A": "A,",
+        "B": "B,+,",
+        "C": "C,",
+        "D": "D. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 90,
+      "question": "Tem autoridade decisória sobre tudo que se relacione com a aeronave:",
+      "options": {
+        "A": "tripulação,",
+        "B": "comissário de bordo,",
+        "C": "piloto em comando,",
+        "D": "co-piloto em comando. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 91,
+      "question": "Os vôos VFR especiais com pouso no aeródromo de partida terão como limite máximo o(a):",
+      "options": {
+        "A": "CTA,",
+        "B": "ATZ,",
+        "C": "TMA,",
+        "D": "CTR. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 92,
+      "question": "Código não discreto reservado para situações de emergência:",
+      "options": {
+        "A": "2000,",
+        "B": "7500, ",
+        "C": "7600,",
+        "D": "7700. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 93,
+      "question": "O serviço de informação de vôo de aeródromo será proporcionado a todo tráfego na área de movimento e às aeronaves em vôo no espaço aéreo inferior, num raio de:",
+      "options": {
+        "A": "5KM,",
+        "B": "15 KM,",
+        "C": "25 KM,",
+        "D": "50 KM. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 94,
+      "question": "Quando o transponder de uma aeronave deixar de apresentar o sinal de resposta desejado:",
+      "options": {
+        "A": "O piloto, por iniciativa própria, verificará o seu transponder,",
+        "B": "O controlador solicitará que o piloto proceda a uma verificação no seu transponder,",
+        "C": "O controlador comunicará o fato ao explorador da aeronave para as providências necessárias,",
+        "D": "O piloto, como representante do explorador, providenciará a sua manutenção. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 95,
+      "question": "A separação mínima vertical de qualquer formação meteorológica durante um vôo VFR deve ser de:",
+      "options": {
+        "A": "150 metros,",
+        "B": "300 metros,",
+        "C": "500 metros,",
+        "D": "1000 metros. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 96,
+      "question": "A operação de aeronaves quando em vôo deve obedecer às:",
+      "options": {
+        "A": "regras de vôo por instrumentos ou VMC,",
+        "B": "regras de vôo visual ou IMC,",
+        "C": "regras de vôo visual ou por instrumentos,",
+        "D": "regras VMC e IMC. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 97,
+      "question": "Quais os tipos de serviço radar que um órgão ATC pode proporcionar?",
+      "options": {
+        "A": "vetoração e alerta,",
+        "B": "informação e alerta,",
+        "C": "vigilância e vetoração,",
+        "D": "vigilância e informação. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 98,
+      "question": "É proibida a operação de aeronaves sem rádio:",
+      "options": {
+        "A": "exclusivamente nos AD providos de AFIS,",
+        "B": "exclusivamente nos AD providos deTWR,",
+        "C": "nos AD providos de AFIS e TWR,",
+        "D": "em quaisquer Ads. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 99,
+      "question": "Dos níveis citados abaixo, identifique o apropriado para voar VFR fora de aerovia no rumo magnético 090º, de acordo com a tabela de níveis:",
+      "options": {
+        "A": "FL 035,",
+        "B": "FL 040,",
+        "C": "FL 045,",
+        "D": "FL 050. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 100,
+      "question": "As pistas de pouso são orientadas em graus:",
+      "options": {
+        "A": "magnéticos,",
+        "B": "ortogonais,",
+        "C": "verdadeiros,",
+        "D": "quadrantais. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 101,
+      "question": "A hora nos serviços de tráfego aéreo é:",
+      "options": {
+        "A": "LOCAL,",
+        "B": "UTC,",
+        "C": "GMT,",
+        "D": "ZULU. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 102,
+      "question": "Uma aeronave evoluindo em área de controle terminal poderá ser autorizada a desenvolver velocidade maior que 250 kt quando estiver, no mínimo, acima do FL:",
+      "options": {
+        "A": "100,",
+        "B": "120,",
+        "C": "150,",
+        "D": "190. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 103,
+      "question": "Ao manter referência com o solo ou água, o piloto não deve deixar que as nuvens obstruam mais _______da área de visão do piloto.",
+      "options": {
+        "A": "de um terço ,",
+        "B": "da metade,",
+        "C": "de um quarto,",
+        "D": "de um oitavo. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 104,
+      "question": "É a suspensão das operações de um aeródromo devido operação militar, presidencial ou outro evento sob responsabilidade da autoridade aeronáutica competente:",
+      "options": {
+        "A": "impraticabilidade,",
+        "B": "interdição,",
+        "C": "obstrução,",
+        "D": "suspensão ref. Condições MET. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 105,
+      "question": "As operações de pouso ou decolagem, a partir de outro ponto de pista que não seja a cabeceira, considerando a performance da aeronave e o comprimento da pista:",
+      "options": {
+        "A": "não serão autorizadas,",
+        "B": "poderão ser realizadas por decisão do piloto,",
+        "C": "não serão permitidas em nenhum aeródromo,",
+        "D": "poderão ser realizadas por decisão do controlador. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 106,
+      "question": "A velocidade de cruzeiro de 220 KM por hora será registrada, no plano de vôo, da seguinte forma:",
+      "options": {
+        "A": "K0220,",
+        "B": "N0220,",
+        "C": "M0220,",
+        "D": "220KM. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 107,
+      "question": "Se as condições meteorológicas predominantes nos aeródromos envolvidos forem iguais ou superiores aos valores: teto – 300m e visibilidade 3000m, pode-se afirmar que os/as:",
+      "options": {
+        "A": "aeródromos envolvidos estão fechados,",
+        "B": "aeródromos estão operando VFR especial,",
+        "C": "aeródromos estão operando sob regras de vôo visual,",
+        "D": "aeródromos estão abaixo dos mínimos para operação IFR. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 108,
+      "question": "O órgão responsável pela autorização de um vôo VFR especial é o(a):",
+      "options": {
+        "A": "CS,",
+        "B": "TWR,",
+        "C": "APP,",
+        "D": "ACC. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 109,
+      "question": "Código não discreto reservado para as situações em que a aeronave ainda não tenha recebido instruções de código transponder específico:",
+      "options": {
+        "A": "2000,",
+        "B": "7500,",
+        "C": "7600,",
+        "D": "7700. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 110,
+      "question": "Os aeródromos civis podem ser:",
+      "options": {
+        "A": "civis e militares,",
+        "B": "liberados e restritos,",
+        "C": "públicos e privados,",
+        "D": "liberados e condicionados. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 111,
+      "question": "Um nível de vôo prolongado é conhecido como nível:",
+      "options": {
+        "A": "médio,",
+        "B": "de vôo,",
+        "C": "do mar,",
+        "D": "de cruzeiro. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 112,
+      "question": "Área definida sobre a terra ou água, destinada à chegada, partida e movimentação de aeronaves:",
+      "options": {
+        "A": "aeroporto,",
+        "B": "heliponto,",
+        "C": "aeródromo,",
+        "D": "heliporto. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 113,
+      "question": "Quando os valores meteorológicos de um aeródromo estiverem abaixo dos níveis exigidos, as operações VFR serão suspensas pelo/pela:",
+      "options": {
+        "A": "ACC,",
+        "B": "TWR,",
+        "C": "Órgão AIS do AD,",
+        "D": "APP – quando houver TMA. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 114,
+      "question": "A elevação de um determinado aeródromo é de 3800 pés. Hipoteticamente, uma ACFT a reação está no ponto médio da perna do vento, mantendo a altitude de 5300 pés. Com base no descrito, pode-se afirmar que a ACFT está:",
+      "options": {
+        "A": "acima da altitude correta,",
+        "B": "abaixo da altitude correta,",
+        "C": "na posição crítica número 4,",
+        "D": "na posição crítica número 5. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 115,
+      "question": "Num aeródromo cujo comprimento da pista seja de 1600 metros, sem marcas do ponto de espera, as aeronaves deverão aguardar a uma distância mínima da pista em uso de:",
+      "options": {
+        "A": "20 m,",
+        "B": "30 m,",
+        "C": "45 m,",
+        "D": "50 m. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 116,
+      "question": "Em uma pista de comprimento igual a 900 metros, onde as marcas de ponto de espera no táxi sejam inexistentes, as ACFT deverão se manter em relação a RWY a uma distância mínima de:",
+      "options": {
+        "A": "20 metros,",
+        "B": "30 metros,",
+        "C": "40 metros,",
+        "D": "50 metros. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 117,
+      "question": "É a suspensão total ou parcial das operações de um aeródromo devido a fatores de ordem física que afetem a área de manobras:",
+      "options": {
+        "A": "suspensão DCM,",
+        "B": "interdição,",
+        "C": "interrupção,",
+        "D": "impraticabilidade. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 118,
+      "question": "Parte do aeródromo destinada ao pouso, decolagem e táxi das aeronaves, incluindo os pátios de estacionamento.",
+      "options": {
+        "A": "área de movimento,",
+        "B": "área de pouso,",
+        "C": "área de táxi,",
+        "D": "área de manobras. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 119,
+      "question": "O procedimento de verificação do transponder será executado:",
+      "options": {
+        "A": "somente por solicitação do controlador,",
+        "B": "exclusivamente por iniciativa do piloto em comando,",
+        "C": "quando o modo C não estiver funcionando corretamente,",
+        "D": "quando o modo D não estiver funcionando corretamente. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 120,
+      "question": "O piloto deverá cotejar as ..... ou ..... contidas nas mensagens ATS e emanadas do órgão de controle de tráfego responsável.",
+      "options": {
+        "A": "solicitações, instruções,",
+        "B": "autorizações, instruções,",
+        "C": "autorizações, solicitações,",
+        "D": "instruções; definições. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 121,
+      "question": "A aeronave que pousar num aeródromo controlado deverá manter-se na escuta da TWR ou do controle de solo até:",
+      "options": {
+        "A": "livrar a pista de táxi,",
+        "B": "livrar a pista em uso,",
+        "C": "a parada total da aeronave,",
+        "D": "a parada total dos motores. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 122,
+      "question": "A designação do espaço aéreo é definida conforme abaixo:",
+      "options": {
+        "A": "superior e inferior,",
+        "B": "superior, intermediário e inferior,",
+        "C": "controlado e não controlado,",
+        "D": "controlado, FIR e condicionado. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 123,
+      "question": "No espaço aéreo classe B, a Vi (velocidade indicada) máxima permitida será:",
+      "options": {
+        "A": "380 Kt,",
+        "B": "inferior a 380 Kt,",
+        "C": "250 Kt,",
+        "D": "inferior a 250 Kt. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 124,
+      "question": "Quando a aeronave não chegar dentro dos 30 minutos após a hora estimada pelo piloto ou calculada pelos órgãos ATS, encontra-se na fase de:",
+      "options": {
+        "A": "alerta,",
+        "B": "perigo,",
+        "C": "detresfa,",
+        "D": "incerteza. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 125,
+      "question": "Manobra predeterminada que mantém a aeronave dentro de um espaço aéreo especificado, enquanto aguarda autorização posterior:",
+      "options": {
+        "A": "órbita,",
+        "B": "espera,",
+        "C": "holding,",
+        "D": "circuito de tráfego. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 126,
+      "question": "Órgão estabelecido em alguns aeródromos com o objetivo de prestar o serviço de informação prévia ao vôo é o/a:",
+      "options": {
+        "A": "SAC,",
+        "B": "ACC,",
+        "C": "SRPV,",
+        "D": "Sala AIS. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 127,
+      "question": "Após o pôr do sol não é permitido o vôo VFR:",
+      "options": {
+        "A": "especial,",
+        "B": "em AWY,",
+        "C": "dentro de CTR,",
+        "D": "dentro de TMA. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 128,
+      "question": "Marca eletrônica adicional, impressa no sinal de resposta, que transmite a identificação da aeronave:",
+      "options": {
+        "A": "Código,",
+        "B": "Modo,",
+        "C": "Ident.,",
+        "D": "Normal. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 129,
+      "question": "A provisão de informações regulares e atualizadas para as aeronaves que chegam ou partem mediante radiodifusões contínuas e repetitivas, é feita através do/da:",
+      "options": {
+        "A": "FIS,",
+        "B": "ATIS,",
+        "C": "AIREP,",
+        "D": "VOLMET. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 130,
+      "question": "Um quadrado vermelho com diagonais amarelas, colocado na área de sinalização do aeródromo indica:",
+      "options": {
+        "A": "pouso proibido,",
+        "B": "decolagem proibida,",
+        "C": "pista de táxi impraticável,",
+        "D": "sentido de pouso e decolagem. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 131,
+      "question": "Habilitação IFR do piloto e homologação IFR da aeronave são exigências relativas ao vôo VFR:",
+      "options": {
+        "A": "diurno local,",
+        "B": "noturno local,",
+        "C": "diurno em rota,",
+        "D": "noturno em rota. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 132,
+      "question": "Ato oficial através do qual o Diretor Geral do DAC autoriza a utilização de um aeródromo público:",
+      "options": {
+        "A": "registro,",
+        "B": "homologação,",
+        "C": "habilitação,",
+        "D": "oficialização. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 133,
+      "question": "A letra D numa identificação do espaço aéreo condicionado indica área:",
+      "options": {
+        "A": "restrita,",
+        "B": "perigosa,",
+        "C": "proibida,",
+        "D": "interditada. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 134,
+      "question": "Os serviços de controle de tráfego aéreo, de informação de vôo, de alerta e de assessoramento constituem os serviços de tráfego aéreo, designados internacionalmente pela sigla:",
+      "options": {
+        "A": "STA,",
+        "B": "ATC,",
+        "C": "SAR,",
+        "D": "ATS. Sua resposta: c. Alternativa correta: d "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 135,
+      "question": "Os vôos em formação de aeronaves civis devem ser, previamente, autorizados pelo órgão competente do/da:",
+      "options": {
+        "A": "Comando aéreo regional,",
+        "B": "Administração do aeroporto,",
+        "C": "Departamento de Aviação Civil,",
+        "D": "Serviço Regional de Proteção ao Vôo. "
+      },
+      "correct": "C"
+    },
+    {
+      "number": 136,
+      "question": "Nos espaços aéreos de classe B, C, D e E, a visibilidade no FL 100 ou acima, deverá ser de ____Km.",
+      "options": {
+        "A": "8,",
+        "B": "5,",
+        "C": "3,",
+        "D": "1. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 137,
+      "question": "Uma pista que tenha as cabeceiras orientadas nos rumos 074º e 254º, será identificada como:",
+      "options": {
+        "A": "07/25,",
+        "B": "07/26,",
+        "C": "08/25,",
+        "D": "08/26. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 138,
+      "question": "Uma das limitações para a realização de um vôo VFR é manter velocidade não superior a:",
+      "options": {
+        "A": "180 KT,",
+        "B": "250 KT,",
+        "C": "350 KT,",
+        "D": "380 KT. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 139,
+      "question": "Espaço aéreo no qual são permitidos vôos IFR e VFR, recebendo somente serviço de informação de vôo quando requerido. Nos referimos ao espaço classe:",
+      "options": {
+        "A": "D,",
+        "B": "E,",
+        "C": "F,",
+        "D": "G. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 140,
+      "question": "A classificação de emergência da aeronave, em função da sua gravidade, para fins de acionamento dos recursos de salvamento e socorro no aeródromo, será de responsabilidade do/da:",
+      "options": {
+        "A": "piloto em comando,",
+        "B": "torre de controle,",
+        "C": "proprietário da aeronave,",
+        "D": "administrador do aeródromo. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 141,
+      "question": "O indicador de localidade abaixo, indica um aeródromo dotado de estação que executa o Serviço Aeronáutico:",
+      "options": {
+        "A": "SBXX,",
+        "B": "SNXX,",
+        "C": "SWXX,",
+        "D": "SSXX. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 142,
+      "question": "Área de movimento compreende:",
+      "options": {
+        "A": "área de pouso + pistas de táxi,",
+        "B": "área de manobras + pistas de táxi,",
+        "C": "área de pouso + pátios,",
+        "D": "área de manobras + pátios. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 143,
+      "question": "Na partida para um vôo VFR, o piloto em comando da aeronave manterá escuta permanente da TWR:",
+      "options": {
+        "A": "ao iniciar o táxi,",
+        "B": "quando solicitado pela TWR,",
+        "C": "após fechar as portas da aeronave,",
+        "D": "a partir do momento em que acionar os motores. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 144,
+      "question": "Emprega o radar para prestar controle de tráfego aéreo, mediante continua observação da apresentação radar:",
+      "options": {
+        "A": "Vetoração,",
+        "B": "Assessoramento,",
+        "C": "Observação,",
+        "D": "Vigilância. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 145,
+      "question": "A divisão do espaço aéreo é denominada conforme abaixo:",
+      "options": {
+        "A": "superior e inferior,",
+        "B": "superior, intermediário e inferior,",
+        "C": "controlado e não controlado,",
+        "D": "controlado, FIR e condicionado. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 146,
+      "question": "Uma aeronave sob VMC, que esteja com falha de comunicação, deverá:",
+      "options": {
+        "A": "manter-se VMC e pousar no aeródromo mais próximo,",
+        "B": "acautelar-se ao entrar IMC e seguir com cuidado até o destino,",
+        "C": "prosseguir para o destino, tentando ininterruptamente estabelecer contato com o órgão ATS,",
+        "D": "manter VMC, pousar no aeródromo mais próximo e informar o pouso ao órgão ATC apropriado, pelo meio mais rápido. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 147,
+      "question": "Exceto quando autorizada pelo órgão responsável, nenhuma aeronave evoluindo dentro da área terminal no FL 100 ou abaixo, poderá voar com velocidade indicada superior a:",
+      "options": {
+        "A": "280 KT,",
+        "B": "250 KT,",
+        "C": "280 KM,",
+        "D": "250 KM. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 148,
+      "question": "Os mínimos meteorológicos em aeródromo para vôos VFR são ____ de visibilidade e ______ de teto.",
+      "options": {
+        "A": "5000 m, 1500 ft,",
+        "B": "5000 ft, 1500 m,",
+        "C": "3000 m, 1000 ft,",
+        "D": "3000 ft; 1000 m. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 149,
+      "question": "Independentemente do posicionamento relativo em que se encontrem, estando aproximadamente no mesmo nível, aeronaves mais pesadas que o ar propulsadas mecanicamente cedem passagem :",
+      "options": {
+        "A": "aos dirigíveis, planadores e balões,",
+        "B": "somente aos balões,",
+        "C": "somente aos planadores,",
+        "D": "a quaisquer aeronaves. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 150,
+      "question": "No espaço aéreo classe B, no que se refere à separação de nuvens, a aeronave em vôo VFR deverá estar ______ de(as) nuvens.",
+      "options": {
+        "A": "livre,",
+        "B": "a 1500m verticalmente e 1000ft horizontalmente,",
+        "C": "a 5000m,",
+        "D": "a 1000m verticalmente e 1500ft horizontalmente. "
+      },
+      "correct": "A"
+    },
+    {
+      "number": 151,
+      "question": "O nível apropriado para a realização de um vôo VFR, fora de aerovia no rumo 170º magnéticos, é o FL:",
+      "options": {
+        "A": "130,",
+        "B": "135,",
+        "C": "145,",
+        "D": "155. "
+      },
+      "correct": "B"
+    },
+    {
+      "number": 152,
+      "question": "As aeronaves acusarão o recebimento da mensagem ATIS quando:",
+      "options": {
+        "A": "julgarem necessário,",
+        "B": "for solicitado pelo órgão,",
+        "C": "entrarem em contato com o ACC,",
+        "D": "estabelecerem contato com o APP ou TWR. "
+      },
+      "correct": "D"
+    },
+    {
+      "number": 153,
+      "question": "As aeronaves em vôo VFR não poderão entrar sem autorização em TMA ou CTR de classe:",
+      "options": {
+        "A": "E, F e G,",
+        "B": "A, B e C,",
+        "C": "B, C e D,",
+        "D": "D, E e F.  "
+      },
+      "correct": "D"
+    }
+  ],
+  "sections": [
+    {
+      "id": 1,
+      "name": "Simulado 01",
+      "from": 1,
+      "to": 20
+    },
+    {
+      "id": 2,
+      "name": "Simulado 02",
+      "from": 21,
+      "to": 40
+    },
+    {
+      "id": 3,
+      "name": "Simulado 03",
+      "from": 41,
+      "to": 60
+    },
+    {
+      "id": 4,
+      "name": "Simulado 04",
+      "from": 61,
+      "to": 80
+    },
+    {
+      "id": 5,
+      "name": "Simulado 05",
+      "from": 81,
+      "to": 100
+    },
+    {
+      "id": 6,
+      "name": "Simulado 06",
+      "from": 101,
+      "to": 120
+    },
+    {
+      "id": 7,
+      "name": "Simulado 07",
+      "from": 121,
+      "to": 140
+    },
+    {
+      "id": 8,
+      "name": "Simulado 08",
+      "from": 141,
+      "to": 153
+    }
+  ]
+}
