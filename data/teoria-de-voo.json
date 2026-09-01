@@ -1,0 +1,1718 @@
+{
+  "subject": "Teoria de Voo",
+  "source": "Simulado-TeoriadeVoo(150Questoes).pdf",
+  "timeLimitSeconds": 1800,
+  "questions": [
+    {
+      "number": 1,
+      "question": "A manutenção do aeroclube executou uma inspeção de pré-vôo pela manhã, antes do primeiro vôo. O comandante da aeronave deverá:",
+      "options": {
+        "A": "apenas fazer constar no Relatório de Vôo tal fato,",
+        "B": "executar seu próprio pré-vôo,",
+        "C": "apenas conferir o abastecimento e o peso e balanceamento,",
+        "D": "efetuar novo pré-vôo, somente após ter sido realizado o primeiro vôo."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 2,
+      "question": "A pressão atmosférica é do tipo:",
+      "options": {
+        "A": "estática,",
+        "B": "dinâmica,",
+        "C": "invariável,",
+        "D": "diferencial."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 3,
+      "question": "Na atmosfera, um corpo recebe pressão por todos os lados. A pressão atmosférica é uma pressão:",
+      "options": {
+        "A": "estática,",
+        "B": "dinâmica,",
+        "C": "de impacto,",
+        "D": "total."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 4,
+      "question": "A pressão dinâmica depende de:",
+      "options": {
+        "A": "peso do fluído e velocidade de escoamento,",
+        "B": "densidade do fluído e velocidade de escoamento,",
+        "C": "pequena resistência ao avanço e sustentação,",
+        "D": "resistência ao avanço e sustentação."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 5,
+      "question": "Densidade ou massa específica é:",
+      "options": {
+        "A": "a quantidade de matéria por unidade de volume,",
+        "B": "a quantidade de matéria existente num corpo,",
+        "C": "o peso de um corpo,",
+        "D": "o peso por unidade de volume."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 6,
+      "question": "Num local de maior densidade atmosférica obtêm-se:",
+      "options": {
+        "A": "menor potência e maior sustentação,",
+        "B": "menor sustentação e menor potência,",
+        "C": "maior potência e menor sustentação,",
+        "D": "maior sustentação e maior potência."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 7,
+      "question": "Quando a pressão do ar aumenta a densidade:",
+      "options": {
+        "A": "diminui,",
+        "B": "aumenta,",
+        "C": "fica igual,",
+        "D": "é indiferente."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 8,
+      "question": "Quando o ar atmosférico aquece, a densidade:",
+      "options": {
+        "A": "diminui,",
+        "B": "aumenta,",
+        "C": "fica igual,",
+        "D": "é indiferente."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 9,
+      "question": "Em uma pista, quanto maior a temperatura:",
+      "options": {
+        "A": "maior tração,",
+        "B": "maior atrito dos pneus,",
+        "C": "menor velocidade de estol,",
+        "D": "maior a corrida de decolagem."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 10,
+      "question": "A densidade do ar atmosférico é:",
+      "options": {
+        "A": "diretamente proporcional a pressão e temperatura,",
+        "B": "inversamente proporcional a pressão e temperatura,",
+        "C": "diretamente proporcional a pressão e inversamente proporcional a temperatura,",
+        "D": "inversamente proporcional a pressão e diretamente proporcional a temperatura."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 11,
+      "question": "A densidade do ar depende dos seguintes fatores:",
+      "options": {
+        "A": "somente da pressão e temperatura,",
+        "B": "somente da altitude e da umidade,",
+        "C": "velocidade e pressão atmosférica,",
+        "D": "altitude, pressão, temperatura e umidade."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 12,
+      "question": "A densidade do ar aumenta com:",
+      "options": {
+        "A": "menor altitude/maior temperatura,",
+        "B": "menor altitude/menor temperatura,",
+        "C": "maior altitude/menor temperatura,",
+        "D": "maior altitude/maior temperatura."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 13,
+      "question": "Assinale a afirmativa errada:",
+      "options": {
+        "A": "a temperatura de um fluído é variável,",
+        "B": "a massa de um corpo é invariável,",
+        "C": "o peso de um corpo é invariável,",
+        "D": "o volume de um gás é variável."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 14,
+      "question": "O teorema de Bernoulli é aplicado na construção de:",
+      "options": {
+        "A": "tubo de Pitot,",
+        "B": "tubo de Venturi,",
+        "C": "velocímetro,",
+        "D": "altímetro."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 15,
+      "question": "Convertendo-se a temperatura de 28º Celsius para a escala Fahrenheit, obtém-se:",
+      "options": {
+        "A": "32º F,",
+        "B": "60º F,",
+        "C": "82,4º F,",
+        "D": "108,4º F."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 16,
+      "question": "Quando o ar escoar uniformemente por um tubo, nós teremos na parte mais estreita desse tubo:",
+      "options": {
+        "A": "maior temperatura,",
+        "B": "maior pressão estática,",
+        "C": "menor velocidade do ar,",
+        "D": "maior pressão dinâmica."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 17,
+      "question": "A expressão \"força x distância\" representa:",
+      "options": {
+        "A": "aceleração,",
+        "B": "trabalho,",
+        "C": "peso,",
+        "D": "energia."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 18,
+      "question": "Todo corpo tende a permanecer em estado de repouso (parado ou em movimento retilíneo e uniforme) a menos que uma força externa atue sobre ele. Esta lei de Newton é também conhecida como:",
+      "options": {
+        "A": "ação e reação,",
+        "B": "inércia,",
+        "C": "gravitação universal,",
+        "D": "estabilidade."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 19,
+      "question": "A força resultante de todas as componentes paralelas ao deslocamento da aeronave, denomina-se:",
+      "options": {
+        "A": "peso,",
+        "B": "tração,",
+        "C": "sustentação,",
+        "D": "arrasto."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 20,
+      "question": "A força ou reação que tende a frear um corpo que se desloca no ar, é a/o:",
+      "options": {
+        "A": "arrasto,",
+        "B": "tração,",
+        "C": "peso,",
+        "D": "torque."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 21,
+      "question": "A força aerodinâmica que num aerofólio é perpendicular ao vento relativo (escoamento) é conhecida como:",
+      "options": {
+        "A": "arrasto,",
+        "B": "resultante aerodinâmica,",
+        "C": "sustentação,",
+        "D": "tração."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 22,
+      "question": "Todo corpo que se desloca em um fluido, sofre desse meio uma reação que pode ser decomposta em duas componentes, denominadas:",
+      "options": {
+        "A": "ação e reação,",
+        "B": "peso e vento relativo,",
+        "C": "tração e gravidade,",
+        "D": "sustentação e resistência ao avanço."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 23,
+      "question": "Para que um corpo se mantenha em movimento com velocidade constante e em linha reta, é preciso que:",
+      "options": {
+        "A": "exista uma força aplicada sobre ele,",
+        "B": "as forças sobre ele sejam nulas,",
+        "C": "a resultante das forças que atuam sobre ele seja nula,",
+        "D": "qualquer das alternativas anteriores."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 24,
+      "question": "Assinale a resposta errada. \"A força de arrasto é diretamente proporcional:",
+      "options": {
+        "A": "à densidade do ar,",
+        "B": "ã velocidade de deslocamento,",
+        "C": "à área ou superfície do corpo,",
+        "D": "ao coeficiente de arrasto."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 25,
+      "question": "Sobre a força de sustentação num aerofólio, podemos afirmar que:",
+      "options": {
+        "A": "ela será sempre positiva,",
+        "B": "é uma componente do peso do helicóptero,",
+        "C": "será sempre perpendicular ao vento relativo,",
+        "D": "será sempre contrária ao peso e vertical."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 26,
+      "question": "A resultante aerodinâmica é imaginariamente dividida em duas forças chamadas sustentação (L) e arrasto (D). É correto afirmar que:",
+      "options": {
+        "A": "o arrasto pode ser positivo, negativo ou nulo,",
+        "B": "a sustentação não pode ter valores negativos,",
+        "C": "a sustentação é a componente vertical da resultante aerodinâmica,",
+        "D": "a tração é a resultante de todas as componentes paralelas ao deslocamento."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 27,
+      "question": "O vento aparente que sopra sobre um corpo em movimento na atmosfera, na mesma direção e sentido contrário ao seu movimento, denomina-se vento:",
+      "options": {
+        "A": "paralelo,",
+        "B": "relativo,",
+        "C": "contrário,",
+        "D": "magnético."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 28,
+      "question": "Um automóvel trafega a 80 km/h. Se o vento soprar no sentido contrário a 20 km/h, a velocidade do automóvel em relação ao ar será de:",
+      "options": {
+        "A": "60 km/h,",
+        "B": "100 km/h,",
+        "C": "80 km/h,",
+        "D": "82,4km/h."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 29,
+      "question": "O ponto em torno do qual um corpo está estaticamente equilibrado é denominado:",
+      "options": {
+        "A": "centro de pressão (CP),",
+        "B": "centro de gravidade (CG),",
+        "C": "ponto de tração (PT),",
+        "D": "coeficiente de sustentação (CL)."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 30,
+      "question": "É estável uma aeronave que possui:",
+      "options": {
+        "A": "CG a frente, área a frente do CG maior e diedro positivo,",
+        "B": "CG a frente, área superior ao CG maior e diedro positivo,",
+        "C": "CG a frente, área inferior ao CG maior e enflechamento positivo,",
+        "D": "CG atrás e área superior maior ao CG e enflechamento positivo."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 31,
+      "question": "Se o CG de uma ACFT, após o balanceamento ficar a frente do limite dianteiro, durante o vôo ocorrerá um/uma:",
+      "options": {
+        "A": "aumento de arrasto,",
+        "B": "diminuição dos esforços do piloto,",
+        "C": "aumento na controlabilidade da ACFT,",
+        "D": "diminuição no consumo de combustível."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 32,
+      "question": "O centro de pressão é o ponto de aplicação do/da:",
+      "options": {
+        "A": "peso,",
+        "B": "sustentação,",
+        "C": "arrasto total,",
+        "D": "força centrífuga."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 33,
+      "question": "O ponto de aplicação do peso em uma aeronave, denomina-se centro de:",
+      "options": {
+        "A": "tração,",
+        "B": "pressão,",
+        "C": "gravidade,",
+        "D": "estabilidade."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 34,
+      "question": "Uma aeronave tem três eixos, em torno dos quais executa seus movimentos. O ponto de cruzamento desses eixos é o centro de:",
+      "options": {
+        "A": "pressão,",
+        "B": "gravidade,",
+        "C": "movimento,",
+        "D": "aerodinâmica."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 35,
+      "question": "O movimento de uma aeronave em torno do seu eixo transversal, é denominado:",
+      "options": {
+        "A": "rolagem,",
+        "B": "arfagem,",
+        "C": "bancagem,",
+        "D": "guinada."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 36,
+      "question": "Quando se leva o comando dos ailerons para a esquerda, o/os:",
+      "options": {
+        "A": "movimento de arfagem é iniciado,",
+        "B": "compensadores são levados para a posição neutra,",
+        "C": "aileron esquerdo é baixado e o direito levantado,",
+        "D": "aileron direito é baixado e o esquerdo levantado."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 37,
+      "question": "A superfície aerodinâmica é aquela que ao se deslocar através do ar produz:",
+      "options": {
+        "A": "somente sustentação,",
+        "B": "grande resistência ao avanço,",
+        "C": "pequena resistência ao avanço,",
+        "D": "resistência ao avanço e sustentação."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 38,
+      "question": "Uma superfície aerodinâmica produz SEMPRE:",
+      "options": {
+        "A": "pouco força útil ao vôo,",
+        "B": "muita força útil ao vôo,",
+        "C": "grande resistência ao avanço,",
+        "D": "pequena resistência ao avanço."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 39,
+      "question": "Num perfil aerodinâmico, o ponto de intercessão da resultante aerodinâmica com a linha da corda recebe o nome de:",
+      "options": {
+        "A": "centro de gravidade (CG),",
+        "B": "centro de pressão (CP),",
+        "C": "ponto da pá,",
+        "D": "ponto do helicóptero."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 40,
+      "question": "As condições meteorológicas ideais para um maior rendimento de um aerofólio são:",
+      "options": {
+        "A": "ar frio e úmido,",
+        "B": "ar frio e seco,",
+        "C": "ar quente e seco,",
+        "D": "ar quente e úmido."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 41,
+      "question": "Define-se espessura de um aerofólio como sendo:",
+      "options": {
+        "A": "o desvio entre a linha média e a corda do perfil,",
+        "B": "o ponto em que a curvatura atinge seu máximo,",
+        "C": "a distância entre a corda e pontos do intradorso e extradorso,",
+        "D": "a maior distância entre a cambra superior e cambra inferior."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 42,
+      "question": "Num aerofólio, uma força aerodinâmica que tem a mesma direção e sentido que o vento relativo, é denominada:",
+      "options": {
+        "A": "arrasto,",
+        "B": "sustentação,",
+        "C": "tração,",
+        "D": "resultante aerodinâmica."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 43,
+      "question": "Nos perfis assimétricos, o ângulo de sustentação nula é:",
+      "options": {
+        "A": "zero,",
+        "B": "negativo,",
+        "C": "positivo,",
+        "D": "maior que l."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 44,
+      "question": "Nos perfis simétricos, o ângulo de sustentação nula é:",
+      "options": {
+        "A": "zero,",
+        "B": "positivo,",
+        "C": "negativo,",
+        "D": "maior que um."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 45,
+      "question": "Num aerofólio de perfil assimétrico, teremos sustentação nula com um ângulo de ataque de:",
+      "options": {
+        "A": "0º,",
+        "B": "45º,",
+        "C": "60º,",
+        "D": "90º."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 46,
+      "question": "Num perfil assimétrico o aumento do ângulo de ataque desloca o centro de pressão para:",
+      "options": {
+        "A": "frente,",
+        "B": "trás,",
+        "C": "cima,",
+        "D": "o lado."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 47,
+      "question": "A eficácia de um perfil é a razão entre:",
+      "options": {
+        "A": "o coeficiente de arrasto e o coeficiente de sustentação,",
+        "B": "o coeficiente de sustentação e o coeficiente de arrasto,",
+        "C": "a resultante aerodinâmica e a sustentação,",
+        "D": "a resultante aerodinâmica e a tração."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 48,
+      "question": "Um aerofólio de perfil simétrico não produzirá sustentação quando:",
+      "options": {
+        "A": "o ângulo de ataque for positivo,",
+        "B": "o ângulo de incidência for positivo,",
+        "C": "o ângulo de ataque for zero (nulo),",
+        "D": "a velocidade do vento relativo for inferior a 10 nós (Kt)."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 49,
+      "question": "O tipo de perfil em que o centro de pressão é considerado invariável com a mudança do ângulo de ataque, é denominado:",
+      "options": {
+        "A": "axial,",
+        "B": "coaxial,",
+        "C": "simétrico,",
+        "D": "assimétrico."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 50,
+      "question": "O estol é definido como sendo o ponto onde os filetes de ar sofrem um(a):",
+      "options": {
+        "A": "aumento de velocidade,",
+        "B": "diminuição de velocidade,",
+        "C": "deslocamento do aerofólio,",
+        "D": "acréscimo do atrito com o aerofólio."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 51,
+      "question": "Quando se aumenta o ângulo de ataque num perfil assimétrico a resultante aerodinâmica:",
+      "options": {
+        "A": "é inversamente proporcional ao ângulo de ataque,",
+        "B": "mantém-se numa posição fixa sobre a corda média aerodinâmica,",
+        "C": "passa através da corda média em posições variáveis em direção ao bordo de ataque,",
+        "D": "passa através da corda média em posições variáveis em direção ao bordo de fuga."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 52,
+      "question": "Quando um aerofólio atinge o ângulo de ataque crítico, tem-se:",
+      "options": {
+        "A": "CL máximo e CD mínimo,",
+        "B": "CL mínimo e CL alto,",
+        "C": "CL máximo e CD alto,",
+        "D": "CL mínimo e CD mínimo."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 53,
+      "question": "O coeficiente de sustentação de um aerofólio atinge seu valor máximo no ângulo:",
+      "options": {
+        "A": "mínimo,",
+        "B": "de estol ou crítico,",
+        "C": "de maior rendimento (ótimo),",
+        "D": "de arrasto mínimo."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 54,
+      "question": "Valores de CL negativos relacionam-se com ângulos de ataque próprios para vôos:",
+      "options": {
+        "A": "de dorso,",
+        "B": "em altas velocidade,",
+        "C": "em cabradas violentas,",
+        "D": "em velocidades médias."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 55,
+      "question": "A especificação NACA-0012, indica que no aerofólio:",
+      "options": {
+        "A": "o perfil é simétrico, indicado pelo \"00\",",
+        "B": "a razão de fineza está situada a 25% da corda média,",
+        "C": "o 12 indica a espessura ( razão de fineza), em porcentagem da corda,",
+        "D": "todas as alternativas anteriores são corretas."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 56,
+      "question": "A corda média do perfil de um aerofólio é uma linha imaginária que:",
+      "options": {
+        "A": "une a raiz à ponta do aerofólio,",
+        "B": "une o bordo de ataque ao bordo de fuga,",
+        "C": "divide o aerofólio exatamente ao meio,",
+        "D": "une a cambra inferior à cambra superior."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 57,
+      "question": "O ângulo de ataque é formado entre o:",
+      "options": {
+        "A": "vento relativo e a corda,",
+        "B": "eixo longitudinal e a corda da asa,",
+        "C": "eixo longitudinal e o vento relativo,",
+        "D": "vento relativo e a direção do arrasto."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 58,
+      "question": "O ângulo formado pela corda média do perfil aerodinâmico e o eixo longitudinal da aeronave é denominado ângulo:",
+      "options": {
+        "A": "de ataque,",
+        "B": "de incidência,",
+        "C": "diedro,",
+        "D": "de \"enflechamento\"."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 59,
+      "question": "O ângulo formado entre a corda do perfil e a direção do vento relativo, chama-se ângulo:",
+      "options": {
+        "A": "de ataque,",
+        "B": "de incidência,",
+        "C": "de atitude,",
+        "D": "da trajetória."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 60,
+      "question": "A linha imaginária que une o bordo de ataque ao bordo de fuga de um aerofólio é denominada:",
+      "options": {
+        "A": "corda,",
+        "B": "linha de curvatura média,",
+        "C": "flecha,",
+        "D": "ordenada."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 61,
+      "question": "A linha imaginária de um aerofólio que é eqüidistante da cambra inferior e da cambra superior, é denominada:",
+      "options": {
+        "A": "curvatura,",
+        "B": "linha de curvatura média,",
+        "C": "corda,",
+        "D": "espessura."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 62,
+      "question": "A razão entre a envergadura e a corda de um aerofólio é denominada:",
+      "options": {
+        "A": "alongamento,",
+        "B": "espessura,",
+        "C": "razão média,",
+        "D": "comprimento."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 63,
+      "question": "O alongamento, ou razão de aspecto, é a razão entre a:",
+      "options": {
+        "A": "envergadura e a área da asa de uma aeronave,",
+        "B": "envergadura e a corda da asa de uma aeronave,",
+        "C": "área e a envergadura da asa de uma aeronave,",
+        "D": "corda média geométrica e a corda média aerodinâmica."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 64,
+      "question": "Alongamento de uma asa é a relação entre:",
+      "options": {
+        "A": "envergadura e CMA,",
+        "B": "envergadura e CMG,",
+        "C": "CMA e envergadura,",
+        "D": "CMG e centro de pressão."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 65,
+      "question": "O ângulo de incidência é formado entre o:",
+      "options": {
+        "A": "vento relativo e a corda da asa,",
+        "B": "eixo longitudinal e a corda da asa,",
+        "C": "eixo longitudinal e o vento relativo,",
+        "D": "vento relativo e a direção do arrasto."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 66,
+      "question": "Para se conhecer o ângulo de ataque é necessário que se leve em consideração o vento relativo e o/a:",
+      "options": {
+        "A": "horizonte,",
+        "B": "corda do perfil,",
+        "C": "eixo transversal,",
+        "D": "eixo longitudinal."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 67,
+      "question": "As superfícies de comando que produzem as forças necessárias para controlar o avião, atuam com base no/na:",
+      "options": {
+        "A": "variação do impacto,",
+        "B": "variação do ângulo de ataque,",
+        "C": "variação do ângulo de incidência,",
+        "D": "impacto do ar alterando o plano fixo."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 68,
+      "question": "O ângulo de sustentação nula nos aerofólios é conseguido com ângulos de ataque:",
+      "options": {
+        "A": "negativos nos perfis simétricos,",
+        "B": "iguais a zero nos perfis assimétricos,",
+        "C": "iguais a zero nos perfis simétricos,",
+        "D": "positivos em quaisquer perfis, simétricos e assimétricos."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 69,
+      "question": "A relação entre a sustentação e a resistência ao avanço de um perfil de aerofólio chama- se:",
+      "options": {
+        "A": "coeficiente de sustentação,",
+        "B": "eficácia do perfil,",
+        "C": "sustentação do perfil,",
+        "D": "ângulo crítico."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 70,
+      "question": "O estol pode ocorrer:",
+      "options": {
+        "A": "no vôo em turbulência,",
+        "B": "com o aumento da potência,",
+        "C": "com o aumento da velocidade,",
+        "D": "com a redução do ângulo de ataque."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 71,
+      "question": "O movimento de uma aeronave em torno do seu eixo transversal, é denominado:",
+      "options": {
+        "A": "rolagem,",
+        "B": "arfagem,",
+        "C": "bancagem,",
+        "D": "guinada."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 72,
+      "question": "Quando se leva o comando dos ailerons para a esquerda, o/os:",
+      "options": {
+        "A": "movimento de arfagem é iniciado,",
+        "B": "compensadores são levados para a posição neutra,",
+        "C": "aileron esquerdo é baixado e o direito levantado,",
+        "D": "aileron direito é baixado e o esquerdo levantado."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 73,
+      "question": "A superfície dorsal de um aerofólio, por onde os filetes de ar do vento relativo passam com maior velocidade, chama-se:",
+      "options": {
+        "A": "cambra inferior,",
+        "B": "cambra superior,",
+        "C": "centro de pressão,",
+        "D": "corda do aerofólio."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 74,
+      "question": "A troca de hélice em uma aeronave modifica a potência:",
+      "options": {
+        "A": "efetiva,",
+        "B": "nominal,",
+        "C": "disponível,",
+        "D": "necessária."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 75,
+      "question": "Se aumentarmos o ângulo de ataque além do valor entre o coeficiente de sustentação é máximo, os filetes de ar não mais conseguem acompanhar a curvatura superior do aerofólio e se desprendem da superfície, formando-se turbulento. Tal fenômeno ocorre imediatamente após um ângulo denominado:",
+      "options": {
+        "A": "crítico ou de estol,",
+        "B": "de sustentação máxima,",
+        "C": "de perda,",
+        "D": "qualquer das anteriores."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 76,
+      "question": "A hélice de passo ajustável tem SEMPRE bom rendimento:",
+      "options": {
+        "A": "em qualquer situação,",
+        "B": "numa determinada RPM,",
+        "C": "na condição para a qual foi ajustada,",
+        "D": "quando os ajustes ocorrem durante o vôo."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 77,
+      "question": "O recuo da hélice é traduzido como a diferença entre o/a:",
+      "options": {
+        "A": "passo real e o passo efetivo,",
+        "B": "passo te´rico e o passo efetivo,",
+        "C": "potência útil e potência nominal,",
+        "D": "potência efetiva e potência nominal."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 78,
+      "question": "Dadas duas hélices similares, a de menor passo será ineficiente nas:",
+      "options": {
+        "A": "subidas,",
+        "B": "decolagens,",
+        "C": "condições para as quais construída,",
+        "D": "altas velocidades, em vôos de cruzeiro."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 79,
+      "question": "A área plana equivalente produz um arrasto igual ao arrasto:",
+      "options": {
+        "A": "total,",
+        "B": "da asa,",
+        "C": "parasita,",
+        "D": "induzida."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 80,
+      "question": "Resistência induzida é provocada:",
+      "options": {
+        "A": "pela fuselagem,",
+        "B": "pelo perfil da asa,",
+        "C": "por turbilhonamento na ponta da asa,",
+        "D": "por toda as partes que NÃO produzem sustentação."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 81,
+      "question": "A resistência induzida:",
+      "options": {
+        "A": "NÃO varia com o peso,",
+        "B": "depende do alongamento,",
+        "C": "é maior em altas velocidades,",
+        "D": "é constante em qualquer situação de vôo."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 82,
+      "question": "A resistência parasita é aquela produzida:",
+      "options": {
+        "A": "pela asa,",
+        "B": "todo avião menos a asa,",
+        "C": "pelo atrito da camada limite,",
+        "D": "pelo turbilhonamento de ponta de asa."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 83,
+      "question": "A resistência induzida é reduzida por um:",
+      "options": {
+        "A": "maior alongamento,",
+        "B": "menor alongamento,",
+        "C": "maior ângulo de ataque,",
+        "D": "menor ângulo de incidência."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 84,
+      "question": "O resultado da fricção do ar sobre o aerofólio é denominado arrasto:",
+      "options": {
+        "A": "do perfil,",
+        "B": "induzido,",
+        "C": "parasita,",
+        "D": "total."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 85,
+      "question": "Uma chapa plana perpendicular ã direção do vento relativo tem maior resistência ao avanço que uma forma aerodinâmica de igual área frontal, porque:",
+      "options": {
+        "A": "o impacto do ar na chapa é maior,",
+        "B": "na verdade, a chapa plana possui menor resistência ao avanço,",
+        "C": "o escoamento do ar é mais turbulento atrás da chapa, formando uma sucção,",
+        "D": "o afilamento na parte lateral da superfície aerodinâmica corta melhor o ar."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 86,
+      "question": "A resistência parasita (arrasto parasita) depende de:",
+      "options": {
+        "A": "densidade do ar e velocidade,",
+        "B": "densidade do ar e área plana equivalente,",
+        "C": "densidade do ar, área plana equivalente e velocidade,",
+        "D": "coeficiente de arrasto, área plana equivalente, densidade e velocidade."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 87,
+      "question": "Durante uma subida, o componente do peso é:",
+      "options": {
+        "A": "somado à tração,",
+        "B": "somado ao arrasto,",
+        "C": "subtraído do arrasto,",
+        "D": "somado à sustentação."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 88,
+      "question": "No vôo ascendente a sustentação é:",
+      "options": {
+        "A": "menor que o peso,",
+        "B": "maior que o peso,",
+        "C": "igual ao peso,",
+        "D": "não existe relação."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 89,
+      "question": "Durante uma decolagem, o vento de proa:",
+      "options": {
+        "A": "diminui a corrida no solo,",
+        "B": "aumentará a corrida no solo,",
+        "C": "diminui a velocidade aerodinâmica de decolagem,",
+        "D": "aumenta a velocidade aerodinâmica de decolagem."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 90,
+      "question": "A situação em que se obtém maior sustentação, numa decolagem, é:",
+      "options": {
+        "A": "pressão alta, temperatura alta e ar úmido,",
+        "B": "pressão alta, temperatura baixa e ar seco,",
+        "C": "pressão baixa, temperatura alta e ar seco,",
+        "D": "pressão alta, temperatura baixa e ar úmido."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 91,
+      "question": "Durante o pouso, o vento de proa:",
+      "options": {
+        "A": "reduz a corrida no solo,",
+        "B": "aumenta a corrida no solo,",
+        "C": "aumenta a razão de descida,",
+        "D": "diminui o ângulo de descida."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 92,
+      "question": "Quando uma aeronave encontra-se em vôo descendente, com um ângulo de ataque de 20º, o vento relativo:",
+      "options": {
+        "A": "é vertical,",
+        "B": "é horizontal,",
+        "C": "sobe com um ângulo de 20º,",
+        "D": "desce com um ângulo de 20º."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 93,
+      "question": "Quando aumenta o peso da aeronave, a razão de subida fica:",
+      "options": {
+        "A": "igual,",
+        "B": "maior,",
+        "C": "menor,",
+        "D": "indiferente."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 94,
+      "question": "A velocidade da aeronave de maior ângulo de subida, em relação a de maior razão de subida, é:",
+      "options": {
+        "A": "igual,",
+        "B": "maior,",
+        "C": "menor,",
+        "D": "indiferente."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 95,
+      "question": "Quando aumenta a área de fuma aeronave, o maior ângulo de subida é:",
+      "options": {
+        "A": "igual,",
+        "B": "maior,",
+        "C": "menor,",
+        "D": "indiferente."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 96,
+      "question": "No teto operacional, a aeronave:",
+      "options": {
+        "A": "NÃO sobe mais,",
+        "B": "sobe com ângulo máximo de 8º,",
+        "C": "sobe com razão máxima de 100 FT/min,",
+        "D": "sobe com razão máxima de 500 FT/min."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 97,
+      "question": "Uma aeronave está no seu teto prático, quando ainda consegue manter uma razão de subida de:",
+      "options": {
+        "A": "50 FT/min,",
+        "B": "100 FT/min,",
+        "C": "150 FT/min,",
+        "D": "200 FT/min."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 98,
+      "question": "No teto prático (ou de serviço) a R/S ( razão de subida) máxima é igual a:",
+      "options": {
+        "A": "zero,",
+        "B": "100 ft/min ( 0,51 m/s),",
+        "C": "1500 ft/min,",
+        "D": "não existe valor definido."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 99,
+      "question": "Considerem-se dois aviões iguais com pesos diferentes, numa situação de descida em vôo planado. O que tiver maior peso terá:",
+      "options": {
+        "A": "maior razão de descida,",
+        "B": "maior ângulo de planeio,",
+        "C": "menor distância de planeio,",
+        "D": "menor velocidade de planeio."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 100,
+      "question": "Para que uma ACFT possa manter o vôo em curva sem variar a altitude, é necessário:",
+      "options": {
+        "A": "que a sustentação diminua,",
+        "B": "compensar a força centrípeta,",
+        "C": "manter a mesma potência do vôo reto e nivelado,",
+        "D": "que a sustentação seja maior que o peso da ACFT."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 101,
+      "question": "Mantendo o mesmo raio, se aumentarmos a velocidade, a inclinação:",
+      "options": {
+        "A": "aumenta,",
+        "B": "diminui,",
+        "C": "permanece,",
+        "D": "é indiferente."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 102,
+      "question": "Aumentando-se a inclinação de uma aeronave, durante uma curva, o/a:",
+      "options": {
+        "A": "fator carga diminuirá,",
+        "B": "força centrípeta será maior,",
+        "C": "velocidade de estol diminuirá,",
+        "D": "sustentação deverá ser maior para igualar o peso."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 103,
+      "question": "Na curva coordenada:",
+      "options": {
+        "A": "a inclinação é correta,",
+        "B": "a inclinação é insuficiente,",
+        "C": "o peso é maior que a sustentação,",
+        "D": "o arrasto é maior que a sustentação."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 104,
+      "question": "Na curva glissada a inclinação:",
+      "options": {
+        "A": "nula,",
+        "B": "correta,",
+        "C": "exagerada,",
+        "D": "insuficiente."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 105,
+      "question": "Aumentando-se na inclinação da aeronave na curva, o fator carga:",
+      "options": {
+        "A": "diminuirá,",
+        "B": "aumentará,",
+        "C": "cairá a zero,",
+        "D": "permanecerá o mesmo."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 106,
+      "question": "No teto absoluto o raio limite:",
+      "options": {
+        "A": "é nulo,",
+        "B": "é infinito,",
+        "C": "depende da inclinação,",
+        "D": "é definido pela potência disponível."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 107,
+      "question": "O raio limite de uma curva aumentará com:",
+      "options": {
+        "A": "aumento do peso,",
+        "B": "aumento da asa,",
+        "C": "redução do peso,",
+        "D": "redução da altitude."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 108,
+      "question": "Numa aeronave que possua uma asa de perfil assimétrico e na qual o ângulo de estol seja de 18º, um aumento de ângulo de ataque de 6º para 9º acarretara, num vôo horizontal nivelado, o/a:",
+      "options": {
+        "A": "redução de CL e CD,",
+        "B": "aumento de CL e CD,",
+        "C": "aumento de CL e redução de CD,",
+        "D": "redução de CL e aumento de CD."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 109,
+      "question": "Uma bola colocada sobre um mesa plana tem equilíbrio estático do tipo:",
+      "options": {
+        "A": "estável,",
+        "B": "instável,",
+        "C": "indiferente,",
+        "D": "irregular."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 110,
+      "question": "Dos fatores abaixo, aqueles que influenciam na estabilidade lateral são:",
+      "options": {
+        "A": "flapes e ailerons,",
+        "B": "diedro e enflechamento,",
+        "C": "flapes e efeito de quilha,",
+        "D": "ailerons e efeito de quilha."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 111,
+      "question": "Uma aeronave ao sofrer um desequilíbrio lateral, tende a voltar a posição original porém desequilibra-se cada vez mais. Este tipo de equilíbrio denomina-se:",
+      "options": {
+        "A": "estaticamente instável,",
+        "B": "dinamicamente instável,",
+        "C": "estaticamente indiferente,",
+        "D": "dinamicamente indiferente."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 112,
+      "question": "O ponto em torno do qual um corpo está estaticamente equilibrado é denominado:",
+      "options": {
+        "A": "centro de pressão (CP),",
+        "B": "centro de gravidade (CG),",
+        "C": "ponto de tração (PT),",
+        "D": "coeficiente de sustentação (CL)."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 113,
+      "question": "O efeito quilha influência a estabilidade:",
+      "options": {
+        "A": "vertical e lateral,",
+        "B": "lateral e direcional,",
+        "C": "longitudinal e lateral,",
+        "D": "longitudinal e direcional."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 114,
+      "question": "A margem de segurança dos esforços estruturais verticais é de:",
+      "options": {
+        "A": "25%,",
+        "B": "50%,",
+        "C": "75%,",
+        "D": "100%."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 115,
+      "question": "Definimos estabilidade ou equilíbrio de um corpo como sendo:",
+      "options": {
+        "A": "a resposta desse corpo quando perturbado por uma força,",
+        "B": "a situação do corpo num dado instante,",
+        "C": "a tendência que os corpos tem de se manter em repouso,",
+        "D": "o resultado da somatória dos momentos das forças aplicadas ao corpo."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 116,
+      "question": "Um avião estaticamente indiferente é aquele que tende a:",
+      "options": {
+        "A": "continuar em equilíbrio,",
+        "B": "voltar a atitude original,",
+        "C": "permanece na nova trajetória,",
+        "D": "aumenta o deslocamento de sua atitude original."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 117,
+      "question": "Bancagem é o mesmo que:",
+      "options": {
+        "A": "guinada,",
+        "B": "arfagem,",
+        "C": "tangagem,",
+        "D": "rolamento."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 118,
+      "question": "A guinada adversa é causada pelo/pela:",
+      "options": {
+        "A": "efeito quina,",
+        "B": "ação do diedro,",
+        "C": "reação do leme de direção,",
+        "D": "diferença do arrasto dos ailerons."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 119,
+      "question": "Durante um vôo em cruzeiro, ao consumir combustível, a aeronave torna-se mais leve. Em conseqüência a velocidade (VA):",
+      "options": {
+        "A": "diminui,",
+        "B": "aumenta,",
+        "C": "fica igual,",
+        "D": "é indiferente."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 120,
+      "question": "Um avião entra em estol assimétrico quando se encontra sob a influência de um dos seguintes fatores:",
+      "options": {
+        "A": "curva de pouca inclinação,",
+        "B": "asas com incidências iguais,",
+        "C": "derrapagem criada pelo piloto,",
+        "D": "uso de aileron próximo ao estol."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 121,
+      "question": "A velocidade equivalente (EAS) é obtida corrigido-se a velocidade:",
+      "options": {
+        "A": "indicada (IAS) para os erros do instrumento,",
+        "B": "calibrada (CAS) para os erros do instrumento,",
+        "C": "calibrada (CAS) para os efeitos de compressibilidade,",
+        "D": "indicada (IAS) para os erros de compressibilidade."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 122,
+      "question": "A velocidade verdadeira ou aerodinâmica (TAS) é obtida corrigindo-se a velocidade equivalente (EAS) para erros de:",
+      "options": {
+        "A": "altitude-densidade,",
+        "B": "instrumento,",
+        "C": "compressibilidade,",
+        "D": "posição ou localização."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 123,
+      "question": "A velocidade com a qual se pode voar a maior distância possível com certa quantidade de combustível é denominada velocidade de:",
+      "options": {
+        "A": "máximo alcance,",
+        "B": "máxima autonomia,",
+        "C": "cruzeiro,",
+        "D": "menor regime constante."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 124,
+      "question": "Considerando que uma aeronave está mantendo vôo em nível, seu vôo é feito mantendo VI constante se houver aumento na temperatura do ar sua VA:",
+      "options": {
+        "A": "aumenta,",
+        "B": "diminui,",
+        "C": "permanece constante,",
+        "D": "dependerá da pressão atmosférica."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 125,
+      "question": "Em um mergulho vertical, a velocidade final, aumenta com ao aumento do/da:",
+      "options": {
+        "A": "peso,",
+        "B": "CL máximo,",
+        "C": "área da asa,",
+        "D": "densidade do ar."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 126,
+      "question": "A velocidade indicada de estol varia diretamente com a variação do/da:",
+      "options": {
+        "A": "peso,",
+        "B": "altitude,",
+        "C": "peso e altitude,",
+        "D": "densidade atmosférica."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 127,
+      "question": "A potência necessária para deslocar uma aeronave aumenta com a redução do/da:",
+      "options": {
+        "A": "altitude,",
+        "B": "densidade do ar,",
+        "C": "peso da aeronave,",
+        "D": "carga unitária da aeronave."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 128,
+      "question": "A medida em que uma aeronave for subindo, a relação entre a potência disponível e a potência necessária, respectivamente:",
+      "options": {
+        "A": "diminuirá/diminuirá,",
+        "B": "diminuirá/aumentará,",
+        "C": "aumentará/diminuirá,",
+        "D": "aumentará/aumentará."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 129,
+      "question": "O acelerômetro seve para medir o/a:",
+      "options": {
+        "A": "carga, nas curvas,",
+        "B": "aumento da potência,",
+        "C": "desaceleração, no pouso,",
+        "D": "aceleração, na decolagem."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 130,
+      "question": "Quando uma carga externa for anexa à fuselagem (marcas, flutuadores, etc.), além de aumentar o peso da aeronave, irá aumentar também o/a:",
+      "options": {
+        "A": "arrasto induzido,",
+        "B": "arrasto de fuselagem,",
+        "C": "sustentação,",
+        "D": "velocidade vertical."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 131,
+      "question": "As cargas dinâmicas excessivas que podem destruir o avião denominam-se:",
+      "options": {
+        "A": "verticais,",
+        "B": "inclinadas,",
+        "C": "superiores,",
+        "D": "horizontais."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 132,
+      "question": "O fator carga (G) produzido numa cabrada é:",
+      "options": {
+        "A": "positivo,",
+        "B": "negativo,",
+        "C": "nulo,",
+        "D": "igual a 1 (um)."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 133,
+      "question": "Em uma turbulência podem aparecer fatores de carga elevados. Para se reduzir o valor dos mesmos o piloto deverá:",
+      "options": {
+        "A": "aumentar a velocidade,",
+        "B": "manter a velocidade,",
+        "C": "reduzir a velocidade,",
+        "D": "aumentar o fator de carga."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 134,
+      "question": "Aumentando-se na inclinação da aeronave na curva, o fator carga:",
+      "options": {
+        "A": "diminuirá,",
+        "B": "aumentará,",
+        "C": "cairá a zero,",
+        "D": "permanecerá o mesmo."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 135,
+      "question": "Durante uma picada violenta, o fator carga poderá:",
+      "options": {
+        "A": "ficar negativo,",
+        "B": "ser igual a um,",
+        "C": "ser superior a um,",
+        "D": "ficar acima de zero."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 136,
+      "question": "O fator carga é definido como sendo a razão entre o/a:",
+      "options": {
+        "A": "sustentação e o peso,",
+        "B": "peso e a sustentação,",
+        "C": "carga ala e a sustentação,",
+        "D": "sustentação e a carga alar."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 137,
+      "question": "O esforço estrutural mais significativo é o:",
+      "options": {
+        "A": "vertical,",
+        "B": "horizontal,",
+        "C": "transversal,",
+        "D": "longitudinal."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 138,
+      "question": "Uma aeronave em vôo reto e horizontal, ao sofrer uma rajada de vento ascendente, poderá sofrer:",
+      "options": {
+        "A": "uma diminuição do fator carga,",
+        "B": "um aumento gradativo do fator carga,",
+        "C": "danos se estiver em alta velocidade,",
+        "D": "danos se estiver em baixa velocidade."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 139,
+      "question": "Os compensadores que ajustam as pressões dos comandos independente da atuação do piloto, denominam-se:",
+      "options": {
+        "A": "fixos,",
+        "B": "ajustáveis,",
+        "C": "automáticos,",
+        "D": "comandáveis."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 140,
+      "question": "Os Slots móveis são dispositivos hipersustentadores que, ao serem acionados, tem como finalidade:",
+      "options": {
+        "A": "diminuir o ângulo crítico do pouso,",
+        "B": "NÃO permitir vôos com ângulos de ataque menores,",
+        "C": "Aumentar o ângulo crítico, aumentando o CL máximo,",
+        "D": "NÃO prejudicar a visibilidade do piloto durante o pouso."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 141,
+      "question": "Os Slats:",
+      "options": {
+        "A": "reduzem o arrasto,",
+        "B": "reduzem a sustentação,",
+        "C": "reduzem o ângulo de estol,",
+        "D": "aumentam o ângulo de estol."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 142,
+      "question": "Num plane com uma aeronave leve de instrução os flapes são usados para:",
+      "options": {
+        "A": "aumentar a velocidade,",
+        "B": "reduzir a razão de descida,",
+        "C": "diminuir o ângulo de descida,",
+        "D": "aumentar o ângulo de descida."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 143,
+      "question": "Em sua função normal, o Spoiler é utilizado no/na:",
+      "options": {
+        "A": "planê,",
+        "B": "palier,",
+        "C": "arredondamento,",
+        "D": "corrida do pouso."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 144,
+      "question": "No pouso, os slots:",
+      "options": {
+        "A": "reduzem o ângulo de descida,",
+        "B": "servem para frear a aeronave,",
+        "C": "reduzem a velocidade de toque,",
+        "D": "permitem o pouso com vento de cauda."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 145,
+      "question": "O flape que também modifica a superfície é o:",
+      "options": {
+        "A": "frise,",
+        "B": "fowler,",
+        "C": "ventral,",
+        "D": "simples."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 146,
+      "question": "O efeito da guinada adversa poderá ser evitado, pelo piloto, usando-se o:",
+      "options": {
+        "A": "flape,",
+        "B": "spoiler,",
+        "C": "leme de direção,",
+        "D": "aileron tipo frise. Sua resposta: d. Alternativa correta: c"
+      },
+      "correct": "C"
+    },
+    {
+      "number": 147,
+      "question": "Os diversos tipos de flap modificam nos aerofólios o/a:",
+      "options": {
+        "A": "bordo de ataque,",
+        "B": "curvatura média,",
+        "C": "cambra superior,",
+        "D": "centro de pressão."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 148,
+      "question": "Em algumas aeronaves o Spoiler substitui o/os:",
+      "options": {
+        "A": "Flaps,",
+        "B": "Ailerons,",
+        "C": "profundor,",
+        "D": "leme de direção."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 149,
+      "question": "A utilização dos flapes acarreta, entre outras alternativas, um/uma:",
+      "options": {
+        "A": "aumento do arrasto,",
+        "B": "diminuição do CL da asa,",
+        "C": "diminuição da área da asa,",
+        "D": "aumento da velocidade de estol."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 150,
+      "question": "O peso vazio de uma aeronave mais a carga útil é denominado:",
+      "options": {
+        "A": "peso básico,",
+        "B": "peso operacional ou peso bruto,",
+        "C": "peso máximo,",
+        "D": "peso zero combustível."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 151,
+      "question": "Os fatores que aumentam o PMB são:",
+      "options": {
+        "A": "aumento da pressão, vento de proa, pista em aclive,",
+        "B": "aumento da altitude, pista em declive, vento de proa,",
+        "C": "aumento da densidade, pista em decline, vento de proa,",
+        "D": "aumento da temperatura, pista em declive, vento de proa. Sua resposta: d. Alternativa correta: c"
+      },
+      "correct": "C"
+    }
+  ],
+  "sections": [
+    {
+      "id": 1,
+      "name": "Simulado 01",
+      "from": 1,
+      "to": 20
+    },
+    {
+      "id": 2,
+      "name": "Simulado 02",
+      "from": 21,
+      "to": 40
+    },
+    {
+      "id": 3,
+      "name": "Simulado 03",
+      "from": 41,
+      "to": 60
+    },
+    {
+      "id": 4,
+      "name": "Simulado 04",
+      "from": 61,
+      "to": 80
+    },
+    {
+      "id": 5,
+      "name": "Simulado 05",
+      "from": 81,
+      "to": 100
+    },
+    {
+      "id": 6,
+      "name": "Simulado 06",
+      "from": 101,
+      "to": 120
+    },
+    {
+      "id": 7,
+      "name": "Simulado 07",
+      "from": 121,
+      "to": 140
+    },
+    {
+      "id": 8,
+      "name": "Simulado 08",
+      "from": 141,
+      "to": 151
+    }
+  ]
+}
