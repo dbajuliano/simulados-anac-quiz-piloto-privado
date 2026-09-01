@@ -1,0 +1,1106 @@
+{
+  "subject": "Navegação Aérea",
+  "source": "Simulado-NavegacaoAerea(97Questoes).pdf",
+  "timeLimitSeconds": 1800,
+  "questions": [
+    {
+      "number": 1,
+      "question": "O método de navegação pelo qual a posição da ACFT é obtida através de instrumentos eletrônicos, sendo baseado na recepção de sinais emissores especiais, chama-se navegação:",
+      "options": {
+        "A": "estimada,",
+        "B": "eletrônica,",
+        "C": "por contato,",
+        "D": "astronômica."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 2,
+      "question": "O método de conduzir uma ACFT, sobre a superfície da Terra, procurando elementos de destaque para orientar sua rota, chama-se navegação:",
+      "options": {
+        "A": "rádio,",
+        "B": "eletrônica,",
+        "C": "por contato,",
+        "D": "por estimado."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 3,
+      "question": "A perda de energia eletromagnética de um rádio-transmissor, absorvida por objetos próximos ao mesmo, tais como árvores e edifícios, chama-se:",
+      "options": {
+        "A": "absorção,",
+        "B": "refração,",
+        "C": "reflexão,",
+        "D": "difração."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 4,
+      "question": "O rádio receptor com uma antena loop, que é capaz de determinar a direção das ondas emitidas por uma estação e que comumente sofre com os problemas de descargas elétricas da atmosfera, denomina-se:",
+      "options": {
+        "A": "ADF,",
+        "B": "VOR,",
+        "C": "ILS,",
+        "D": "ALS."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 5,
+      "question": "A força do campo magnético da Terra que faz uma agulha alinhar-se na direção Norte/Sul chama-se:",
+      "options": {
+        "A": "componente vertical,",
+        "B": "declinação magnética,",
+        "C": "inclinação magnética,",
+        "D": "componente horizontal."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 6,
+      "question": "O altímetro está ligado à(s) linha(s) de pressão:",
+      "options": {
+        "A": "estática,",
+        "B": "dinâmica,",
+        "C": "de impacto,",
+        "D": "estática e dinâmica."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 7,
+      "question": "O nível de vôo de uma ACFT é dado pela distância vertical, medida a partir do/da::",
+      "options": {
+        "A": "superfície terrestre,",
+        "B": "aeródromo sobrevoado,",
+        "C": "nível de pressão padrão,",
+        "D": "ponto qualquer considerado."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 8,
+      "question": "A altitude de um avião lida num altímetro quando este está ajustado para 29.92 POL ou 1013.hPa, chama-se altitude:",
+      "options": {
+        "A": "pressão,",
+        "B": "absoluta,",
+        "C": "densidade,",
+        "D": "verdadeira."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 9,
+      "question": "A distância real, acima do nível do mar, corrigida para as variações de pressão e temperatura, é a altitude:",
+      "options": {
+        "A": "pressão,",
+        "B": "absoluta,",
+        "C": "calibrada,",
+        "D": "verdadeira."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 10,
+      "question": "Quando o altímetro é ajustado para 1013.2 hPa, é obtida a altitude:",
+      "options": {
+        "A": "pressão,",
+        "B": "indicada,",
+        "C": "absoluta,",
+        "D": "verdadeira."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 11,
+      "question": "Linha de fé é como se chama:",
+      "options": {
+        "A": "a linha de rota,",
+        "B": "o eixo longitudinal do avião,",
+        "C": "a linha de leitura de uma bússola,",
+        "D": "uma linha de declinação magnética."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 12,
+      "question": "A componente vertical da bússola é máxima:",
+      "options": {
+        "A": "nos pólos magnéticos,",
+        "B": "na longitude 60º norte ou sul,",
+        "C": "na latitude de 45º norte ou sul.,",
+        "D": "próximo ao Equador magnético."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 13,
+      "question": "As duas componentes básicas do sistema de coordenadas geográficas são:",
+      "options": {
+        "A": "Meridianos e Paralelos,",
+        "B": "Equador e Paralelos,",
+        "C": "Equador e Meridianos,",
+        "D": "Latitude e Longitude."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 14,
+      "question": "A separação entre os meridianos numa projeção Mercator de escala 1:5.000.000 é de:",
+      "options": {
+        "A": "2,2 cm,",
+        "B": "222 cm,",
+        "C": "0,22 cm,",
+        "D": "22,2 cm."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 15,
+      "question": "Uma coordenada geográfica define uma:",
+      "options": {
+        "A": "posição,",
+        "B": "direção.,",
+        "C": "Distância,",
+        "D": "Linha de rota."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 16,
+      "question": "A abreviatura SSW pertence ao grupo de pontos:",
+      "options": {
+        "A": "cardeais,",
+        "B": "colaterais,",
+        "C": "sub-cardeais,",
+        "D": "sub-colaterais."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 17,
+      "question": "WSW pertence ao grupo de pontos sub-colaterais, mais precisamente do setor direcional, é a abreviatura de:",
+      "options": {
+        "A": "Oestesudeste,",
+        "B": "Oestenoroeste,",
+        "C": "Oestenordeste,",
+        "D": "Oestesudoeste."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 18,
+      "question": "O ponto colateral sudeste (SE), corresponde em graus a:",
+      "options": {
+        "A": "45º,",
+        "B": "135º,",
+        "C": "225º,",
+        "D": "315º."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 19,
+      "question": "As projeções que tem o ponto de origem das linhas de projeção no centro da Terra chama-se:",
+      "options": {
+        "A": "azimutais,",
+        "B": "gnomônicas,",
+        "C": "ortográficas,",
+        "D": "estereográficas."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 20,
+      "question": "A projeção que tem como característica a perfeição nas áreas projetadas chama-se:",
+      "options": {
+        "A": "Lambert,",
+        "B": "Mercator,",
+        "C": "Ortodrômica,",
+        "D": "Loxodrômica."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 21,
+      "question": "A projeção que apresenta grandes distorções das áreas projetadas em altas latitudes, denomina-se:",
+      "options": {
+        "A": "Lambert,",
+        "B": "Zenital,",
+        "C": "Azimutal,",
+        "D": "Mercator."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 22,
+      "question": "Das alternativas abaixo, identifique a que é considerada como uma das desvantagens da projeção LAMBERT em relação a MERCATOR:",
+      "options": {
+        "A": "difícil plotagem de pontos,",
+        "B": "escala de distância constante,",
+        "C": "escala de distância variável com a latitude,",
+        "D": "paralelos e meridianos cortando-se a 090º."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 23,
+      "question": "Numa projeção Lambert, uma linha é a representação de um/uma:",
+      "options": {
+        "A": "círculo máximo,",
+        "B": "rota loxodrômica,",
+        "C": "segmento de meridiano,",
+        "D": "inclinação magnética."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 24,
+      "question": "As projeções cujo ponto de tangência se encontra sobre o Equador chamam-se::",
+      "options": {
+        "A": "polares,",
+        "B": "oblíquas,",
+        "C": "equatoriais,",
+        "D": "Gnomônicas."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 25,
+      "question": "Em uma projeção estereográfica, as linhas de projeção tem origem no:",
+      "options": {
+        "A": "infinito,",
+        "B": "centro da Terra,",
+        "C": "ponto de tangência,",
+        "D": "ponto oposto ao ponto de tangência."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 26,
+      "question": "Uma rota ortodrômica, corta os meridianos em ângulo:",
+      "options": {
+        "A": "retos,",
+        "B": "iguais,",
+        "C": "agudos,",
+        "D": "diferentes."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 27,
+      "question": "As extremidades do eixo imaginário da Terra chamam-se:",
+      "options": {
+        "A": "pólos norte e sul magnéticos,",
+        "B": "pólos norte e sul verdadeiros,",
+        "C": "hemisférios norte e sul magnéticos,",
+        "D": "hemisférios norte e sul verdadeiros."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 28,
+      "question": "O arco de Equador, compreendido entre o meridiano de Greenwich e um meridiano qualquer, é chamado:",
+      "options": {
+        "A": "latitude,",
+        "B": "longitude,",
+        "C": "co-latitude,",
+        "D": "co-longitude."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 29,
+      "question": "O menor arco de Equador, compreendido entre os meridianos dos pontos dados, chama-se:",
+      "options": {
+        "A": "Latitude,",
+        "B": "Longitude,",
+        "C": "DLA,",
+        "D": "DLO."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 30,
+      "question": "O complemento da latitude chama-se:",
+      "options": {
+        "A": "co-latitude,",
+        "B": "latitude média,",
+        "C": "paralelo de latitude,",
+        "D": "diferença de latitude."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 31,
+      "question": "O arco de Equador compreendido entre o meridiano de Greenwich e o meridiano do ponto considerado chama-se:",
+      "options": {
+        "A": "latitude.,",
+        "B": "longitude,",
+        "C": "co-latitude,",
+        "D": "diferença de longitude."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 32,
+      "question": "Os meridianos verdadeiros são:",
+      "options": {
+        "A": "Círculos menores,",
+        "B": "Círculos máximos,",
+        "C": "Semi-círculos máximos,",
+        "D": "Círculos maiores."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 33,
+      "question": "O Equador é um Círculo Máximo cuja latitude é de:",
+      "options": {
+        "A": "00º,",
+        "B": "90º,",
+        "C": "180º,",
+        "D": "270º."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 34,
+      "question": "Chama-se de círculo máximo um círculo:",
+      "options": {
+        "A": "paralelo aos trópicos,",
+        "B": "que passa pelo Equador,",
+        "C": "que corta os meridianos no mesmo ângulo,",
+        "D": "cujo plano imaginário divide a Terra em partes iguais."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 35,
+      "question": "O único círculo máximo cujo plano imaginário é perpendicular ao eixo da Terra, chama-se:",
+      "options": {
+        "A": "Pólos,",
+        "B": "Equador,",
+        "C": "Meridianos,",
+        "D": "Paralelos de Latitude."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 36,
+      "question": "Trata-se de um círculo menor e seu plano imaginário é perpendicular ao eixo da Terra:",
+      "options": {
+        "A": "Equador,",
+        "B": "Meridiano magnético,",
+        "C": "Paralelo de latitude,",
+        "D": "Meridiano de Greenwich."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 37,
+      "question": "O comprimento de 1’ (um minuto) de arco do meridiano verdadeiro corresponde a:",
+      "options": {
+        "A": "1 MT,",
+        "B": "1 NM,",
+        "C": "1 KM,",
+        "D": "1 FT."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 38,
+      "question": "Uma distância de 138NM medida sobre um meridiano verdadeiro, corresponde a:",
+      "options": {
+        "A": "02º 18’ de LAT,",
+        "B": "02º 38’ de LAT,",
+        "C": "02º 18’ de LONG,",
+        "D": "02º 38’ de LONG."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 39,
+      "question": "A distância em milhas náuticas, medida sobre um meridiano entre os paralelos de latitude de 04º 20’ S e 06º 30’ S, corresponde a:",
+      "options": {
+        "A": "130NM,",
+        "B": "260NM,",
+        "C": "470NM,",
+        "D": "650NM."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 40,
+      "question": "Um meridiano eqüidistante de dois meridianos considerados chama-se:",
+      "options": {
+        "A": "latitude média,",
+        "B": "longitude média,",
+        "C": "diferença de latitude,",
+        "D": "diferença de longitude."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 41,
+      "question": "O anti-meridiano de 120º e corresponde a:",
+      "options": {
+        "A": "060º E,",
+        "B": "060º W,",
+        "C": "150º E,",
+        "D": "150º W."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 42,
+      "question": "A DLO entre os meridianos 170º E e 170º W é:",
+      "options": {
+        "A": "20º,",
+        "B": "170º,",
+        "C": "340º,",
+        "D": "360º."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 43,
+      "question": "Qual a latitude do ponto B, sendo dados LAT A (23º 27’ S), DLA entre A e B 39º 27’ N?",
+      "options": {
+        "A": "16º 00’ S,",
+        "B": "16º 00’ N,",
+        "C": "23º 27’ N,",
+        "D": "62º 54’ N."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 44,
+      "question": "Dadas as coordenadas geográficas dos pontos A e B, calcule a DLA entre estes pontos: A = (25º 15’ N / 045º 10’ W) e B = (20º 25’ S / 043º 50’ W).",
+      "options": {
+        "A": "DLA 04º 50’,",
+        "B": "DLA 01º 20’,",
+        "C": "DLA 89º 00’,",
+        "D": "DLA 45º 40’."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 45,
+      "question": "O menor arco de paralelo ou Equador compreendido entre os meridianos dos pontos considerados, denomina-se:",
+      "options": {
+        "A": "latitude,",
+        "B": "longitude,",
+        "C": "diferença de latitude,",
+        "D": "diferença de longitude."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 46,
+      "question": "A distância angular que corresponde a um arco de meridiano, medida a partir do Equador até um ponto considerado na superfície da terra, chama-se:",
+      "options": {
+        "A": "Latitude,",
+        "B": "Longitude,",
+        "C": "Anti-meridiano,",
+        "D": "Co-latitude."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 47,
+      "question": "A distância angular medida a partir de um ponto no hemisfério sul até o pólo sul chama-se:",
+      "options": {
+        "A": "latitude,",
+        "B": "longitude,",
+        "C": "co-latitude,",
+        "D": "anti-meridiano."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 48,
+      "question": "Sendo dados os pontos A) 20º 30’ N / 045º 10’ W e B) 60º 10’ S / 075º 25’ W, a DLA é:",
+      "options": {
+        "A": "19º 50’,",
+        "B": "39º 40’,",
+        "C": "40º 20’,",
+        "D": "80º 40’."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 49,
+      "question": "Um ponto situado na latitude 75º 10’ N tem para co-latitude:",
+      "options": {
+        "A": "04º 20’,",
+        "B": "10º 40’,",
+        "C": "14º 50’,",
+        "D": "20º 10’."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 50,
+      "question": "Sendo dados: A (25º 40’ S / 045º 30’ W); B (22º 30’ N/ 050º 40’ W), a diferença de latitude-DLA será:",
+      "options": {
+        "A": "01º 35’,",
+        "B": "03º 10’,",
+        "C": "24º 05’,",
+        "D": "48º 10’."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 51,
+      "question": "O anti-meridiano de 120º 45’ W será:",
+      "options": {
+        "A": "059º 15’ E,",
+        "B": "089º 45’ E,",
+        "C": "105º 15’ E,",
+        "D": "120º 45’ E."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 52,
+      "question": "Um paralelo de latitude eqüidistante de dois paralelos de latitude considerados chama- se:",
+      "options": {
+        "A": "latitude,",
+        "B": "co-latitude,",
+        "C": "latitude média,",
+        "D": "diferença de latitude."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 53,
+      "question": "Qual o anti-meridiano de 20º W ?",
+      "options": {
+        "A": "020º E,",
+        "B": "120º E,",
+        "C": "160º E,",
+        "D": "180º E."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 54,
+      "question": "A distância em milhas náuticas, medida sobre um meridiano entre os paralelos de latitude de 04º 20’ S e 06º 30’ S, corresponde a:",
+      "options": {
+        "A": "130NM,",
+        "B": "260NM,",
+        "C": "470NM,",
+        "D": "650NM."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 55,
+      "question": "Para as localidades que estejam do lado Leste, a hora Legal em relação a ITC, é:",
+      "options": {
+        "A": "a mesma,",
+        "B": "mais cedo,",
+        "C": "mais tarde,",
+        "D": "igual a HLO."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 56,
+      "question": "O meridiano central do fuso número 8 do lado oriental, tem para longitude:",
+      "options": {
+        "A": "105º E,",
+        "B": "120º E,",
+        "C": "105º W,",
+        "D": "120º W."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 57,
+      "question": "Uma faixa de fuso horário abrange:",
+      "options": {
+        "A": "15º de latitude,",
+        "B": "15º de longitude,",
+        "C": "7º 30’ de latitude,",
+        "D": "7º 30’ de longitude."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 58,
+      "question": "Na longitude de 120º W são 18 horas UTC. No mesmo instante, a hora UTC na longitude de 135º E, é de:",
+      "options": {
+        "A": "06 horas,",
+        "B": "09 horas,",
+        "C": "18 horas,",
+        "D": "22 horas."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 59,
+      "question": "As horas UTC, HLE e HLO são iguais no meridiano:",
+      "options": {
+        "A": "005º,",
+        "B": "010º,",
+        "C": "015º,",
+        "D": "000º."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 60,
+      "question": "Em um lugar de longitude 85º W são 13:30 HLE. Conseqüentemente a hora UTC é:",
+      "options": {
+        "A": "07:30,",
+        "B": "08:30,",
+        "C": "18:30,",
+        "D": "19:30."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 61,
+      "question": "A letra e o número do fuso de um lugar de longitude 138º E é:",
+      "options": {
+        "A": "I, 9,",
+        "B": "H, 8,",
+        "C": "U, 8,",
+        "D": "V, 9."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 62,
+      "question": "A hora do meridiano central de cada fuso chama-se:",
+      "options": {
+        "A": "local,",
+        "B": "legal,",
+        "C": "estimada,",
+        "D": "de Greenwich."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 63,
+      "question": "No Rio de Janeiro são 17:00 HLE (Long 43º 15’ W). Qual a HLE em Los Angeles (Long 119º W), sabendo-se que neste lugar está sendo adotada a hora de verão (relógios adiantados uma hora)?",
+      "options": {
+        "A": "12:00,",
+        "B": "13:00,",
+        "C": "22:00,",
+        "D": "23:00."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 64,
+      "question": "A hora considerada em cada meridiano é a hora:",
+      "options": {
+        "A": "local,",
+        "B": "legal,",
+        "C": "estimada,",
+        "D": "universal."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 65,
+      "question": "Aplicando-se o Acd ao rumo magnético obtém-se o/a:",
+      "options": {
+        "A": "PB,",
+        "B": "PM,",
+        "C": "PV,",
+        "D": "RV."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 66,
+      "question": "O desvio de bússola E subtrai-se da PM para se obter o/a:",
+      "options": {
+        "A": "PV,",
+        "B": "RV,",
+        "C": "PB,",
+        "D": "RM."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 67,
+      "question": "O ângulo formado entre o rumo e a proa de uma aeronave, denomina-se:",
+      "options": {
+        "A": "desvio,",
+        "B": "deriva,",
+        "C": "correção de desvio,",
+        "D": "correção de deriva."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 68,
+      "question": "O ângulo formado entre um meridiano verdadeiro e a linha de rota chama-se:",
+      "options": {
+        "A": "rumo verdadeiro,",
+        "B": "proa verdadeira,",
+        "C": "ângulo de correção de deriva,",
+        "D": "declinação magnética."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 69,
+      "question": "O posicionamento de uma linha de rota medido através do ângulo formado com um meridiano verdadeiro, define o valor do/da:",
+      "options": {
+        "A": "RV,",
+        "B": "PV,",
+        "C": "RM,",
+        "D": "Dmg."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 70,
+      "question": "O ângulo formado entre o meridiano verdadeiro e a linha de rota é a definição de:",
+      "options": {
+        "A": "PM,",
+        "B": "RV,",
+        "C": "RM,",
+        "D": "PV."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 71,
+      "question": "Uma aeronave mantém PB 030º e sua linha de rota corta as isogônicas de 05º W a 03º E. A DMG média que deverá ser aplicada será de:",
+      "options": {
+        "A": "01º W,",
+        "B": "02º W,",
+        "C": "04º E,",
+        "D": "08º E."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 72,
+      "question": "Um avião voando com PM 230º corta as linhas isogônicas de 05º W e 07º E. A DMG média a ser aplicada deverá ser de:",
+      "options": {
+        "A": "01º E,",
+        "B": "02º E,",
+        "C": "06º E,",
+        "D": "12º E."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 73,
+      "question": "Dados: PB 200º, DMG 20º W, desvio de bússola 05º E. As PV e PM serão, respectivamente:",
+      "options": {
+        "A": "175/195º,",
+        "B": "175/215º,",
+        "C": "185/205º,",
+        "D": "205/225º."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 74,
+      "question": "Sendo dados RV=45º DMG=10º W e Acd=+5, qual é a PM?",
+      "options": {
+        "A": "50º,",
+        "B": "55º,",
+        "C": "60º,",
+        "D": "65º."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 75,
+      "question": "Uma aeronave voa com PM 360º e encontra vento de proa. Tendo-se Dmg 15º W, o RV é:",
+      "options": {
+        "A": "RV 015º,",
+        "B": "RV 330º,",
+        "C": "RV 345º,",
+        "D": "RV 360º."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 76,
+      "question": "Considere as coordenadas geográficas dos pontos a seguir e informe o rumo verdadeiro de A para B onde A = 25º 00’ N / 045º 00’ W e B = 25º 00’ N / 048º 00’ W.",
+      "options": {
+        "A": "RV 090º,",
+        "B": "RV 180º,",
+        "C": "RV 270º,",
+        "D": "RV 360º."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 77,
+      "question": "Dados os pontos A (20º 00’ S / 043º 00’ W) e B (20º 00’ S / 050º 00’ W), o rumo verdadeiro de A para B será:",
+      "options": {
+        "A": "000º,",
+        "B": "090º,",
+        "C": "180º,",
+        "D": "270º."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 78,
+      "question": "O posicionamento de uma linha de rota medido através do ângulo formado com um meridiano verdadeiro, define o valor do/da:",
+      "options": {
+        "A": "RV,",
+        "B": "PV,",
+        "C": "RM,",
+        "D": "Dmg."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 79,
+      "question": "Dados os pontos A (25º 00’ S / 045º 00’ W) e B (30º 00’ S / 045º 00’ W), a distancia em milhas náuticas entre A e B será:",
+      "options": {
+        "A": "5NM,",
+        "B": "25NM,",
+        "C": "180NM,",
+        "D": "300NM."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 80,
+      "question": "Tendo-se VS 210KT. A distância percorrida em 00H32min foi de:",
+      "options": {
+        "A": "105 NM,",
+        "B": "112 NM,",
+        "C": "143 NM,",
+        "D": "197 NM."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 81,
+      "question": "Convertendo para litros a quantidade de combustível de 20700 USGal, são obtidos:",
+      "options": {
+        "A": "7824 litros,",
+        "B": "54750 litros,",
+        "C": "78246 litros,",
+        "D": "102320 litros."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 82,
+      "question": "Converter 120 NM em KM:",
+      "options": {
+        "A": "22 km,",
+        "B": "67 km,",
+        "C": "189 km,",
+        "D": "222 km."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 83,
+      "question": "Um avião decola de um aeroporto situado a 3000 ft acima do nível do mar para o fl250, mantém R/S1400 ft/min. O tempo de vôo na subida foi de:",
+      "options": {
+        "A": "00:12,",
+        "B": "00:16,",
+        "C": "00:21,",
+        "D": "00:27."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 84,
+      "question": "Calcule a distância de subida de uma aeronave, considerando-se os seguintes. Dados R/S 700 ft/min, elevação do aeroporto 3000 ft, FL150, VA na subida 170 kt, vento na subida de proa com 20 kt.",
+      "options": {
+        "A": "39 NM,",
+        "B": "43 NM,",
+        "C": "56 NM,",
+        "D": "62 NM."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 85,
+      "question": "Convertendo 4000 metros para pés (FT), obtém-se:",
+      "options": {
+        "A": "12200 FT,",
+        "B": "13120 FT,",
+        "C": "14150 FT,",
+        "D": "16050 FT."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 86,
+      "question": "A altitude de 33.000 ft equivale a:",
+      "options": {
+        "A": "8.525m,",
+        "B": "10.061m,",
+        "C": "9.320m,",
+        "D": "13.052m."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 87,
+      "question": "Convertendo 4800 kg em Lbs obtém-se:",
+      "options": {
+        "A": "106 lbs,",
+        "B": "218 Lbs,",
+        "C": "2180 Lbs,",
+        "D": "10560 Lbs."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 88,
+      "question": "Convertendo 340 Nm em Km obtém-se:",
+      "options": {
+        "A": "630 km,",
+        "B": "720 km,",
+        "C": "880 km,",
+        "D": "950 km."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 89,
+      "question": "Uma milha náutica e uma milha terrestre equivalem, respectivamente, a:",
+      "options": {
+        "A": "1609 m/1852 m,",
+        "B": "3,28 m/1852 m,",
+        "C": "1609 m/3,28 m,",
+        "D": "1852 m/1609 m."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 90,
+      "question": "Calcule a razão de subida de uma aeronave sendo dados: elevação do aeródromo 2500, nível de vôo FL085, tempo de vôo na subida 00:12.",
+      "options": {
+        "A": "500 ft/min,",
+        "B": "650 ft/min,",
+        "C": "710 ft/min,",
+        "D": "850 ft/min."
+      },
+      "correct": "A"
+    },
+    {
+      "number": 91,
+      "question": "À medida em que o avião sobe, a VA aumenta em relação a VI na razão de:",
+      "options": {
+        "A": "1% para cada 1000 FT,",
+        "B": "2% para cada 1000 FT,",
+        "C": "2,5% para cada 1000 FT,",
+        "D": "3,5% para cada 1000 FT."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 92,
+      "question": "Dados altitude pressão 15000ft, temperatura 30º C e altitude indicada 12000ft, a altitude verdadeira é de:",
+      "options": {
+        "A": "4150m,",
+        "B": "4260m,",
+        "C": "4400m,",
+        "D": "1560m."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 93,
+      "question": "Uma aeronave mantém PM 140º, RM 133º, DMG 20º W, VA 170 kt, VS 155 kt. O vento em rota foi de:",
+      "options": {
+        "A": "060º/26 kt,",
+        "B": "165º/26 kt,",
+        "C": "212º/26 kt,",
+        "D": "245º/26 kt."
+      },
+      "correct": "B"
+    },
+    {
+      "number": 94,
+      "question": "Dentre as alternativas abaixo, identifique os fatores que são capazes de modificar a TAS:",
+      "options": {
+        "A": "umidade, vento e densidade do ar,",
+        "B": "FL, umidade e altitude densidade,",
+        "C": "altitude pressão, temperatura e IAS,",
+        "D": "altitude pressão, vento e temperatura."
+      },
+      "correct": "C"
+    },
+    {
+      "number": 95,
+      "question": "A VS (velocidade em relação ao solo) é a VA (velocidade aerodinâmica) corrigida para a:",
+      "options": {
+        "A": "instalação,",
+        "B": "temperatura,",
+        "C": "pressão e velocidade do vento,",
+        "D": "direção e velocidade do vento."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 96,
+      "question": "Considerando-se a PV menor do que o RV e VA menor do que a VS, o vento soprará do setor de:",
+      "options": {
+        "A": "proa pela direita,",
+        "B": "proa pela esquerda,",
+        "C": "cauda pela direita,",
+        "D": "cauda pela esquerda."
+      },
+      "correct": "D"
+    },
+    {
+      "number": 97,
+      "question": "Quando o vento for de proa, de cauda ou nulo, a PV em relação ao RV será:",
+      "options": {
+        "A": "igual,",
+        "B": "maior,",
+        "C": "menor,",
+        "D": "diferente."
+      },
+      "correct": "A"
+    }
+  ],
+  "sections": [
+    {
+      "id": 1,
+      "name": "Simulado 01",
+      "from": 1,
+      "to": 20
+    },
+    {
+      "id": 2,
+      "name": "Simulado 02",
+      "from": 21,
+      "to": 40
+    },
+    {
+      "id": 3,
+      "name": "Simulado 03",
+      "from": 41,
+      "to": 60
+    },
+    {
+      "id": 4,
+      "name": "Simulado 04",
+      "from": 61,
+      "to": 80
+    },
+    {
+      "id": 5,
+      "name": "Simulado 05",
+      "from": 81,
+      "to": 97
+    }
+  ]
+}

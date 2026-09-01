@@ -9,6 +9,11 @@
       "id": "regulamento-de-trafego",
       "name": "Regulamento de Tráfego",
       "file": "data/regulamento-de-trafego.json"
+    },
+    {
+      "id": "navegacao-aerea",
+      "name": "Navegação Aérea",
+      "file": "data/navegacao-aerea.json"
     }
   ]
 }

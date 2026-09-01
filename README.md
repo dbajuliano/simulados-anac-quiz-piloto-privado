@@ -19,6 +19,10 @@ https://dbajuliano.github.io/simulados-anac-quiz-piloto-privado/
 - 153 questões extraídas do PDF fornecido
 - 8 seções: 20 questões por seção, com 13 na última
 
+## Navegação Aérea
+- 97 questões extraídas do PDF fornecido
+- 5 seções: 20 questões por seção, com 17 na última
+
 ## Sobre
 Site estático para GitHub Pages.
 Tecnologia: HTML, CSS, JavaScript e JSON; não há banco de dados.
