@@ -5,14 +5,16 @@
 <title>Simulados de Aviação</title><link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header><div class="brand">Simulados de Aviação</div></header>
+<header>
+  <div class="brand">Simulados de Aviação</div>
+  <a class="home-link" href="#" onclick="goHome(); return false;">🏠 Início</a>
+</header>
 <main>
 <section id="home">
   <div class="hero"><span>Simulados com cronômetro, correção imediata e pontuação final</span><h1>Piloto Privado de Avião</h1><p>600 questões ANAC</p></div>
   <div id="subjects" class="cards"></div>
 </section>
 <section id="sets" class="hidden">
-  <button class="back" onclick="goHome()">🏠 Início</button>
   <div class="hero"><span>MATÉRIA</span><h1 id="subjectTitle"></h1><p>30 minutos por seção. Média de 90 segundos por questão.</p></div>
   <div id="setCards" class="cards"></div>
 </section>
@@ -24,7 +26,10 @@
     <h2 id="question"></h2>
     <div id="options"></div>
     <div id="feedback" class="feedback hidden"></div>
-    <button id="next" class="primary hidden">Próxima questão →</button>
+    <div class="question-actions">
+      <button id="prev" class="secondary">← Questão anterior</button>
+      <button id="next" class="primary hidden">Próxima questão →</button>
+    </div>
   </article>
 </section>
 <section id="result" class="hidden">

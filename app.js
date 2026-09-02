@@ -15,7 +15,7 @@ async function showSets(subjectId){
   $("subjectTitle").textContent=data.subject;
   $("setCards").innerHTML=data.sections.map(s=>{
     const n=s.to-s.from+1;
-    return `<button class="card" onclick="startSet(${s.id})"><h3>${s.name}</h3><p>${n} questões · 30 minutos</p></button>`;
+    return `<button class="card" onclick="startSet(${s.id})"><h3>${s.name}</h3><p>Questões ${s.from}–${s.to} · ${n} questões · 30 minutos</p></button>`;
   }).join("");
   show("sets");
 }
@@ -36,27 +36,41 @@ function tick(){
   if(remaining===0){clearInterval(timerId); finish();}
 }
 function render(){
-  const q=list[index]; $("progress").textContent=`Questão ${index+1} de ${list.length}`;
+  const q=list[index];
+  const selected=answers[index];
+  $("progress").textContent=`Questão ${index+1} de ${list.length}`;
   $("qnum").textContent=`QUESTÃO ${q.number}`;
   $("question").textContent=q.question;
   $("bar").style.width=`${((index+1)/list.length)*100}%`;
-  $("feedback").className="feedback hidden"; $("next").classList.add("hidden");
-  $("options").innerHTML=Object.entries(q.options).map(([k,v])=>`<button class="option" data-k="${k}" onclick="answer('${k}')"><b>${k}</b> — ${v}</button>`).join("");
+  $("prev").disabled=index===0;
+  $("options").innerHTML=Object.entries(q.options).map(([k,v])=>
+    `<button class="option ${selected===k?"selected":""}" data-k="${k}" ${selected?"disabled":""} onclick="answer('${k}')"><b>${k}</b> — ${v}</button>`
+  ).join("");
+
+  const f=$("feedback");
+  const next=$("next");
+  if(selected){
+    const ok=selected===q.correct;
+    f.className=`feedback ${ok?"ok":"bad"}`;
+    f.textContent=ok?"✓ Acerto":"✕ Erro";
+    const detail=document.createElement("div");
+    detail.textContent=ok?"A resposta está correta.":`A resposta correta é ${q.correct}.`;
+    f.appendChild(detail);
+    next.textContent=index===list.length-1?"Ver resultado →":"Próxima questão →";
+    next.classList.remove("hidden");
+  }else{
+    f.className="feedback hidden";
+    next.classList.add("hidden");
+  }
 }
 function answer(k){
   const q=list[index]; if(answers[index]) return;
   answers[index]=k;
   document.querySelectorAll(".option").forEach(b=>b.disabled=true);
-  const ok=k===q.correct;
-  const f=$("feedback"); f.className=`feedback ${ok?"ok":"bad"}`;
-  f.textContent=ok?"✓ Acerto":"✕ Erro";
-  const detail=document.createElement("div");
-  detail.textContent=ok?"A resposta está correta.":`A resposta correta é ${q.correct}.`;
-  f.appendChild(detail);
-  $("next").textContent=index===list.length-1?"Ver resultado →":"Próxima questão →";
-  $("next").classList.remove("hidden");
+  render();
 }
 $("next").onclick=()=>{if(index<list.length-1){index++;render()}else finish()};
+$("prev").onclick=()=>{if(index>0){index--;render()}};
 function finish(){
   clearInterval(timerId);
   let hits=0;
