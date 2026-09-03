@@ -8,18 +8,20 @@ footer{text-align:center;padding:30px 20px;color:#8a8f96;font-size:12px;border-t
 .load-error{background:#fff3cd;border:1px solid #ead48a;border-radius:10px;padding:12px 15px;margin-bottom:18px;color:#5f4b00;font-size:14px}
 
 .material-header{
-  position:relative;
-  padding-top:18px;
-}
-
-.material-header::before{
-  content:"";
-  display:block;
-  height:1px;
-  background:#dfe3e8;
-  margin:0 0 18px;
+  border-top:1px solid #dfe3e8;
+  padding-top:20px;
 }
 
 .material-header h2{
   margin:0;
+}
+
+/* Evita que o único simulado do segundo material ocupe toda a largura */
+#materials > .material-block:nth-child(2) .cards{
+  display:flex;
+}
+
+#materials > .material-block:nth-child(2) .card{
+  width:100%;
+  max-width:420px;
 }
