@@ -22,3 +22,14 @@ footer{text-align:center;padding:30px 20px;color:#8a8f96;font-size:12px;border-t
 }
 .version{display:block;margin-top:5px;font-size:10px;color:#b0b4b9}
 .load-error{background:#fff3cd;border:1px solid #ead48a;border-radius:10px;padding:12px 15px;margin-bottom:18px;color:#5f4b00;font-size:14px}
+
+
+#materials > .material-block:nth-child(2) .cards{
+  grid-template-columns:repeat(auto-fit,minmax(260px,300px));
+}
+
+@media(max-width:600px){
+  #materials > .material-block:nth-child(2) .cards{
+    grid-template-columns:1fr;
+  }
+}

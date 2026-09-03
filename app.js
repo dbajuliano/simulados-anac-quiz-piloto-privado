@@ -13,13 +13,13 @@ async function init(){
     <section class="material-block">
       <div class="material-header">
         <div>
-          <span>MATERIAL</span>
           <h2>${m.name}</h2>
+          ${m.id==="rubens-pa"?'<span class="material-subtitle">Simulado de Rubens P.A.</span>':""}
         </div>
         <a class="source-link" href="${m.sourceUrl}" target="_blank" rel="noopener">${m.sourceLabel} →</a>
       </div>
       <div class="cards">${m.subjects.map(s=>
-        `<button class="card" onclick="showSets('${s.id}')"><h3>${s.name}</h3><p>Selecionar matéria →</p></button>`
+        `<button class="card" onclick="showSets('${s.id}')"><h3>${s.id==="regulamentos-e-trafego-rubens-pa"?"173 questões":s.name}</h3><p>Selecionar matéria →</p></button>`
       ).join("")}</div>
     </section>
   `).join("");
