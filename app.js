@@ -4,8 +4,12 @@ const $=id=>document.getElementById(id);
 const show=id=>{["home","sets","quiz","result"].forEach(x=>$(x).classList.toggle("hidden",x!==id));$("home-link").classList.toggle("hidden",id==="home");window.scrollTo(0,0)};
 
 async function init(){
-  catalog=await fetch("data/subjects.json").then(r=>r.json());
-  $("materials").innerHTML=catalog.materials.map(m=>`
+  try{
+    const response=await fetch("data/subjects.json",{cache:"no-store"});
+    if(!response.ok) throw new Error(`HTTP ${response.status}`);
+    catalog=await response.json();
+    if(!catalog || !Array.isArray(catalog.materials)) throw new Error("Catálogo inválido");
+    $("materials").innerHTML=catalog.materials.map(m=>`
     <section class="material-block">
       <div class="material-header">
         <div>
@@ -19,6 +23,13 @@ async function init(){
       ).join("")}</div>
     </section>
   `).join("");
+  }catch(error){
+    console.error("Falha ao carregar o catálogo:",error);
+    const box=document.createElement("div");
+    box.className="load-error";
+    box.innerHTML="Não foi possível carregar o catálogo automaticamente. Os materiais abaixo são o catálogo de reserva.";
+    $("materials").prepend(box);
+  }
 }
 async function showSets(subjectId){
   let subject=null;
@@ -26,7 +37,10 @@ async function showSets(subjectId){
     const found=material.subjects.find(s=>s.id===subjectId);
     if(found){subject=found;break}
   }
-  data=await fetch(subject.file).then(r=>r.json());
+  if(!subject) return;
+  const response=await fetch(subject.file,{cache:"no-store"});
+  if(!response.ok) throw new Error(`Falha ao carregar ${subject.file}: HTTP ${response.status}`);
+  data=await response.json();
   $("subjectTitle").textContent=data.subject;
   $("setCards").innerHTML=data.sections.map(s=>{
     const n=s.to-s.from+1;
