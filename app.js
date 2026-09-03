@@ -12,7 +12,10 @@ async function init(){
     $("materials").innerHTML=catalog.materials.map(m=>`
     <section class="material-block">
       <div class="material-header">
-        <div><h2>${m.name}</h2></div>
+        <div>
+          <span>MATERIAL</span>
+          <h2>${m.name}</h2>
+        </div>
         <a class="source-link" href="${m.sourceUrl}" target="_blank" rel="noopener">${m.sourceLabel} →</a>
       </div>
       <div class="cards">${m.subjects.map(s=>
