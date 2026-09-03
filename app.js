@@ -5,12 +5,27 @@ const show=id=>{["home","sets","quiz","result"].forEach(x=>$(x).classList.toggle
 
 async function init(){
   catalog=await fetch("data/subjects.json").then(r=>r.json());
-  $("subjects").innerHTML=catalog.subjects.map(s=>
-    `<button class="card" onclick="showSets('${s.id}')"><h3>${s.name}</h3><p>Selecionar matéria →</p></button>`
-  ).join("");
+  $("materials").innerHTML=catalog.materials.map(m=>`
+    <section class="material-block">
+      <div class="material-header">
+        <div>
+          <span>MATERIAL</span>
+          <h2>${m.name}</h2>
+        </div>
+        <a class="source-link" href="${m.sourceUrl}" target="_blank" rel="noopener">${m.sourceLabel} →</a>
+      </div>
+      <div class="cards">${m.subjects.map(s=>
+        `<button class="card" onclick="showSets('${s.id}')"><h3>${s.name}</h3><p>Selecionar matéria →</p></button>`
+      ).join("")}</div>
+    </section>
+  `).join("");
 }
 async function showSets(subjectId){
-  const subject=catalog.subjects.find(s=>s.id===subjectId);
+  let subject=null;
+  for(const material of catalog.materials){
+    const found=material.subjects.find(s=>s.id===subjectId);
+    if(found){subject=found;break}
+  }
   data=await fetch(subject.file).then(r=>r.json());
   $("subjectTitle").textContent=data.subject;
   $("setCards").innerHTML=data.sections.map(s=>{

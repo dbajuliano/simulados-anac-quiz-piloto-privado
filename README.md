@@ -11,25 +11,24 @@ https://dbajuliano.github.io/simulados-anac-quiz-piloto-privado/
 - Pontuação e tempo ao final
 - Material antigo (décadas) pode estar desatualizado
 
-## Teoria de Voo
-- 151 questões extraídas do PDF fornecido
-- 8 seções: 20 questões por seção, com 11 na última
+## Materiais
 
-## Regulamento de Tráfego
-- 153 questões extraídas do PDF fornecido
-- 8 seções: 20 questões por seção, com 13 na última
+### 600 questões ANAC
+Fonte dos PDFs:
+https://drive.google.com/drive/folders/1Ood32iK22aoc2M_XGVKGWJOpwyz_wpHs
 
-## Navegação Aérea
-- 97 questões extraídas do PDF fornecido
-- 5 seções: 20 questões por seção, com 17 na última
+- Teoria de Voo — 151 questões
+- Regulamento de Tráfego — 153 questões
+- Navegação Aérea — 97 questões
+- Meteorologia — 160 questões
+- Conhecimentos Técnicos e Motores — 150 questões
 
-## Meteorologia
-- 160 questões extraídas do PDF fornecido
-- 8 seções: 20 questões por seção
+### Simulado Regulamentos e Tráfego Aéreo by Rubens P.A.
+Fonte do PDF:
+https://drive.google.com/drive/folders/1ywyyutJMkUGZXwU02W4B2botkeoDU7x-
 
-## Conhecimentos Técnicos e Motores
-- 150 questões extraídas do PDF fornecido
-- 8 seções: 20 questões por seção, com 10 na última
+- Regulamentos e Tráfego Aéreo — 173 questões
+- Autor indicado no PDF: Paulo Rubens / Rubens P. A.
 
 ## Sobre
 Site estático para GitHub Pages.
