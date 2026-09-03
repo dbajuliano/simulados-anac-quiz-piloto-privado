@@ -9,20 +9,21 @@ async function init(){
     if(!response.ok) throw new Error(`HTTP ${response.status}`);
     catalog=await response.json();
     if(!catalog || !Array.isArray(catalog.materials)) throw new Error("Catálogo inválido");
-    $("materials").innerHTML=catalog.materials.map(m=>`
-    <section class="material-block">
-      <div class="material-header">
+    $("materials").innerHTML=catalog.materials.map(m=>{
+      const rubens=m.id==="rubens-pa";
+      return `
+    <section class="material-panel ${rubens?"special-panel":""}">
+      <div class="material-panel-header">
         <div>
-          <h2>${m.name}</h2>
-          ${m.id==="rubens-pa"?'<span class="material-subtitle">Simulado de Rubens P.A.</span>':""}
+          ${rubens?`<h2>${m.name}</h2><p class="material-subtitle">Simulado de Rubens P.A. · 173 questões · 9 seções</p>`:`<span class="eyebrow">MATERIAL PRINCIPAL</span><h2>${m.name}</h2>`}
         </div>
-        <a class="source-link" href="${m.sourceUrl}" target="_blank" rel="noopener">${m.sourceLabel} →</a>
+        <a class="source-link" href="${m.sourceUrl}" target="_blank" rel="noopener">${rubens?"Fonte do PDF →":"Fonte dos PDFs →"}</a>
       </div>
-      <div class="cards">${m.subjects.map(s=>
-        `<button class="card" onclick="showSets('${s.id}')"><h3>${s.id==="regulamentos-e-trafego-rubens-pa"?"173 questões":s.name}</h3><p>Selecionar matéria →</p></button>`
-      ).join("")}</div>
-    </section>
-  `).join("");
+      ${rubens?`<div class="special-action"><button class="card special-card" onclick="showSets('${m.subjects[0].id}')"><h3>Começar simulado →</h3><p>30 minutos por seção</p></button></div>`:`<div class="cards">${m.subjects.map(s=>
+        `<button class="card" onclick="showSets('${s.id}')"><h3>${s.name}</h3><p>${({"teoria-de-voo":"151 questões","regulamento-de-trafego":"153 questões","navegacao-aerea":"97 questões","meteorologia":"160 questões","conhecimentos-tecnicos-e-motores":"150 questões"}[s.id]||"")}</p></button>`
+      ).join("")}</div>`}
+    </section>`;
+    }).join("");
   }catch(error){
     console.error("Falha ao carregar o catálogo:",error);
     const box=document.createElement("div");
