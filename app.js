@@ -1,7 +1,15 @@
 let catalog, data, currentSet, list=[], index=0, answers=[], timerId=null, remaining=1800;
 
 const $=id=>document.getElementById(id);
-const show=id=>{["home","sets","quiz","result"].forEach(x=>$(x).classList.toggle("hidden",x!==id));window.scrollTo(0,0)};
+const show=id=>{
+  ["home","sets","quiz","result"].forEach(x=>
+    $(x).classList.toggle("hidden",x!==id)
+  );
+
+  $("home-link").classList.toggle("hidden",id==="home");
+
+  window.scrollTo(0,0);
+};
 
 async function init(){
   catalog=await fetch("data/subjects.json").then(r=>r.json());
