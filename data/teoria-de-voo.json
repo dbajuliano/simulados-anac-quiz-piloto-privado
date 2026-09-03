@@ -261,7 +261,7 @@
       "question": "Assinale a resposta errada. \"A força de arrasto é diretamente proporcional:",
       "options": {
         "A": "à densidade do ar,",
-        "B": "ã velocidade de deslocamento,",
+        "B": "à velocidade de deslocamento,",
         "C": "à área ou superfície do corpo,",
         "D": "ao coeficiente de arrasto."
       },
@@ -335,11 +335,11 @@
     },
     {
       "number": 31,
-      "question": "Se o CG de uma ACFT, após o balanceamento ficar a frente do limite dianteiro, durante o vôo ocorrerá um/uma:",
+      "question": "Se o CG de uma aeronave, após o balanceamento ficar a frente do limite dianteiro, durante o vôo ocorrerá um/uma:",
       "options": {
         "A": "aumento de arrasto,",
         "B": "diminuição dos esforços do piloto,",
-        "C": "aumento na controlabilidade da ACFT,",
+        "C": "aumento na controlabilidade da aeronave,",
         "D": "diminuição no consumo de combustível."
       },
       "correct": "A"
@@ -414,7 +414,7 @@
       "number": 38,
       "question": "Uma superfície aerodinâmica produz SEMPRE:",
       "options": {
-        "A": "pouco força útil ao vôo,",
+        "A": "pouca força útil ao vôo,",
         "B": "muita força útil ao vôo,",
         "C": "grande resistência ao avanço,",
         "D": "pequena resistência ao avanço."
@@ -423,7 +423,7 @@
     },
     {
       "number": 39,
-      "question": "Num perfil aerodinâmico, o ponto de intercessão da resultante aerodinâmica com a linha da corda recebe o nome de:",
+      "question": "Num perfil aerodinâmico, o ponto de interseção da resultante aerodinâmica com a linha da corda recebe o nome de:",
       "options": {
         "A": "centro de gravidade (CG),",
         "B": "centro de pressão (CP),",
@@ -472,7 +472,7 @@
         "A": "zero,",
         "B": "negativo,",
         "C": "positivo,",
-        "D": "maior que l."
+        "D": "maior que 1."
       },
       "correct": "B"
     },
@@ -844,7 +844,7 @@
       "question": "O recuo da hélice é traduzido como a diferença entre o/a:",
       "options": {
         "A": "passo real e o passo efetivo,",
-        "B": "passo te´rico e o passo efetivo,",
+        "B": "passo teórico e o passo efetivo,",
         "C": "potência útil e potência nominal,",
         "D": "potência efetiva e potência nominal."
       },
@@ -1094,12 +1094,12 @@
     },
     {
       "number": 100,
-      "question": "Para que uma ACFT possa manter o vôo em curva sem variar a altitude, é necessário:",
+      "question": "Para que uma aeronave possa manter o vôo em curva sem variar a altitude, é necessário:",
       "options": {
         "A": "que a sustentação diminua,",
         "B": "compensar a força centrípeta,",
         "C": "manter a mesma potência do vôo reto e nivelado,",
-        "D": "que a sustentação seja maior que o peso da ACFT."
+        "D": "que a sustentação seja maior que o peso da aeronave."
       },
       "correct": "D"
     },
@@ -1413,7 +1413,7 @@
     },
     {
       "number": 129,
-      "question": "O acelerômetro seve para medir o/a:",
+      "question": "O acelerômetro serve para medir o/a:",
       "options": {
         "A": "carga, nas curvas,",
         "B": "aumento da potência,",
@@ -1494,7 +1494,7 @@
       "options": {
         "A": "sustentação e o peso,",
         "B": "peso e a sustentação,",
-        "C": "carga ala e a sustentação,",
+        "C": "carga alar e a sustentação,",
         "D": "sustentação e a carga alar."
       },
       "correct": "A"
@@ -1556,7 +1556,7 @@
     },
     {
       "number": 142,
-      "question": "Num plane com uma aeronave leve de instrução os flapes são usados para:",
+      "question": "Num avião com uma aeronave leve de instrução os flapes são usados para:",
       "options": {
         "A": "aumentar a velocidade,",
         "B": "reduzir a razão de descida,",
@@ -1569,7 +1569,7 @@
       "number": 143,
       "question": "Em sua função normal, o Spoiler é utilizado no/na:",
       "options": {
-        "A": "planê,",
+        "A": "planeio,",
         "B": "palier,",
         "C": "arredondamento,",
         "D": "corrida do pouso."
@@ -1605,7 +1605,7 @@
         "A": "flape,",
         "B": "spoiler,",
         "C": "leme de direção,",
-        "D": "aileron tipo frise. Sua resposta: d. Alternativa correta: c"
+        "D": "aileron tipo frise."
       },
       "correct": "C"
     },
@@ -1659,8 +1659,8 @@
       "options": {
         "A": "aumento da pressão, vento de proa, pista em aclive,",
         "B": "aumento da altitude, pista em declive, vento de proa,",
-        "C": "aumento da densidade, pista em decline, vento de proa,",
-        "D": "aumento da temperatura, pista em declive, vento de proa. Sua resposta: d. Alternativa correta: c"
+        "C": "aumento da densidade, pista em declive, vento de proa,",
+        "D": "aumento da temperatura, pista em declive, vento de proa."
       },
       "correct": "C"
     }
