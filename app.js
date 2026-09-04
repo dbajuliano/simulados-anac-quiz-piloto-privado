@@ -10,16 +10,16 @@ async function init(){
     catalog=await response.json();
     if(!catalog || !Array.isArray(catalog.materials)) throw new Error("Catálogo inválido");
     $("materials").innerHTML=catalog.materials.map(m=>{
-      const rubens=m.id==="rubens-pa";
+      const special=m.subjects.length===1;
       return `
-    <section class="material-panel ${rubens?"special-panel":""}">
+    <section class="material-panel ${special?"special-panel":""}">
       <div class="material-panel-header">
         <div>
-          ${rubens?`<h2>Simulado de testes para PP - ANAC - by Rubens P.A.</h2>`:`<span class="eyebrow">MATERIAL PRINCIPAL</span><h2>${m.name}</h2>`}
+          ${special?`<h2>${m.name}</h2>${m.subtitle?`<p class="material-subtitle">${m.subtitle}</p>`:""}`:`<span class="eyebrow">MATERIAL PRINCIPAL</span><h2>${m.name}</h2>`}
         </div>
-        <a class="source-link" href="${m.sourceUrl}" target="_blank" rel="noopener">${rubens?"Fonte do PDF →":"Fonte dos PDFs →"}</a>
+        <a class="source-link" href="${m.sourceUrl}" target="_blank" rel="noopener">${special?"Fonte do PDF →":"Fonte dos PDFs →"}</a>
       </div>
-      ${rubens?`<div class="special-action"><button class="card special-card" onclick="showSets('${m.subjects[0].id}')"><h3>Regulamentos e Tráfego</h3><p>173 questões</p></button></div>`:`<div class="cards">${m.subjects.map(s=>
+      ${special?`<div class="special-action"><button class="card special-card" onclick="showSets('${m.subjects[0].id}')"><h3>${m.subjects[0].name}</h3><p>${m.id==="rubens-pa"?"173":"150"} questões</p></button></div>`:`<div class="cards">${m.subjects.map(s=>
         `<button class="card" onclick="showSets('${s.id}')"><h3>${s.name}</h3><p>${({"teoria-de-voo":"151 questões","regulamento-de-trafego":"153 questões","navegacao-aerea":"97 questões","meteorologia":"160 questões","conhecimentos-tecnicos-e-motores":"150 questões"}[s.id]||"")}</p></button>`
       ).join("")}</div>`}
     </section>`;

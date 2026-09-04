@@ -14,8 +14,7 @@ https://dbajuliano.github.io/simulados-anac-quiz-piloto-privado/
 ## Materiais
 
 ### 600 questões ANAC
-
-Fonte dos PDFs:  
+Fonte dos PDFs:
 https://drive.google.com/drive/folders/1Ood32iK22aoc2M_XGVKGWJOpwyz_wpHs
 
 - Teoria de Voo — 151 questões
@@ -24,16 +23,14 @@ https://drive.google.com/drive/folders/1Ood32iK22aoc2M_XGVKGWJOpwyz_wpHs
 - Meteorologia — 160 questões
 - Conhecimentos Técnicos e Motores — 150 questões
 
-### Simulado de testes para PP - ANAC - by Rubens P.A.
-
-Fonte do PDF:  
+### Simulado Regulamentos e Tráfego Aéreo by Rubens P.A.
+Fonte do PDF:
 https://drive.google.com/drive/folders/1ywyyutJMkUGZXwU02W4B2botkeoDU7x-
 
-- Regulamentos e Tráfego — 173 questões
-- Autor indicado no PDF: Rubens P. A.
+- Regulamentos e Tráfego Aéreo — 173 questões
+- Autor indicado no PDF: Paulo Rubens / Rubens P. A.
 
 ## Sobre
-
-Site estático para GitHub Pages.  
-Tecnologia: HTML, CSS, JavaScript e JSON; não há banco de dados.  
+Site estático para GitHub Pages.
+Tecnologia: HTML, CSS, JavaScript e JSON; não há banco de dados.
 Feito por IA usando ChatGPT.

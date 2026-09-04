@@ -35,7 +35,7 @@
     },
     {
       "id": "rubens-pa",
-      "name": "Regulamentos e Tráfego Aéreo",
+      "name": "Simulado de testes para PP - ANAC - by Rubens P.A.",
       "sourceLabel": "Fonte PDF",
       "sourceUrl": "https://drive.google.com/drive/folders/1ywyyutJMkUGZXwU02W4B2botkeoDU7x-",
       "subjects": [
@@ -43,6 +43,21 @@
           "id": "regulamentos-e-trafego-rubens-pa",
           "name": "Regulamentos e Tráfego",
           "file": "data/regulamentos-e-trafego-rubens-pa.json"
+        }
+      ]
+    },
+    {
+      "id": "comoserpiloto-ctm",
+      "name": "Prova de Conhecimentos Técnicos e Motores",
+      "sourceLabel": "Fonte PDF",
+      "sourceUrl": "https://drive.google.com/drive/folders/1ywyyutJMkUGZXwU02W4B2botkeoDU7x-",
+      "authorUrl": "https://comoserpiloto.com/",
+      "subtitle": "150 questões · 8 seções",
+      "subjects": [
+        {
+          "id": "prova-conhecimentos-tecnicos-e-motores",
+          "name": "Prova de Conhecimentos Técnicos e Motores",
+          "file": "data/prova-conhecimentos-tecnicos-e-motores-comoserpiloto.json"
         }
       ]
     }
