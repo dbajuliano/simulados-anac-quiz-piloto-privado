@@ -15,11 +15,11 @@ async function init(){
     <section class="material-panel ${rubens?"special-panel":""}">
       <div class="material-panel-header">
         <div>
-          ${rubens?`<h2>${m.name}</h2><p class="material-subtitle">Simulado de Rubens P.A. · 173 questões · 9 seções</p>`:`<span class="eyebrow">MATERIAL PRINCIPAL</span><h2>${m.name}</h2>`}
+          ${rubens?`<h2>SIMULADO DE TESTES PARA PP - ANAC - by Rubens P.A.</h2>`:`<span class="eyebrow">MATERIAL PRINCIPAL</span><h2>${m.name}</h2>`}
         </div>
         <a class="source-link" href="${m.sourceUrl}" target="_blank" rel="noopener">${rubens?"Fonte do PDF →":"Fonte dos PDFs →"}</a>
       </div>
-      ${rubens?`<div class="special-action"><button class="card special-card" onclick="showSets('${m.subjects[0].id}')"><h3>Começar simulado →</h3><p>30 minutos por seção</p></button></div>`:`<div class="cards">${m.subjects.map(s=>
+      ${rubens?`<div class="special-action"><button class="card special-card" onclick="showSets('${m.subjects[0].id}')"><h3>Regulamentos e Tráfego</h3><p>173 questões</p></button></div>`:`<div class="cards">${m.subjects.map(s=>
         `<button class="card" onclick="showSets('${s.id}')"><h3>${s.name}</h3><p>${({"teoria-de-voo":"151 questões","regulamento-de-trafego":"153 questões","navegacao-aerea":"97 questões","meteorologia":"160 questões","conhecimentos-tecnicos-e-motores":"150 questões"}[s.id]||"")}</p></button>`
       ).join("")}</div>`}
     </section>`;
