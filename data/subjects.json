@@ -48,11 +48,10 @@
     },
     {
       "id": "comoserpiloto-ctm",
-      "name": "Prova de Conhecimentos Técnicos e Motores",
+      "name": "Simulado como Ser Piloto",
       "sourceLabel": "Fonte PDF",
       "sourceUrl": "https://drive.google.com/drive/folders/1ywyyutJMkUGZXwU02W4B2botkeoDU7x-",
       "authorUrl": "https://comoserpiloto.com/",
-      "subtitle": "150 questões · 8 seções",
       "subjects": [
         {
           "id": "prova-conhecimentos-tecnicos-e-motores",
