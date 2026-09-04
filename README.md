@@ -23,12 +23,12 @@ https://drive.google.com/drive/folders/1Ood32iK22aoc2M_XGVKGWJOpwyz_wpHs
 - Meteorologia — 160 questões
 - Conhecimentos Técnicos e Motores — 150 questões
 
-### Simulado Regulamentos e Tráfego Aéreo by Rubens P.A.
+### Simulado Regulamentos e Tráfego by Rubens P.A.
 Fonte do PDF:
 https://drive.google.com/drive/folders/1ywyyutJMkUGZXwU02W4B2botkeoDU7x-
 
 - Regulamentos e Tráfego Aéreo — 173 questões
-- Autor indicado no PDF: Paulo Rubens / Rubens P. A.
+- Autor indicado no PDF: Rubens P. A.
 
 ## Sobre
 Site estático para GitHub Pages.
