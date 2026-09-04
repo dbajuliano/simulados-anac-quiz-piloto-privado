@@ -42,7 +42,7 @@ async function showSets(subjectId){
   const response=await fetch(subject.file,{cache:"no-store"});
   if(!response.ok) throw new Error(`Falha ao carregar ${subject.file}: HTTP ${response.status}`);
   data=await response.json();
-  $("subjectTitle").textContent=data.subject;
+  $("subjectTitle").textContent=subject.name;
   $("setCards").innerHTML=data.sections.map(s=>{
     const n=s.to-s.from+1;
     return `<button class="card" onclick="startSet(${s.id})"><h3>${s.name}</h3><p>Questões ${s.from}–${s.to} · ${n} questões · 30 minutos</p></button>`;
