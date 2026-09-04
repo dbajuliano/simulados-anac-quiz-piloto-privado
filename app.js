@@ -15,7 +15,7 @@ async function init(){
     <section class="material-panel ${rubens?"special-panel":""}">
       <div class="material-panel-header">
         <div>
-          ${rubens?`<h2>SIMULADO DE TESTES PARA PP - ANAC - by Rubens P.A.</h2>`:`<span class="eyebrow">MATERIAL PRINCIPAL</span><h2>${m.name}</h2>`}
+          ${rubens?`<h2>SSimulado de testes para PP - ANAC - by Rubens P.A.</h2>`:`<span class="eyebrow">MATERIAL PRINCIPAL</span><h2>${m.name}</h2>`}
         </div>
         <a class="source-link" href="${m.sourceUrl}" target="_blank" rel="noopener">${rubens?"Fonte do PDF →":"Fonte dos PDFs →"}</a>
       </div>
