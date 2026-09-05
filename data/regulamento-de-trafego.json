@@ -932,7 +932,7 @@
       "question": "O ESPAÇO AÉREO SUPERIOR começa no ____________ e termina no _________________.",
       "options": {
         "A": "solo ou água, FL 245, ",
-        "B": "FL 245 exclusive, ilimitado,+,",
+        "B": "FL 245 exclusive, ilimitado",
         "C": "solo ou água, FL 245 inclusive,",
         "D": "FL 245 inclusive; ilimitado. "
       },
@@ -976,7 +976,7 @@
       "question": "São permitidos vôos IFR e VFR, todos os vôos estão sujeitos ao serviço de controle de tráfego aéreo e são separados entre si. Nos referimos ao espaço classe:",
       "options": {
         "A": "A,",
-        "B": "B,+,",
+        "B": "B,",
         "C": "C,",
         "D": "D. "
       },
