@@ -1151,7 +1151,7 @@
     },
     {
       "number": 105,
-      "question": "No nível de transição ocorrerá a troca do ajuste de altímetro:",
+      "question": "No nível de transição para pouso ocorrerá a troca do ajuste de altímetro:",
       "options": {
         "A": "de QNE para QNH",
         "B": "de QNH para QNE",
@@ -1180,7 +1180,7 @@
         "C": "ATC / AFIS / FIS",
         "D": "ACC / APP / TWR"
       },
-      "correct": "C"
+      "correct": "D"
     },
     {
       "number": 108,
@@ -1202,7 +1202,7 @@
         "C": "19:15Z",
         "D": "20:35Z"
       },
-      "correct": "D"
+      "correct": "B"
     },
     {
       "number": 110,
