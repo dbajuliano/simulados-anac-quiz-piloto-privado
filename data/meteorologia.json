@@ -1714,7 +1714,7 @@
       "options": {
         "A": "aeródromo e válido,",
         "B": "navegação e válido,",
-        "C": "validade e regional," 
+        "C": "validade e regional,",
         "D": "operação e divulgado."
       },
       "correct": "A"
