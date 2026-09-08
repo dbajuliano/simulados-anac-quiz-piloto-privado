@@ -5,7 +5,7 @@
   "questions": [
     {
       "number": 1,
-      "question": "A peça que efetua a explosão dos gases queimados, é o:",
+      "question": "A peça que efetua a expansão dos gases queimados é o:",
       "options": {
         "A": "pistão,",
         "B": "defletor,",
@@ -291,7 +291,7 @@
     },
     {
       "number": 27,
-      "question": "As propriedades dos giroscópios, usadas nos instrumentos de navegação, sÃo:",
+      "question": "As propriedades dos giroscópios, usadas nos instrumentos de navegação, são:",
       "options": {
         "A": "inércia e pressão,",
         "B": "precessão e pressão,",
@@ -753,7 +753,7 @@
     },
     {
       "number": 69,
-      "question": "O óleo lubrificante que penetra na câmara de combustÃo dos cilindros:",
+      "question": "O óleo lubrificante que penetra na câmara de combustão dos cilindros:",
       "options": {
         "A": "é queimado,",
         "B": "sai pela descarga,",
@@ -808,7 +808,7 @@
     },
     {
       "number": 74,
-      "question": "Os motores aeronáuticos apresentam a elevada potência:",
+      "question": "Os motores aeronáuticos apresentam:",
       "options": {
         "A": "elevada potência,",
         "B": "grande massa,",
@@ -1143,7 +1143,7 @@
         "A": "PRIMER,",
         "B": "Seletora,",
         "C": "Fluxômetro,",
-        "D": "Liquidometro."
+        "D": "Liquidômetro."
       },
       "correct": "D"
     },
@@ -1407,9 +1407,9 @@
         "A": "bordo,",
         "B": "dorso,",
         "C": "ponta da asa,",
-        "D": "ventre da asa. Sua resposta: c. Alternativa correta: b"
+        "D": "ventre da asa."
       },
-      "correct": "D"
+      "correct": "B"
     },
     {
       "number": 129,
@@ -1420,7 +1420,7 @@
         "C": "nêutron,",
         "D": "elétron."
       },
-      "correct": "A"
+      "correct": "D"
     },
     {
       "number": 130,
@@ -1431,7 +1431,7 @@
         "C": "regular,",
         "D": "nula."
       },
-      "correct": "C"
+      "correct": "A"
     },
     {
       "number": 131,
@@ -1633,9 +1633,9 @@
     },
     {
       "number": 149,
-      "question": "O dispositivo que transforma energia mecânica em alternada chama-se:",
+      "question": "O dispositivo que transforma energia mecânica em corrente alternada chama-se:",
       "options": {
-        "A": "Inversor",
+        "A": "inversor.",
         "B": "Retificador",
         "C": "Comutador",
         "D": "Transformador"

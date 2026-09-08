@@ -5,7 +5,7 @@
   "questions": [
     {
       "number": 1,
-      "question": "As ondas hertezianas de rádio são refletidas na:",
+      "question": "As ondas hertzianas de rádio são refletidas na:",
       "options": {
         "A": "ionosfera,",
         "B": "troposfera,",
@@ -93,7 +93,7 @@
     },
     {
       "number": 9,
-      "question": "Elementos sólidos microscópios em suspensão são conhecidos como núcleos:",
+      "question": "Elementos sólidos microscópicos em suspensão são conhecidos como núcleos:",
       "options": {
         "A": "latente,",
         "B": "partículas,",
@@ -219,7 +219,7 @@
         "A": "sublimação,",
         "B": "congelação,",
         "C": "condensação,",
-        "D": "coalescênsia."
+        "D": "coalescência."
       },
       "correct": "D"
     },
@@ -500,7 +500,7 @@
     },
     {
       "number": 46,
-      "question": "Em um aeródromo existem cumulus com base à 1500m e a temperatura da base é o de 7º C. Sabendo-se que o topo encontra-se à 2500m, qual a temperatura do topo da nuvem?",
+      "question": "Em um aeródromo existem cumulus com base a 1500 m e a temperatura da base é de 7º C. Sabendo-se que o topo encontra-se a 2500 m, qual a temperatura do topo da nuvem?",
       "options": {
         "A": "0,6°C,",
         "B": "0,8°C,",
@@ -546,7 +546,7 @@
       "number": 50,
       "question": "As nuvens que apresentam desenvolvimento vertical são denominadas:",
       "options": {
-        "A": "mistas,",
+        "A": "cumuliformes.",
         "B": "sólidas,",
         "C": "líquidas,",
         "D": "formadas por cristais."
@@ -760,7 +760,7 @@
         "C": "de advecção,",
         "D": "de radiação."
       },
-      "correct": "C"
+      "correct": "D"
     },
     {
       "number": 70,
@@ -1195,7 +1195,7 @@
       "number": 109,
       "question": "Ventos descendentes a sotavento, com aquecimento adiabático é conhecido como efeito de:",
       "options": {
-        "A": "fohen,",
+        "A": "foehn.",
         "B": "pascoal,",
         "C": "coriólis,",
         "D": "buys ballot."
@@ -1453,7 +1453,7 @@
         "C": "gelo tipo escarcha,",
         "D": "gelo leve tipo claro."
       },
-      "correct": "B"
+      "correct": "D"
     },
     {
       "number": 133,
@@ -1580,7 +1580,7 @@
       "number": 144,
       "question": "No METAR SBRJ 151800Z 17008 9999 FEW010 SCT020 BK030 26/20 Q1016=, no grupo de nuvens há informação que há na primeira camada de:",
       "options": {
-        "A": "3 à 4/8,",
+        "A": "3 a 4/8,",
         "B": "1 à 2/8,",
         "C": "7 à 8/8,",
         "D": "2 à 5/8."
@@ -1593,7 +1593,7 @@
       "options": {
         "A": "chuva moderada,",
         "B": "visibilidade com 4000 pés,",
-        "C": "abóboda celeste encoberta,",
+        "C": "abóbada celeste encoberta,",
         "D": "pressão ao nível da pista, 1013 HPA."
       },
       "correct": "C"
@@ -1721,7 +1721,7 @@
     },
     {
       "number": 157,
-      "question": "Conforme o prognóstico em anexo, o sistema ciclônica está previsto com:",
+      "question": "Conforme o prognóstico em anexo, o sistema ciclônico está previsto com:",
       "options": {
         "A": "1004 HPA,",
         "B": "1024 HPA,",
@@ -1754,7 +1754,7 @@
     },
     {
       "number": 160,
-      "question": "O responsável pela confecção e transmição do AIREP é o :",
+      "question": "O responsável pela confecção e transmissão do AIREP é o:",
       "options": {
         "A": "Operador do órgão de trafego aéreo",
         "B": "Comandante da ACFT",

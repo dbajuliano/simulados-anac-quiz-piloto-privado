@@ -51,7 +51,7 @@
     },
     {
       "number": 5,
-      "question": "Um aeródromo ficou interditado entre 10:55Z e 12:15Z, um plano de voo apresentado as 10:00Z, e com hora estimada de calços fora para as 11:00Z, tem sua validade até as:",
+      "question": "Um aeródromo ficou interditado entre 10:55Z e 12:15Z. Um plano de voo apresentado às 10:00Z, e com hora estimada de calços fora para as 11:00Z, tem sua validade até as:",
       "options": {
         "A": "11:45Z",
         "B": "13:00Z",
@@ -176,7 +176,7 @@
       "options": {
         "A": "em voo de aeronave em missão SAR",
         "B": "antes de ser realizado voo IFR",
-        "C": "em voo VFR, cuja decolagem seja realizada de aeródromo desprovido de órgão até que haja possibilidade de estabelecer comunicação com um órgão ATS I apresentação do AFIL",
+        "C": "em voo VFR, cuja decolagem seja realizada de aeródromo desprovido de órgão ATS até que haja possibilidade de estabelecer comunicação com um órgão ATS e apresentação do AFIL",
         "D": "em voo VFR de aeronave que não disponha de equipamento rádio, desde que a decolagem seja realizada de aeródromo desprovido de órgão ATS e a aeronave cruze fronteiras internacionais."
       },
       "correct": "B"
@@ -733,7 +733,7 @@
     },
     {
       "number": 67,
-      "question": "Uma aeronave que irá realizar um voo VFR, com o EOBT as 18:45Z, deverá ter o plano voo apresentado no máximo até as:",
+      "question": "Uma aeronave que irá realizar um voo VFR, com o EOBT às 18:45Z, deverá ter o plano de voo apresentado no máximo até as:",
       "options": {
         "A": "18:00Z",
         "B": "18:15Z",
@@ -1195,7 +1195,7 @@
     },
     {
       "number": 109,
-      "question": "Uma aeronave cujo horário da EOBT e 20:00Z, deseja alterar este horário para as 23:30Z, portanto, o horário limite para a notificação do atraso junto à sala AIS é:",
+      "question": "Uma aeronave cujo horário da EOBT é 20:00Z, deseja alterar este horário para as 23:30Z, portanto, o horário limite para a notificação do atraso junto à sala AIS é:",
       "options": {
         "A": "00:15Z",
         "B": "20:45Z",
@@ -1536,7 +1536,7 @@
     },
     {
       "number": 140,
-      "question": "Um aeródromo ficou interditado entre 06:00Z e 07:30Z, um plano de voo apresentado as 05:15Z, e com hora estimada de calços fora para as 06:30Z, tem sua validade até as:",
+      "question": "Um aeródromo ficou interditado entre 06:00Z e 07:30Z. Um plano de voo apresentado às 05:15Z, e com hora estimada de calços fora para as 06:30Z, tem sua validade até as:",
       "options": {
         "A": "07:30Z",
         "B": "08:15Z",

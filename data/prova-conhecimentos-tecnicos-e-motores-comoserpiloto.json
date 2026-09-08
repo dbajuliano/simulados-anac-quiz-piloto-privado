@@ -1410,9 +1410,9 @@
         "A": "bordo,",
         "B": "dorso,",
         "C": "ponta da asa,",
-        "D": "ventre da asa. Sua resposta: c. Alternativa correta: b"
+        "D": "ventre da asa."
       },
-      "correct": "D"
+      "correct": "B"
     },
     {
       "number": 129,
@@ -1707,5 +1707,5 @@
       "to": 150
     }
   ],
-  "sourceNotes": "Respostas extraídas das alternativas em negrito e itálico do PDF. Nas questões 129–131, o PDF anexado não preserva essa formatação; as respostas foram resolvidas pelo conteúdo das questões (D, A e C, respectivamente). A questão 128 contém no próprio PDF a indicação “Alternativa correta: b”, em conflito com a alternativa em negrito/itálico; foi mantida a alternativa em negrito/itálico (D), conforme o critério informado para este material."
+  "sourceNotes": "Respostas extraídas das alternativas em negrito e itálico do PDF. Nas questões 129–131, o PDF anexado não preserva essa formatação; as respostas foram resolvidas pelo conteúdo das questões (D, A e C, respectivamente). Na questão 128, o próprio PDF informa explicitamente “Sua resposta: c. Alternativa correta: b”; portanto, a resposta correta foi definida como B."
 }

@@ -494,7 +494,7 @@
         "A": "0º,",
         "B": "45º,",
         "C": "60º,",
-        "D": "90º."
+        "D": "negativo."
       },
       "correct": "D"
     },
@@ -548,7 +548,7 @@
       "options": {
         "A": "aumento de velocidade,",
         "B": "diminuição de velocidade,",
-        "C": "deslocamento do aerofólio,",
+        "C": "desprendimento do escoamento sobre o aerofólio.",
         "D": "acréscimo do atrito com o aerofólio."
       },
       "correct": "C"
@@ -602,7 +602,7 @@
       "question": "A especificação NACA-0012, indica que no aerofólio:",
       "options": {
         "A": "o perfil é simétrico, indicado pelo \"00\",",
-        "B": "a razão de fineza está situada a 25% da corda média,",
+        "B": "o perfil é simétrico, sem curvatura média.",
         "C": "o 12 indica a espessura ( razão de fineza), em porcentagem da corda,",
         "D": "todas as alternativas anteriores são corretas."
       },
@@ -969,7 +969,7 @@
         "C": "igual ao peso,",
         "D": "não existe relação."
       },
-      "correct": "B"
+      "correct": "A"
     },
     {
       "number": 89,
@@ -1039,7 +1039,7 @@
     },
     {
       "number": 95,
-      "question": "Quando aumenta a área de fuma aeronave, o maior ângulo de subida é:",
+      "question": "Quando aumenta a área da asa, o maior ângulo de subida é:",
       "options": {
         "A": "igual,",
         "B": "maior,",
@@ -1365,7 +1365,7 @@
         "C": "permanece constante,",
         "D": "dependerá da pressão atmosférica."
       },
-      "correct": "B"
+      "correct": "A"
     },
     {
       "number": 125,
@@ -1655,7 +1655,7 @@
     },
     {
       "number": 151,
-      "question": "Os fatores que aumentam o PMD são:",
+      "question": "Os fatores que aumentam o PMB são:",
       "options": {
         "A": "aumento da pressão, vento de proa, pista em aclive,",
         "B": "aumento da altitude, pista em declive, vento de proa,",

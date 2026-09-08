@@ -71,7 +71,7 @@
     },
     {
       "number": 7,
-      "question": "O nível de vôo de uma ACFT é dado pela distância vertical, medida a partir do/da::",
+      "question": "O nível de vôo de uma ACFT é dado pela distância vertical, medida a partir do:",
       "options": {
         "A": "superfície terrestre,",
         "B": "aeródromo sobrevoado,",
@@ -82,7 +82,7 @@
     },
     {
       "number": 8,
-      "question": "A altitude de um avião lida num altímetro quando este está ajustado para 29.92 POL ou 1013.hPa, chama-se altitude:",
+      "question": "A altitude de um avião lida num altímetro quando este está ajustado para 29.92 POL ou 1013.2 hPa, chama-se altitude:",
       "options": {
         "A": "pressão,",
         "B": "absoluta,",
@@ -203,7 +203,7 @@
     },
     {
       "number": 19,
-      "question": "As projeções que tem o ponto de origem das linhas de projeção no centro da Terra chama-se:",
+      "question": "As projeções que têm o ponto de origem das linhas de projeção no centro da Terra chamam-se:",
       "options": {
         "A": "azimutais,",
         "B": "gnomônicas,",
@@ -258,7 +258,7 @@
     },
     {
       "number": 24,
-      "question": "As projeções cujo ponto de tangência se encontra sobre o Equador chamam-se::",
+      "question": "As projeções cujo ponto de tangência se encontra sobre o Equador chamam-se:",
       "options": {
         "A": "polares,",
         "B": "oblíquas,",
@@ -397,7 +397,7 @@
         "C": "Paralelo de latitude,",
         "D": "Meridiano de Greenwich."
       },
-      "correct": "B"
+      "correct": "C"
     },
     {
       "number": 37,
@@ -507,7 +507,7 @@
         "C": "Anti-meridiano,",
         "D": "Co-latitude."
       },
-      "correct": "D"
+      "correct": "A"
     },
     {
       "number": 47,
@@ -599,7 +599,7 @@
     },
     {
       "number": 55,
-      "question": "Para as localidades que estejam do lado Leste, a hora Legal em relação a ITC, é:",
+      "question": "Para as localidades que estejam do lado Leste, a hora Legal em relação à UTC é:",
       "options": {
         "A": "a mesma,",
         "B": "mais cedo,",
