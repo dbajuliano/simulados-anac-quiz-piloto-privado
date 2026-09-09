@@ -43,7 +43,7 @@ Feito por IA usando ChatGPT.
 ### Regulamentos e Tráfego — Simulado Rubens P.A.
 - **Q107:** gabarito corrigido de **C para D**, conforme a versão revisada do material.
 - **Q109:** gabarito corrigido de **D para B**, conforme a versão revisada do material.
-- **Q143:** gabarito corrigido para “para pousar”.
+- **Q143:** gabarito corrigido de **B para C**, conforme a versão revisada do material.
 
 ### Observação sobre os gabaritos
 
