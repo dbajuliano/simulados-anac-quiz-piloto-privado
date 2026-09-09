@@ -43,7 +43,7 @@ Feito por IA usando ChatGPT.
 ### Regulamentos e Tráfego — Simulado Rubens P.A.
 - **Q107:** gabarito corrigido de **C para D**, conforme a versão revisada do material.
 - **Q109:** gabarito corrigido de **D para B**, conforme a versão revisada do material.
-- **Q143:** **gabarito original identificado como incorreto**. Para a aeronave na **posição crítica nº 4**, a autorização correspondente é **“para pousar”**. A correção ainda deverá ser aplicada ao JSON na próxima atualização.
+- **Q143:** gabarito corrigido para “para pousar”.
 
 ### Observação sobre os gabaritos
 
